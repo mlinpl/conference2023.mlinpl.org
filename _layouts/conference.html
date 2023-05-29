@@ -1,14 +1,24 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
-    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-    {% include conference/nav.html %}
-    {% include conference/header.html %}
+{% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    {% include nav.html %}
+    {% include header.html %}
     {% include conference/about.html %}
-    {% include conference/timeline.html %}
+    {% include timeline.html 
+        timeline-title="Timeline" 
+        timeline-data=site.data.timeline 
+        timeline-col-width=8 
+        image-col-width=4 
+        date-col-width=4
+        desc-col-width=8
+    %}
+    <!-- {% include conference/sponsors.html %} -->
     {% include conference/organizers.html %}
+    {% include conference/scientific-board.html %}
     {% include contact.html %}
     {% include footer.html %}
     {% include js.html %}
-    </body>
+</body>
 </html>

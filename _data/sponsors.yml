@@ -1,0 +1,47 @@
+strategic:
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+
+platinum:
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+
+gold:
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+
+silver:
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: 
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+
+partner:
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: "https://mlinpl.org"
+  - image: "./images/institutions-logos/logo-mlinpl.svg"
+    link: 
+
+patronage:
+  - image: "https://conference2022.mlinpl.org/wp-content/uploads/2022/10/UW.png"
+    link: "https://mlinpl.org"
+  - image: "https://conference2022.mlinpl.org/wp-content/uploads/2022/10/MIMUW.png"
+    link: "https://mlinpl.org"
