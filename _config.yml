@@ -54,19 +54,14 @@ navigation:
   - name: "/ Timeline"
     url: "#timeline"
 
-  - name: "/ Sponsors"
-    url: "#sponsors"
-
-  - name: "/ Partners"
-    url: "#partners"
-
   - name: "/ Organizers"
     url: "#organizers"
-    subsites:
-      - name: "/ Scientific Board"
-        url: "#scientific_board"
-      - name: "/ Contact"
-        url: "#contact"    
+
+  - name: "/ Scientific Board"
+    url: "#scientific_board"
+
+  - name: "/ Contact"
+    url: "#contact"    
 
 
 # Defaults for different pages
