@@ -7,11 +7,17 @@ mlinpl-inline-logo: <span class="logo"><span class="main-name">ML <span class="e
 
 We are excited to invite you to submit proposals for **contributed talks and posters** for **{{ page.mlinpl-inline-logo }}** and **Student Research Workshop** that will be organized 26 - 29 October 2023. 
 
-{% comment %}
-<a href="https://cfc2023.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-list"></i> Submit your talk/poster proposal</a>
-<a href="{{ "./cfc-terms-and-conditions" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Terms and conditions of CfC</a>
-<a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Privacy policy</a>
-{% endcomment %}
+<ul class="list-inline banner-social-buttons">
+    <li>
+        <a href="https://cfc2023.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-list"></i> Submit your talk/poster proposal</a>
+    </li>
+    <li>
+        <a href="{{ "./cfc-terms-and-conditions" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Terms and conditions of CfC</a>
+    </li>
+    <li>
+        <a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Privacy policy</a>
+    </li>
+</ul>
 
 ---
 
@@ -25,9 +31,10 @@ We aim at providing a forum for discussing recent advances from the possible bro
 3. **Reinforcement Learning**: Bandits, Decision and Control, Exploration, Hierarchical RL, Markov Decision Processes, Multi-Agent RL, Navigation, Planning, etc.
 4. **Probabilistic Methods**: Bayesian methods, Causal Inference, Gaussian Processes, Graphical Models, etc.
 5. **Applications of Machine Learning**: Audio and Speech Processing, Computational Biology, Computer Vision, Natural Language Processing, Robotics, Neuroscience, Physics, Social Good, etc.
-6. **Social Aspects of Machine Learning**: Accountability, AI Ethics, AI Safety, Causality, Explainability, Biased Data, Fairness, Privacy, Robustness, and Safety, etc.
-7. **Technical Solutions and Machine Learning Resources**: Architectures, Competitions, Data Sets, and Repositories, Distributed Machine Learning, Implementations, Software Toolkits, etc.
-8. **Machine Learning Stories**: Interesting and insightful competitions, projects and start-up stories!
+6. **Social Aspects of Machine Learning**: Accountability, AI Ethics, AI Safety, Causality, Biased Data, Fairness, Privacy, Robustness, and Safety, etc.
+7. **Explainable Machine Learning**: Interpretability and Explainability of Machine Learning Models, Methods for Understanding and Explaining Model Decisions, Techniques for Building Transparent and Understandable AI Systems, Human-AI Interaction, etc.
+8. **Technical Solutions and Machine Learning Resources**: Architectures, Competitions, Data Sets, and Repositories, Distributed Machine Learning, Implementations, Software Toolkits, etc.
+9. **Machine Learning Stories**: Interesting and insightful competitions, projects and start-up stories!
 
 The talks will have a length of 20 minutes + 5 minutes for questions for contributed talks at Main Conference and 15 minutes + 5 minutes for questions for the Student Research Workshop. To participate in Call for Contributions, we ask you to provide the title of your talk/poster proposal, abstract up to 300 words, preference towards talk or poster, short bio, a photo and list of your previous talks. Talks and posters should be in English. The submission deadline is 1 September 2023. With the help of the Contributions Committee, we will select the best proposals. 
 
@@ -48,7 +55,7 @@ All accepted talks and posters will be presented during the Main Conference (or 
 
 - 1 June: Call for Contributions (Talks and Posters) open
 - 1 September (AoW): Call for Contributions submissions deadline
-- 15 September - Talks and posters acceptance notifications
+- 7 September: Talks and posters acceptance notifications
 - 26 October: Student Research Workshop
 - 26 - 29 October: Main Conference
 
@@ -60,10 +67,16 @@ The best talks and posters from the Main Conference will be awarded with gift ca
 
 ## Submit your talk/poster proposal
 
-{% comment %}
-<a href="https://cfc2023.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-list"></i> Submit your talk/poster proposal</a>
-<a href="{{ "./cfc-terms-and-conditions" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Terms and conditions of CfC</a>
-<a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Privacy policy</a>
-{% endcomment %}
+<ul class="list-inline banner-social-buttons">
+    <li>
+        <a href="https://cfc2023.paperform.co/" class="btn btn-default btn-lg"><i class="fa-solid fa-list"></i> Submit your talk/poster proposal</a>
+    </li>
+    <li>
+        <a href="{{ "./cfc-terms-and-conditions" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Terms and conditions of CfC</a>
+    </li>
+    <li>
+        <a href="{{ "./privacy-policy" | relative_url }}" class="btn btn-default"><i class="fa-solid fa-file-lines"></i> Privacy policy</a>
+    </li>
+</ul>
 
 You can contact us at <a href="mailto:contributions@conference.mlinpl.org">contributions@conference.mlinpl.org</a> in case you have any questions regarding Call for Contributions.
