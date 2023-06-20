@@ -48,20 +48,27 @@ navigation:
   - name: "/ About"
     url: "#about"
 
-  - name: "/ Call for Contributions"
-    url: "/call-for-contributions"
+  - name: "/ Program"
+    url: "#speakers"
+    subsites:
+      - name: "/ Call for Contributions"
+        url: "/call-for-contributions"
+      - name: "/ Invited speakers"
+        url: "#invited-speakers"
 
   - name: "/ Timeline"
     url: "#timeline"
 
+  - name: "/ Sponsors & partners"
+    url: "#sponsors"
+
   - name: "/ Organizers"
     url: "#organizers"
-  
-  - name: "/ Scientific Board"
-    url: "#scientific_board"
-
-  - name: "/ Contact"
-    url: "#contact"    
+    subsites:
+      - name: "/ Scientific Board"
+        url: "#scientific_board"
+      - name: "/ Contact"
+        url: "#contact"    
 
 
 # Defaults for different pages
