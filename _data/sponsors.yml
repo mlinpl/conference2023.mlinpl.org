@@ -27,7 +27,7 @@
       url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
     - name: KNUM
       image: "./images/partner-logos-600x600/KNUM.webp"
-      url: "https://mlinpl.org"
+      url: "https://knum.mimuw.edu.pl/"
     - name: Machine Learning Prague
       image: "./images/partner-logos-600x600/MachineLearningPrague.webp"
       url: "https://mlprague.com/"
