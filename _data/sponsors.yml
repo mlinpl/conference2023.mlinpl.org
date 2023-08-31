@@ -34,12 +34,12 @@
     - name: "Ghost Day: Applied Machine Learning Conference"
       image: "images/optimized/partners-600x600/GhostDay.webp"
       url: "https://ghostday.pl"
-    - name: GMUM
-      image: "images/optimized/partners-600x600/gmum.webp"
-      url: https://gmum.net/
     - name: Group of Horribly Optimistic STatisticians
       image: "images/optimized/partners-600x600/GHOST.webp"
       url: "https://ghost.put.poznan.pl"
+    - name: GMUM
+      image: "images/optimized/partners-600x600/gmum.webp"
+      url: https://gmum.net/
     - name: Golem
       image: "images/optimized/partners-600x600/golem.webp"
       url: "https://ai.ii.pw.edu.pl/kolo-naukowe-sztucznej-inteligencji-golem/"
