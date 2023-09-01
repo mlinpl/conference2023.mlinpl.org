@@ -57,7 +57,7 @@ The co-authors will have a guaranteed option of buying a ticket in early bird, p
 ## Timeline
 
 - 1 June: Call for Contributions (Talks and Posters) open
-- 1 September, 23:59 (AoW): Call for Contributions submissions deadline
+- 1 September, 23:59 (AoE): Call for Contributions submissions deadline
 - 7 September: Talks and posters acceptance notifications
 - 26 October: Student Research Workshop
 - 26 - 29 October: Main Conference

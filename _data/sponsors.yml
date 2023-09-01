@@ -22,7 +22,7 @@
  
 - title: "/ Media partners"
   imageMaxWidth: 215px
-  imageMaxHeight: 120px
+  imageMaxHeight: 115px
   margin: 20px 30px
   sponsors:
     - name: AIFlavours
@@ -55,6 +55,9 @@
     - name: Nauka w Polsce
       image: "images/optimized/partners-600x600/naukawpolsce.webp"
       url: "https://naukawpolsce.pl/"
+    - name: Opanuj AI
+      image: "images/optimized/partners-600x600/OpanujAI.webp"
+      url: https://opanuj.ai/ 
     - name: Polish ML Community
       image: "images/optimized/partners-600x600/PolishMLCommunity.webp"
       url: "https://polishml.community/"
@@ -64,6 +67,9 @@
     - name: Quantum AI Foundation
       image: "images/optimized/partners-600x600/QuantumAIFoundation.webp"
       url: "https://www.qaif.org"
+    - name: SpeakLeash
+      image: "images/optimized/partners-600x600/SpeakLeash.webp"
+      url: https://speakleash.org/en/speakleash-a-k-a-spichlerz-english/
     - name: Warsaw AI
       image: "images/optimized/partners-600x600/WarsawAI.webp"
       url: "https://warsaw.ai"
