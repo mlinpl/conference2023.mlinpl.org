@@ -87,3 +87,7 @@ You can contact us at <a href="mailto:contributions@conference.mlinpl.org">contr
 
 We look forward to receiving your talk and poster proposals!
 Join us in shaping **{{ page.mlinpl-inline-logo }}**!
+
+## Instructions for preparing Contributed Talk and Poster
+
+The exact guidelines for preparing your talk and poster can be found [here]({{ "./cfc-instructions" | relative_url }}).
