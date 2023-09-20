@@ -9,7 +9,7 @@ Rules of contributed talks and posters acceptance to the {{ page.mlinpl-inline-l
 
 ## § 1. The purpose and scope of the Competition
 
-1. The Call for Contributions Competition (hereinafter, the "Competition") aims to disseminate knowledge in the field of data science, machine learning and artificial intelligence by selecting talks and posters to be presented at ML in PL '23 Conference (the “Conference”) or during Student Research Workshop (hereinafter, the “Workshop”) and pick the best posters and talks related to these areas which will be then presented during the Conference . 
+1. The Call for Contributions Competition (hereinafter, the "Competition") aims to disseminate knowledge in the field of data science, machine learning and artificial intelligence by selecting talks and posters to be presented at {{ mlinpl-inline-logo }} (the “Conference”) or during Student Research Workshop (hereinafter, the “Workshop”) and pick the best posters and talks related to these areas which will be then presented during the Conference . 
 2. The scope of the Competition includes, but is not limited to:
     * General Machine Learning: Active Learning, Classification, Clustering, Learning Theory, Online Learning, Ranking, Regression, Semi-supervised and Unsupervised learning, Optimization, Sparsity,
     * Deep Learning: Architectures, Generative Models, Optimization for Deep Networks, Recurrent Networks,

@@ -15,6 +15,7 @@
         padding-left: 30px;
     }
 
+    /* Fix for nested rows */
     .row .row{
         margin-right: -30px;
         margin-left: -30px;
@@ -655,6 +656,14 @@ body {
 /* Some classes for images in about page */
 .width-100 {
     width: 100%;
+}
+
+.width-max-300px {
+    max-width: 300px;
+}
+
+.width-max-350px {
+    max-width: 350px;
 }
 
 .width-max-400px {
