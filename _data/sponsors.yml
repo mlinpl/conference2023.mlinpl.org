@@ -76,6 +76,9 @@
     - name: AIFlavours
       image: "images/optimized/partners-600x600/AIFlavours.webp"
       url: "https://www.linkedin.com/company/aiflavours"
+    - name: Digital Festival
+      image: "images/optimized/partners-600x600/DigitalFestival.webp"
+      url: "https://digitalfestival.pl/"
     - name: Gauss
       image: "images/optimized/partners-600x600/gauss.webp"
       url: "http://gauss.im.pwr.wroc.pl"
