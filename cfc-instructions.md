@@ -20,7 +20,7 @@ mlinpl-inline-logo: <span class="logo"><span class="main-name">ML <span class="e
 
 - All the posters should be in English.
 - The printed version of the poster has to be A0-size in a vertical orientation (recommended) or smaller. Larger posters will not fit on the poster boards.
-- There will be two poster sessions during the conference. One on 27 October and the second on 27 October. Your poster will be assigned to one of them and a specific poster board.
+- There will be two poster sessions during the conference. One on 27 October and the second on 28 October. Your poster will be assigned to one of them and a specific poster board.
 - Please be at least 5-10 minutes before the start of the session in the room where your poster presentation will be held to hang it on the designated poster board. We don't know yet, but it might be possible to hang your poster earlier.
 - The posters need to be removed at the end of the session. Posters that are not removed will be discarded.
 
