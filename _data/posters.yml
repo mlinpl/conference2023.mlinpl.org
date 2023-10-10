@@ -481,7 +481,7 @@
   author-image: images/optimized/cfc-2023-600x600/jan_dubiński.webp
 
 - author-name: Paulina Tomaszewska
-  title: "Analysis of histopathological images using neural networks and the role of context"
+  title: "The analysis of histopathological images using neural networks through the lens of context"
   author-title: "Warsaw University of Technology"
   abstract: >- 
     The development of AI for healthcare is of great importance. One of the valuable applications of neural networks is digital pathology where histopathological images are processed. However, it comes with challenges. Recognizing the type of lesions is sometimes difficult even for histopathologists with long experience due to the complexity of the problem and the ambiguous nature of the lesions. Moreover, the whole slide images (WSIs) are of very huge resolution (e.g., 60000x100000 pixels). In the talk, the most common architecture for WSI classification will be presented. Moreover, the need for the analysis of whether the behaviour of the trained models aligns with the histopathologists' good practices will be emphasized together with a proposal on the spatial context measures.
