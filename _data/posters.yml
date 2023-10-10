@@ -1,6 +1,6 @@
 - author-name: Maciej Wysocki
   title: "The Future is Now: Embracing Allegro Transactional Data for Risk Modeling"
-  author-title: "Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw; Allegro Pay"
+  author-title: "Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw / Allegro Pay"
   abstract: >- 
     The accurate prediction of probability of default plays a critical role in safeguarding Allegro Pay business. Industry standard models, like tree-based models, unfortunately fall short in capturing the complexities of time-varying transactional data, limiting their predictive capabilities in prescoring applications. This presentation unveils a groundbreaking approach that harnesses the power of deep learning models to transform preliminary credit risk assessment.
     
@@ -33,7 +33,7 @@
     I will demonstrate how to use these methods in the realm of highly noisy and limited financial data to generate a signal for trading strategies.
     The presentation will dive deep into philosophical questions of choosing a model, working with limited data and managing the noise contained in it.
   author-bio: >- 
-    I am a machine learning specialist, mathematics aficionado and statistical modelling devotee. My modelling experience ranges from finances to immunology and genomics. Currently I combine foundational questions about machine learning, stochastic processes and Bayesian statistics to cook the tastiest methods of unique, mathematically sound flavour.
+    Mateusz Panasiuk is a machine learning specialist, mathematics aficionado, and statistical modelling devotee. His modelling experience ranges from finances to immunology and genomics. Currently, he combines foundational questions about machine learning, stochastic processes, and Bayesian statistics to cook the tastiest methods of unique, mathematically sound flavour.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -44,7 +44,7 @@
 
 - author-name: Adam Dziedzic
   title: "Privacy for Large Language Models"
-  author-title: "University of Toronto and Vector Institute"
+  author-title: "University of Toronto / Vector Institute"
   abstract: >- 
     Large language models (LLMs) are excellent in-context learners. However, the sensitivity of data contained in prompts raises privacy concerns. Our work first shows that these concerns are valid: we instantiate a simple but highly effective membership inference attack against the data used to prompt LLMs. To address this vulnerability, one could forego prompting and resort to fine-tuning LLMs with known algorithms for private gradient descent. However, this comes at the expense of the practicality and efficiency offered by prompting. Therefore, we propose to privately learn to prompt. We first show that soft prompts can be obtained privately through gradient descent on downstream data. However, this is not the case for discrete prompts. Thus, we orchestrate a noisy vote among an ensemble of LLMs presented with different prompts, i.e., a flock of stochastic parrots. The vote privately transfers the flock's knowledge into a single public prompt. We show that LLMs prompted with our private algorithms closely match the non-private baselines. For example, using GPT3 as the base model, we achieve a downstream accuracy of 92.7% on the sst2 dataset with (ϵ=0.147,δ=10−6)-differential privacy vs. 95.2% for the non-private baseline. Through our experiments, we also show that our prompt-based approach is easily deployed with existing commercial APIs.
   author-bio: >- 
@@ -63,7 +63,7 @@
   abstract: >- 
     How AutoML can provide fairness metrics. Ensuring fairness in Machine Learning is essential to avoid discrimination and bias based on sensitive attributes like race, gender, age, or ethnicity. With our AutoML - mljar-supervised (an on pen-source Python package https://github.com/mljar/mljar-supervised), you can now measure fairness and mitigate bias for these sensitive features across three Machine Learning tasks: binary classification, multiclass classification, and regression.
   author-bio: >- 
-    Ph.D. of Informatics from  Warsaw  University of Technology with experience in scientific and industry projects. Since 2016' working on MLJAR AutoML
+    Piotr Płoński is a Ph.D. of Informatics from Warsaw  University of Technology with experience in scientific and industry projects. Since 2016, he is working on MLJAR AutoML.
   co-authors: Aleksandra Płońska
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -81,7 +81,7 @@
     and variables, careful selection of the models included in ensembles, and an understanding of the mathematical basis behind them. This process is challenging for data scientists and prevents efficient ML solutions from being made available to researchers in other fields. Automated machine learning (AutoML) has emerged as a solution to this problem, aiming to perform the model selection and optimization process on its own. 
     This work focuses on two popular AutoML frameworks in Python: Auto-sklearn and AutoGluon. We conduct experiments with various parameters and analyze the results to understand the performance and effectiveness of these frameworks. Both frameworks use ensemble methods to create models with optimized parameters. We study the differences between the families of models used by each framework and how their diversity depends on data structure and training time. In addition, we compare the predictive accuracy of trained ensembles on validation data. To better understand how these frameworks work, we provide theoretical descriptions of the popular ML models used by these AutoML tools and descriptions of the ensemble process and the error metrics used to evaluate these models.
   author-bio: >- 
-    A graduate of the first degree at the Faculty of Mathematics and Information Sciences of Warsaw University of Technology in Mathematics and Data Analysis.
+    Jędrzej is a graduate of the first degree at the Faculty of Mathematics and Information Sciences of Warsaw University of Technology in Mathematics and Data Analysis.
   co-authors: Anna Kozak
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -149,13 +149,13 @@
   title: "Energy Storage in the Smart Grid: a Multi-Agent Deep Reinforcement Learning Approach"
   author-title: "University of Southampton"
   abstract: >- 
-    This work presents a novel energy storage system controlled by a Reinforcement Learning agent for households in the context of smart grid technology. The proposed system aims to optimize electricity trading in variable tariff environment. The system has been shown through simulations and evaluations to generate significant consumer savings in electricity bills, up to 29.53\%, without requiring changes in consumption habits. It also offers substantial earnings when combined with solar panels. My work further investigates a Multi-Agent System simulation to analyze interactions and identify beneficial price-demand relationships. The findings highlight the positive impact of storage on the energy market and demonstrate the advantages for both consumers and network operators. Deep Q Learning is identified as the most effective algorithm, and the study examines the effects of different storage sizes and agent complexity levels. The results provide valuable insights into the potential of the proposed solution and its benefits for the wider community.
+    This work presents a novel energy storage system controlled by a Reinforcement Learning agent for households in the context of smart grid technology. The proposed system aims to optimize electricity trading in variable tariff environment. The system has been shown through simulations and evaluations to generate significant consumer savings in electricity bills, up to 29.53%, without requiring changes in consumption habits. It also offers substantial earnings when combined with solar panels. My work further investigates a Multi-Agent System simulation to analyze interactions and identify beneficial price-demand relationships. The findings highlight the positive impact of storage on the energy market and demonstrate the advantages for both consumers and network operators. Deep Q Learning is identified as the most effective algorithm, and the study examines the effects of different storage sizes and agent complexity levels. The results provide valuable insights into the potential of the proposed solution and its benefits for the wider community.
   author-bio: >- 
-    I am an enthusiastic 4th year Electronics with AI student at the University of Southampton, expected to graduate in 2024. With a steadfast passion for Machine Learning, particularly in Computer Vision and Reinforcement Learning, my academic journey has been marked by exceptional achievements.
+    Pawel Knap is an enthusiastic 4th year Electronics with AI student at the University of Southampton, expected to graduate in 2024. With a steadfast passion for Machine Learning, particularly in Computer Vision and Reinforcement Learning.
     
-    My education has been characterized by a remarkable academic record, consistently achieving first-class average, and laureate/finalist titles in three National Olympiads of EEE knowledge in middle school, cementing my dedication to technical excellence from an early age. Additionally, I've contributed extensively to research with two publications submitted to international academic conferences:"Energy Storage in the Smart Grid: A Multi-Agent Deep Reinforcement Learning Approach", and "Real-time Omnidirectional 3D Multi-Person Human Pose Estimation with Occlusion Handling".
+    His education has been characterized by a remarkable academic record, consistently achieving first-class average, and laureate/finalist titles in three National Olympiads of EEE knowledge in middle school, cementing my dedication to technical excellence from an early age. Additionally, I've contributed extensively to research with two publications submitted to international academic conferences:"Energy Storage in the Smart Grid: A Multi-Agent Deep Reinforcement Learning Approach", and "Real-time Omnidirectional 3D Multi-Person Human Pose Estimation with Occlusion Handling".
     
-    In addition to my academic pursuits, I've gained valuable industry experience, including roles as a Computer Vision Engineer at the University of Southampton, where I developed a real-time 3D multi-person human pose estimation system with occlusion-handling capabilities, and as a Computer Vision Intern at OculAI, contributing to the development and fine-tuning of yolov5-based applications. Furthermore, my tenure as a Data Science Intern at Clas-SiC Wafer Fab involved designing and implementing a high-performance supervised algorithm for detecting faulty components. I contributed to data preprocessing, analysis, and v
+    In addition to my academic pursuits, he has gained valuable industry experience, including roles as a Computer Vision Engineer at the University of Southampton, where he developed a real-time 3D multi-person human pose estimation system with occlusion-handling capabilities, and as a Computer Vision Intern at OculAI, contributing to the development and fine-tuning of yolov5-based applications. Furthermore, his tenure as a Data Science Intern at Clas-SiC Wafer Fab involved designing and implementing a high-performance supervised algorithm for detecting faulty components.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -170,7 +170,7 @@
   abstract: >- 
     Autonomous driving is a geometric problem, where the goal is to navigate a vehicle safely and correctly through 3D space. Based on LiDAR ensing, a 3D representation of the scene is commonly used for motion planning and prediction. Recent advances in camera-based perception are applicable for wider monocular vision tasks including motion prediction and planning. Autonomous vehicles (AV) based on cameras are much cheaper compared to LiDAR based. Thus, of late, there has been lot of emphasis on utilizing camera-based perception for all driving related tasks, with weather related abnormalities handled using minimal dependence on expensive sensors (like LiDAR, RADAR etc). This review work follows two main threads - (1) emphasis on end-to-end learning approaches for driving, more specifically reinforcement learning (RL)-based (2) highlighting the importance of both 2D and 3D representations for scene understanding in autonomous driving (AD).
   author-bio: >- 
-    I am a scientist working in the area of Autonomous Vehicles, and specialize in Deep Reinforcement Learning and Machine Learning. Currently I am also keen to make AI approaches accessible to non-AI, non-tech background researchers as well. Have been actively conducting summer schools and workshops for Bio and Chemistry researchers to help them get initiated into AI.
+    Sindhu Padakandla is a scientist working in the area of Autonomous Vehicles, and specialize in Deep Reinforcement Learning and Machine Learning. Currently she is also keen to make AI approaches accessible to non-AI, non-tech background researchers as well. She has been actively conducting summer schools and workshops for Bio and Chemistry researchers to help them get initiated into AI.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -243,9 +243,9 @@
     The prototype neural network architecture we employ merges established models, incorporating 2D and 3D convolutional layers, pooling, and fully-connected layers. Our performance assessment relies on precision, recall, and F1-score metrics applied to datasets simulating vortices in ultracold matter. The outcomes of our exploratory research are highly promising, with precision, recall, and F1-score metrics exceeding 80%.
     It lays a foundation for advancing our study into turbulent states characterized by vortices forming spaghetti-like tangles. To this end, we envision expanding the network architecture to achieve enhanced accuracy in detecting vortex configurations.
   author-bio: >- 
-    I am a PhD student at the Centre for Theoretical Physics of the Polish Academy of Sciences in Warsaw. My research focusses on solitons and vortices in ultracold gases.
+    Jakub Kopyciński is a PhD student at the Centre for Theoretical Physics of the Polish Academy of Sciences in Warsaw. His research focuses on solitons and vortices in ultracold gases.
     
-    I study beyond-mean-field effects in dipolar Bose systems and in Bose-Bose mixtures. I am also interested in out-of-equilibrium phenomena in superfluid systems, especially quantum turbulence in both Bose and Fermi gases. One of my latest projects incorporates the use of neural networks in the investigation of quantum vortex states.
+    He studies beyond-mean-field effects in dipolar Bose systems and in Bose-Bose mixtures. he is also interested in out-of-equilibrium phenomena in superfluid systems, especially quantum turbulence in both Bose and Fermi gases. One of my latest projects incorporates the use of neural networks in the investigation of quantum vortex states.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -385,7 +385,7 @@
   abstract: >- 
     According to WHO, infertility affects 10-16% of people of reproductive age. In Poland it affects 1 million couples. One of the most important issues when trying to conceive (TTC) is to correctly determine the fertile window. This knowledge allows one to maximize chances of getting pregnant in the current cycle since fertile days fall +/- 2 days before/after ovulation.The most popular method of ovulation prediction uses basal body temperature (BBT), but its accuracy can be effectively disrupted by incorrect measurements or an active infection. There is also a method based on ovulation tests detecting LH peak, but there is bias linked with low quality of kits. Another method of ovulation prediction is based on menstrual cycle length, but first you have to determine the length of the current cycle. Nowadays there are many applications with period tracking options. Most of them show predictions of the length of upcoming cycles. Except from data on the length of bleeding or cycle, the apps allow users to register additional information i.e. symptoms, mood, BBT, cervical mucus, which can help indicate the current phase of the cycle. Using the database of menstrual cycles of users from the Polish application iYoni (over 300K registered cycles by over 80K users), we prepared datasets containing menstrual cycles and basic users' attributes (e.g. age, cycle regularity, months of TTC). The datasets were used to develop and train machine learning models (including regression models  and deep models) that predict the length of the menstrual cycle. The application of machine learning improved  the quality of cycle length prediction relative to baseline algorithms (returning average/median/last cycle length). I will discuss current results and opportunities to develop models that make predictions based also on aforementioned daily measurements provided by users and medical interviews.
   author-bio: >- 
-    My name is Dominik Kossiński. Since the beginning of 2022, I've been a machine learning engineer and Android developer at iYoni - a mobile period and fertility tracking application. In 2021 I graduated with honors Computer Science at Poznan University of Technology (Master’s degree, specialization “Intelligent Information Technologies”). My interest is in machine learning applications in medicine. In my free time, I train triathlon (swimming, cycling, running). I have completed a half marathon, marathon, and 1/4 of an Ironman.
+    Since the beginning of 2022, Dominik Kossiński has been a machine learning engineer and Android developer at iYoni - a mobile period and fertility tracking application. In 2021, he graduated with honors Computer Science at Poznan University of Technology (Master’s degree, specialization “Intelligent Information Technologies”). His interest is in machine learning applications in medicine. In his free time, Dominik train triathlon (swimming, cycling, running). I have completed a half marathon, marathon, and 1/4 of an Ironman.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
