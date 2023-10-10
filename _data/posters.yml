@@ -523,7 +523,7 @@
     There is a chance that I won't be able to attend the conference, so feel free to reject me if there are better submissions :)
   author-bio: >- 
     Marek Wydmuch is currently a Ph.D. student at the Machine Learning Laboratory at Poznan University of Technology (PUT), Poland. His research interests include various topics in Machine Learning, with the main focus on Extreme Multi-Label Classification (XMLC). During his Ph.D., he published papers at a few A* conferences (NeurIPS, KDD, SIGIR). He also has industry experience, working as a Data Scientist for OLX Group (2017-2020) and Yahoo France (2022). He is a member of ML in PL Association and co-organizer of ML in PL Conference 2019-2023. Marek is also the author of ViZDoom library with environments for reinforcement learning (RL) research based on the Doom game and a member of the Farama Foundation that focuses on the development and maintenance of RL environments.
-  co-authors: 
+  co-authors: Erik Schultheis, Wojtek Kotłowski, Rohit Babbar, Krzysztof Dembczyński
   date: Friday / 27 October
   time: 16:30 - 18:30
   room: 

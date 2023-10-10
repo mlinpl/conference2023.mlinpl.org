@@ -9,7 +9,7 @@
 
 - title: '/ <span class="gold-shine-text">Gold sponsors</span>'
   imageMaxWidth: 280px
-  imageMaxHeight: 150px
+  imageMaxHeight: 110px
   margin: 30px 45px
   sponsors:
     - name: Ideas NCBR
@@ -21,10 +21,13 @@
     - name: RTB House
       image: "images/optimized/sponsors-600x600/RTBHouse.webp"
       url: "https://www.rtbhouse.com/"
+    - name: Snowflake
+      image: "images/optimized/sponsors-600x600/Snowflake.webp"
+      url: "https://www.snowflake.com/en/"
 
 - title: '/ <span class="silver-shine-text">Silver sponsors</span>'
   imageMaxWidth: 280px
-  imageMaxHeight: 150px
+  imageMaxHeight: 110px
   margin: 30px 45px
   sponsors:
     - name: AI Clearing
@@ -39,7 +42,7 @@
 
 - title: "/ Partners"
   imageMaxWidth: 280px
-  imageMaxHeight: 150px
+  imageMaxHeight: 110px
   margin: 30px 45px
   sponsors:
     - name: NASK

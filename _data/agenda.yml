@@ -60,7 +60,7 @@
           element-class: col-lg-12
           time: 12:30 - 13:30
           room: Main Lecture Hall
-          url: /program#invited-talk-1
+          url: /program#keynote-talk-1
     - events:
         - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
           element-class: col-lg-12
@@ -80,7 +80,7 @@
           element-class: col-lg-12
           time: 16:15 - 17:15
           room: Main Lecture Hall
-          url: /program#invited-talk-2
+          url: /program#keynote-talk-2
     - events:
         - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
           element-class: col-lg-12
