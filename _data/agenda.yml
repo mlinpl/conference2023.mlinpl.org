@@ -270,15 +270,15 @@
           element-class: col-lg-12
           time: 08:30 - 09:00
     - events: 
-        - title: 'Invited talk 1'
+        - title: 'Invited talk 7: TBA'
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Main Lecture Hall
-        - title: 'Invited talk 2'
+        - title: 'Invited talk 8: TBA'
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Lecture Hall A
-        - title: 'Invited talk 3'
+        - title: 'Invited talk 9: TBA'
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Lecture Hall B
@@ -338,11 +338,11 @@
           time: 14:15 - 15:15
           room: Main Lecture Hall
           url: /program#discussion-panel-3
-        - title: 'Sponsor talk 4'
+        - title: 'Sponsor talk 4: TBA'
           element-class: col-lg-4
           time: 14:15 - 15:15
           room: Lecture Hall A
-        - title: 'Sponsor talk 5'
+        - title: 'Sponsor talk 5: TBA'
           element-class: col-lg-4
           time: 14:15 - 15:15
           room: Lecture Hall B
