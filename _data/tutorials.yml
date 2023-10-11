@@ -1,6 +1,6 @@
 - title: 'Dancing with censored data: How to survive with explainable survival analysis?'
   date: Sunday / 29 October
-  time: TBA
+  time: 09:00 - 13:00
   room: TBA
   desc-md: >-
     As machine learning in survival analysis is gaining popularity, it is becoming crucial for ML practitioners to understand the unique aspects of this type of modeling and effectively interpret survival models.
@@ -33,13 +33,13 @@
 
 - title: 'Quickly Build and Deploy Interactive Machine Learning Applications with Streamlit'
   date: Sunday / 29 October
-  time: TBA
+  time: 09:00 - 13:00
   room: TBA
   desc-md: >-
     Looking for an easy & engaging way to share your Data Science & Machine Learning contributions to the world?
 
 
-    This 4h workshop is a beginner’s guide to Streamlit, one of the fastest-growing open-source Python libraries to build beautiful and interactive web applications. After setting up a Python local development environment, we will build a web application to explore data and investigate predictive results on a Machine Learning project. We will then deploy it on Streamlit Cloud for free, so it can be linked from a research paper or embedded in a blog post for others to freely interact with the results.
+    This 4h workshop is a beginner's guide to Streamlit, one of the fastest-growing open-source Python libraries to build beautiful and interactive web applications. After setting up a Python local development environment, we will build a web application to explore data and investigate predictive results on a Machine Learning project. We will then deploy it on Streamlit Cloud for free, so it can be linked from a research paper or embedded in a blog post for others to freely interact with the results.
     
 
     By the end of the session, you will be able to demonstrate your ML projects on the Internet or to stakeholders through fully interactive & easy to use web apps.
@@ -61,7 +61,7 @@
 
 - title: 'Graph representation learning and graph classification'
   date: Sunday / 29 October
-  time: TBA
+  time: 09:00 - 13:00
   room: TBA
   desc-md: >-
     Graphs are one of the most general structures that we can process with machine learning. However, as combinatorial and non-Euclidean structures, with unique invariants, they present unique challenges for representation learning. Traditional approaches, such as graph descriptors or graph kernels, focus solely on graph topology. Recent rise of graph neural networks (GNNs) allow us to utilize rich information such as node and edge labels, and include complex subgraph interactions into learned representations. In this tutorial I will outline both classical approaches and modern GNNs. Starting from spectral graph theory, we will introduce the message-passing paradigm, convolutional and attentional GNN architectures. I will focus on graph classification problems, with applications for challenging domains, such as molecular property prediction. Finally, we will introduce the current research problems such as oversmoothing, effective pretraining strategies and fair evaluation.
@@ -80,7 +80,7 @@
 
 - title: 'Generative Methods in Drug Discovery: A Practical Introduction'
   date: Sunday / 29 October
-  time: TBA
+  time: 09:00 - 13:00
   room: TBA
   desc-md: >-
     The drug discovery process is a search for a compound that possesses a number of properties such as high activity or low toxicity. In recent years, there has been a rapid development of methods for generating potential drugs using neural networks.   During the workshop, we will generate a set of compounds that satisfy a certain set of criteria. We will pay special attention to synthesizability and activity. We will focus on practical techniques that are popular in the drug discovery space.  The workshop goal is to illustrate practical and realistic challenges in generating active molecules. One common issue is that the training data might be limited and noisy, due to the high cost of biological experiments. As such generated compounds might be biased and work poorly in reality.   Another issue is that compounds predicted to be active might be very hard to synthesize. Balancing the ease of synthesis with finding highly active compounds is an ongoing challenge.  During the workshop, we will host a leaderboard for participants to submit and score their generated compounds.
@@ -99,7 +99,7 @@
 
 - title: 'What is possible in real-time machine learning?'
   date: Sunday / 29 October
-  time: TBA
+  time: 14:30 - 18:30
   room: TBA
   desc-md: >-
     “The only constant thing in life is change”. A lot of modern data processing applications work with data streams and changing data inputs, and their objective is to provide up-to-date outcomes with low latency at high data throughput.
@@ -136,7 +136,7 @@
       image: images/optimized/cfc-2023-600x600/KrzysztofNowicki.webp
 
   author-bio-md: >-
-    Jan Chorowski is the CTO at Pathway working on realtime data processing frameworks. He received his M.Sc. degree in electrical engineering from Wrocław University of Technology and Ph.D. from University of Louisville. He has worked at the University of Wroclaw and has collaborated with several research teams, including Google Brain, Microsoft Research and Yoshua Bengio’s lab.
+    Jan Chorowski is the CTO at Pathway working on realtime data processing frameworks. He received his M.Sc. degree in electrical engineering from Wrocław University of Technology and Ph.D. from University of Louisville. He has worked at the University of Wroclaw and has collaborated with several research teams, including Google Brain, Microsoft Research and Yoshua Bengio's lab.
 
 
     Przemek Uznański is the streaming algorithms and data structure expert at Pathway, and a former competitive programmer (finalist of ACM ICPC, TopCoder Open and Facebook HackerCup). He did his PhD at the INRIA Bordeaux on the topic of distributed computing, then was a Post-doc at ETH Zurich, Aalto (Finland), and in Marseille. He was an assistant professor at University of Wrocław
@@ -148,4 +148,76 @@
     Mateusz Lewandowski obtained his Ph.D. in Computer Science from the University of Wrocław in the field of combinatorial optimization and network design. Prior joining Pathway - the data processing and logistics company - he gained valuable experiences during his stays in EPFL (École polytechnique fédérale de Lausanne), Google Zürich and Horváth's Steering Lab in Munich.
 
 
-    Krzysztof Nowicki is a Datastore Research Engineer at Pathway. Prior to that, Krzysztof obtained his PhD student at Univ. of Wrocław, after which he was a postdoc at Univ. of Copenhagen. His areas of interest focus on the algorithms for big data sets (distributed, parallel, real-time). For his research on graph algorithms, he was awarded Lipski Prize (2020) and the Prime Minister Prize for the best PhD theses (2022).  At Pathway, he works on algorithms and data structures for processing streams of data in real time.
+    Krzysztof Nowicki is a Datastore Research Engineer at Pathway. Prior to that, Krzysztof obtained his PhD student at Univ. of Wrocław, after which he was a postdoc at Univ. of Copenhagen. His areas of interest focus on the algorithms for big data sets (distributed, parallel, real-time). For his research on graph algorithms, he was awarded Lipski Prize (2020) and the Prime Minister Prize for the best PhD theses (2022). At Pathway, he works on algorithms and data structures for processing streams of data in real time.
+
+
+- title: 'Algorithmic Challenge: Mastering Commodity Trading and NFT Auctions'
+  date: Sunday / 29 October
+  time: 14:30 - 18:30
+  room: TBA
+  desc-md: >-
+    We have prepared some fun coding challenges to test out algorithmic skills. On the day of the event participants will gain access to Cambridge Spark's EDUKATE.ai where they will be able to easily access and code up solutions to these problems. They will receive feedback on their submissions to help you improve and iterate.
+
+    
+    Participants in groups of 2 or 3, will have 2 hours to complete both challenges. There will be a leaderboard and winners will receive prizes and kudos and be able to share their smart approach and techniques. The challenges are expected to be solved using Python.
+ 
+
+    **The two challenges are:**
+
+    
+    - Optimal Transport is based on the classic traveling salesman problem participants may be familiar with. Here they will assume the role of a commodity trader seeking to maximise your profit gained by exchanging commodities between a number of cities, while accounting for the transportation costs between each trade route. They will need to be aware of the chance of inclement weather conditions that may hinder your plans!
+
+ 
+    - Auction - For the second challenge, participants will play the part of an NFT Art dealer and develop their strategy to compete in bidding against a group of robot dealers. With a limited budget in each auction round, they need to maximise your Victory Points which will be scored against the best performing bidder in each round.
+
+    
+#    Registration link: [https://flows.beamery.com/gresearch/mlinpl-g-research-quant-challenge-leoe7h3xv](https://flows.beamery.com/gresearch/mlinpl-g-research-quant-challenge-leoe7h3xv)
+
+  author-name: Charles Martinez
+  author-title: G-Research
+  author-image: images/optimized/cfc-2023-600x600/CharlesMartinez.webp
+  author-bio-md: >-
+    Dr Charles Martinez is the Academic Relations Manager at G-Research. Charles started his studies as a physicist at University Portsmouth Physics department's MPhys programme, and later completed a PhD in Phonon interactions in Gallium Nitride nanostructures at the University of Nottingham. Charles then worked on indexing and abstract databases at the Institution for Engineering and Technology (IET) before moving into sales in 2010. Charles' previous role was as Elsevier's Key Account Manager, managing sales and renewals for the UK Russell Group institutions, Government and Funding body accounts, including being one of the negotiators in the recent UK ScienceDirect Read and Publish agreement. Since leaving Elsevier Charles is dedicated to forming beneficial partnerships between G-Research and Europe's top institutions, and is living in Cambridge, UK.
+
+- title: 'Introduction to geospatial machine learning'
+  date: Sunday / 29 October
+  time: 14:30 - 18:30
+  room: TBA
+  desc-md: >-
+    Tutorial offers a thorough introduction to the geospatial domain with python libraries. Participants will learn how to use, analyse and visualize open-source geospatial data. Additionally, participants will learn to pre-train embedding models and train predictive models for downstream tasks.
+
+
+    Most of the tutorial will be showing capabilities of the library srai (Spatial Representation for Artificial Intelligence) created by the authors, as well as GeoPandas, Shapely, osmnx and scikit-learn.
+
+
+    Beginner knowledge of Python is expected from the participants. Tutorial materials will be provided in the form of Jupyter notebooks.
+  authors:
+    - name: Kamil Raczycki
+      title: Kraina.AI, Wrocław University of Science and Technology / Allegro
+      image: images/optimized/cfc-2023-600x600/KamilRaczycki.webp
+
+    - name: Piotr Gramacki
+      title: Kraina.AI, Wrocław University of Science and Technology / Surfer
+      image: images/optimized/cfc-2023-600x600/PiotrGramacki.webp
+
+    - name: Szymon Woźniak
+      title: Kraina.AI, Wrocław University of Science and Technology / Brand24
+      image: images/optimized/cfc-2023-600x600/SzymonWozniak.webp
+
+    - name: Kacper Leśniara
+      title: Kraina.AI, Wrocław University of Science and Technology / GetInData
+      image: images/optimized/cfc-2023-600x600/kacper_leśniara.webp
+
+  author-bio-md: >-
+      Kamil Raczycki is a Spatial Data Scientist at Allegro working in the Location Intelligence team. He graduated from Wrocław University of Science and Technology with MSc in Data Science in 2021. His thesis about transfer learning in geospatial machine learning was published at the SIGSPATIAL conference. He combines his expertise as a Python developer with interest in the geospatial domain by co-developing the Spatial Representations for the Artificial Intelligence (SRAI) library as the Kraina.AI research group member.
+
+      
+      Piotr Gramacki is a Machine Learning Engineer at Brand24 and a PhD Candidate at Wrocław University of Science and Technology, where he works in the Kraina.AI research group. His scientific interests are geospatial AI and NLP. Piotr is a co-author of several publications from geospatial and NLP domains, and a co-creator of the Spatial Representations for Artificial Intelligence (SRAI) library.
+
+      
+      Szymon Woźniak is a Data Scientist at Surfer and a member of Kraina.AI research group at Wrocław University of Science and Technology. His research interests are focused on NLP and spatial analysis in AI. He holds a Master's degree in Data Science and has published multiple scientific publications in the geospatial domain. He also co-created the SRAI library for geospatial data processing and machine learning.
+
+      
+      Kacper Leśniara is a skilled ML/MLOps Engineer with over two years of experience, proficient in machine learning technologies, Python, SQL, and geospatial analysis. He also holds a Master's Degree in Data Science from Wrocław University of Science and Technology. Additionally, he has published research in the geospatial domain and is a co-author of an open-source Geo AI library under the Kraina AI Research Group at WUST.
+
+
