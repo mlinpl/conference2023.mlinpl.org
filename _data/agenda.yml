@@ -368,7 +368,7 @@
           element-class: col-lg-3
           time: 09:00 - 13:00
           url: /program#tutorial-2
-        - title: 'Tutorial 3: Graph representation learning and graph classification'
+        - title: 'Tutorial 3: Introduction to geospatial machine learning'
           element-class: col-lg-3
           time: 09:00 - 13:00
           url: /program#tutorial-3
@@ -389,8 +389,8 @@
           element-class: col-lg-4
           time: 14:30 - 18:30
           url: /program#tutorial-6
-        - title: 'Tutorial 7: Introduction to geospatial machine learning'
+        - title: 'Tutorial 7: Graph representation learning and graph classification'
           element-class: col-lg-4
           time: 14:30 - 18:30
-          url: /program#tutorial-6
+          url: /program#tutorial-7
 

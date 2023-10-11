@@ -59,24 +59,46 @@
 
     Drawing from his experience in Educational Video Production, Fanilo now also mentors Developer Advocates in Content Creation & Community Building. His current goal is to inspire the next generation of Data People to showcase their works and impact the world in a positive way.
 
-- title: 'Graph representation learning and graph classification'
+- title: 'Introduction to geospatial machine learning'
   date: Sunday / 29 October
   time: 09:00 - 13:00
   room: TBA
   desc-md: >-
-    Graphs are one of the most general structures that we can process with machine learning. However, as combinatorial and non-Euclidean structures, with unique invariants, they present unique challenges for representation learning. Traditional approaches, such as graph descriptors or graph kernels, focus solely on graph topology. Recent rise of graph neural networks (GNNs) allow us to utilize rich information such as node and edge labels, and include complex subgraph interactions into learned representations. In this tutorial I will outline both classical approaches and modern GNNs. Starting from spectral graph theory, we will introduce the message-passing paradigm, convolutional and attentional GNN architectures. I will focus on graph classification problems, with applications for challenging domains, such as molecular property prediction. Finally, we will introduce the current research problems such as oversmoothing, effective pretraining strategies and fair evaluation.
+    Tutorial offers a thorough introduction to the geospatial domain with python libraries. Participants will learn how to use, analyse and visualize open-source geospatial data. Additionally, participants will learn to pre-train embedding models and train predictive models for downstream tasks.
 
 
-    **Description and outline:** Tutorial will cover 3 approaches to graph classification: graph invariants (feature engineering), graph kernels and graph neural networks (GNNs). The largest focus will be on the latter. I will start with graph descriptors (invariants), as the most basic, and present classical topological features for graph classification, e.g. with centrality measures or community detection indexes. The example models will be Local Degree Profile (LDP) and Local Topological Profile (LTP), implemented with torch-scatter and networkit, and applied for non-attributed graph classification, e.g. for social networks. For graph kernels, I will present the most well-known topological kernels such as random walk kernel, implemented with GraKeL library and applied for bioinformatics dataset, e.g. proteins. For both of those approaches, I will discuss their advantages and disadvantages, especially in terms of attributed graphs (both nodes and edges), and scalability. For graph neural networks, we will start with Graph Convolutional Network (GCN) as a spectral graph convolution, and then go into the message-passing paradigm with GraphSAGE, GAT and GIN. We will implement them with PyTorch Geometric and apply for molecular property prediction. Lastly, we will review interesting areas of GNN research and development, e.g. oversmoothing (e.g. skip connections, directional message passing), pretraining strategies (e.g. Deep Graph Infomax, graph transformers) and fair evaluation. In general, the tutorial will start from the basics and will not require any specific knowledge apart from undergraduate level mathematics, Python and ML.
+    Most of the tutorial will be showing capabilities of the library srai (Spatial Representation for Artificial Intelligence) created by the authors, as well as GeoPandas, Shapely, osmnx and scikit-learn.
 
 
-    **Goals:** Attendees will learn about graph representation learning approaches, their strengths and weaknesses. In particular, we will focus on GNNs, so they will have a strong foundation for modern methods for graph classification. This can also be applied for node classification, link prediction and other graph-based learning tasks. We will also introduce efficient frameworks, and implement example models.
+    Beginner knowledge of Python is expected from the participants. Tutorial materials will be provided in the form of Jupyter notebooks.
+  authors:
+    - name: Kamil Raczycki
+      title: Kraina.AI, Wrocław University of Science and Technology / Allegro
+      image: images/optimized/cfc-2023-600x600/KamilRaczycki.webp
 
-  author-name: Jakub Adamczyk
-  author-title: AGH University of Cracow
-  author-image: images/optimized/cfc-2023-600x600/JakubAdamczyk.webp
-  author-bio: >-
-    Jakub Adamczyk is a PhD candidate at AGH University of Cracow, and Data Science graduate. His research work concerns supervised learning on graphs, in particular for molecular property prediction. He also works as a Data Science Engineer at Placewise, developing models for serverless ML in NLP and computer vision. He spends his free time doing Historical European Martial Arts (HEMA).
+    - name: Piotr Gramacki
+      title: Kraina.AI, Wrocław University of Science and Technology / Surfer
+      image: images/optimized/cfc-2023-600x600/PiotrGramacki.webp
+
+    - name: Szymon Woźniak
+      title: Kraina.AI, Wrocław University of Science and Technology / Brand24
+      image: images/optimized/cfc-2023-600x600/SzymonWozniak.webp
+
+    - name: Kacper Leśniara
+      title: Kraina.AI, Wrocław University of Science and Technology / GetInData
+      image: images/optimized/cfc-2023-600x600/kacper_leśniara.webp
+
+  author-bio-md: >-
+      Kamil Raczycki is a Spatial Data Scientist at Allegro working in the Location Intelligence team. He graduated from Wrocław University of Science and Technology with MSc in Data Science in 2021. His thesis about transfer learning in geospatial machine learning was published at the SIGSPATIAL conference. He combines his expertise as a Python developer with interest in the geospatial domain by co-developing the Spatial Representations for the Artificial Intelligence (SRAI) library as the Kraina.AI research group member.
+
+      
+      Piotr Gramacki is a Machine Learning Engineer at Brand24 and a PhD Candidate at Wrocław University of Science and Technology, where he works in the Kraina.AI research group. His scientific interests are geospatial AI and NLP. Piotr is a co-author of several publications from geospatial and NLP domains, and a co-creator of the Spatial Representations for Artificial Intelligence (SRAI) library.
+
+      
+      Szymon Woźniak is a Data Scientist at Surfer and a member of Kraina.AI research group at Wrocław University of Science and Technology. His research interests are focused on NLP and spatial analysis in AI. He holds a Master's degree in Data Science and has published multiple scientific publications in the geospatial domain. He also co-created the SRAI library for geospatial data processing and machine learning.
+
+      
+      Kacper Leśniara is a skilled ML/MLOps Engineer with over two years of experience, proficient in machine learning technologies, Python, SQL, and geospatial analysis. He also holds a Master's Degree in Data Science from Wrocław University of Science and Technology. Additionally, he has published research in the geospatial domain and is a co-author of an open-source Geo AI library under the Kraina AI Research Group at WUST.
 
 - title: 'Generative Methods in Drug Discovery: A Practical Introduction'
   date: Sunday / 29 October
@@ -179,45 +201,21 @@
   author-bio-md: >-
     Dr Charles Martinez is the Academic Relations Manager at G-Research. Charles started his studies as a physicist at University Portsmouth Physics department's MPhys programme, and later completed a PhD in Phonon interactions in Gallium Nitride nanostructures at the University of Nottingham. Charles then worked on indexing and abstract databases at the Institution for Engineering and Technology (IET) before moving into sales in 2010. Charles' previous role was as Elsevier's Key Account Manager, managing sales and renewals for the UK Russell Group institutions, Government and Funding body accounts, including being one of the negotiators in the recent UK ScienceDirect Read and Publish agreement. Since leaving Elsevier Charles is dedicated to forming beneficial partnerships between G-Research and Europe's top institutions, and is living in Cambridge, UK.
 
-- title: 'Introduction to geospatial machine learning'
+- title: 'Graph representation learning and graph classification'
   date: Sunday / 29 October
   time: 14:30 - 18:30
   room: TBA
   desc-md: >-
-    Tutorial offers a thorough introduction to the geospatial domain with python libraries. Participants will learn how to use, analyse and visualize open-source geospatial data. Additionally, participants will learn to pre-train embedding models and train predictive models for downstream tasks.
+    Graphs are one of the most general structures that we can process with machine learning. However, as combinatorial and non-Euclidean structures, with unique invariants, they present unique challenges for representation learning. Traditional approaches, such as graph descriptors or graph kernels, focus solely on graph topology. Recent rise of graph neural networks (GNNs) allow us to utilize rich information such as node and edge labels, and include complex subgraph interactions into learned representations. In this tutorial I will outline both classical approaches and modern GNNs. Starting from spectral graph theory, we will introduce the message-passing paradigm, convolutional and attentional GNN architectures. I will focus on graph classification problems, with applications for challenging domains, such as molecular property prediction. Finally, we will introduce the current research problems such as oversmoothing, effective pretraining strategies and fair evaluation.
 
 
-    Most of the tutorial will be showing capabilities of the library srai (Spatial Representation for Artificial Intelligence) created by the authors, as well as GeoPandas, Shapely, osmnx and scikit-learn.
+    **Description and outline:** Tutorial will cover 3 approaches to graph classification: graph invariants (feature engineering), graph kernels and graph neural networks (GNNs). The largest focus will be on the latter. I will start with graph descriptors (invariants), as the most basic, and present classical topological features for graph classification, e.g. with centrality measures or community detection indexes. The example models will be Local Degree Profile (LDP) and Local Topological Profile (LTP), implemented with torch-scatter and networkit, and applied for non-attributed graph classification, e.g. for social networks. For graph kernels, I will present the most well-known topological kernels such as random walk kernel, implemented with GraKeL library and applied for bioinformatics dataset, e.g. proteins. For both of those approaches, I will discuss their advantages and disadvantages, especially in terms of attributed graphs (both nodes and edges), and scalability. For graph neural networks, we will start with Graph Convolutional Network (GCN) as a spectral graph convolution, and then go into the message-passing paradigm with GraphSAGE, GAT and GIN. We will implement them with PyTorch Geometric and apply for molecular property prediction. Lastly, we will review interesting areas of GNN research and development, e.g. oversmoothing (e.g. skip connections, directional message passing), pretraining strategies (e.g. Deep Graph Infomax, graph transformers) and fair evaluation. In general, the tutorial will start from the basics and will not require any specific knowledge apart from undergraduate level mathematics, Python and ML.
 
 
-    Beginner knowledge of Python is expected from the participants. Tutorial materials will be provided in the form of Jupyter notebooks.
-  authors:
-    - name: Kamil Raczycki
-      title: Kraina.AI, Wrocław University of Science and Technology / Allegro
-      image: images/optimized/cfc-2023-600x600/KamilRaczycki.webp
+    **Goals:** Attendees will learn about graph representation learning approaches, their strengths and weaknesses. In particular, we will focus on GNNs, so they will have a strong foundation for modern methods for graph classification. This can also be applied for node classification, link prediction and other graph-based learning tasks. We will also introduce efficient frameworks, and implement example models.
 
-    - name: Piotr Gramacki
-      title: Kraina.AI, Wrocław University of Science and Technology / Surfer
-      image: images/optimized/cfc-2023-600x600/PiotrGramacki.webp
-
-    - name: Szymon Woźniak
-      title: Kraina.AI, Wrocław University of Science and Technology / Brand24
-      image: images/optimized/cfc-2023-600x600/SzymonWozniak.webp
-
-    - name: Kacper Leśniara
-      title: Kraina.AI, Wrocław University of Science and Technology / GetInData
-      image: images/optimized/cfc-2023-600x600/kacper_leśniara.webp
-
-  author-bio-md: >-
-      Kamil Raczycki is a Spatial Data Scientist at Allegro working in the Location Intelligence team. He graduated from Wrocław University of Science and Technology with MSc in Data Science in 2021. His thesis about transfer learning in geospatial machine learning was published at the SIGSPATIAL conference. He combines his expertise as a Python developer with interest in the geospatial domain by co-developing the Spatial Representations for the Artificial Intelligence (SRAI) library as the Kraina.AI research group member.
-
-      
-      Piotr Gramacki is a Machine Learning Engineer at Brand24 and a PhD Candidate at Wrocław University of Science and Technology, where he works in the Kraina.AI research group. His scientific interests are geospatial AI and NLP. Piotr is a co-author of several publications from geospatial and NLP domains, and a co-creator of the Spatial Representations for Artificial Intelligence (SRAI) library.
-
-      
-      Szymon Woźniak is a Data Scientist at Surfer and a member of Kraina.AI research group at Wrocław University of Science and Technology. His research interests are focused on NLP and spatial analysis in AI. He holds a Master's degree in Data Science and has published multiple scientific publications in the geospatial domain. He also co-created the SRAI library for geospatial data processing and machine learning.
-
-      
-      Kacper Leśniara is a skilled ML/MLOps Engineer with over two years of experience, proficient in machine learning technologies, Python, SQL, and geospatial analysis. He also holds a Master's Degree in Data Science from Wrocław University of Science and Technology. Additionally, he has published research in the geospatial domain and is a co-author of an open-source Geo AI library under the Kraina AI Research Group at WUST.
-
-
+  author-name: Jakub Adamczyk
+  author-title: AGH University of Cracow
+  author-image: images/optimized/cfc-2023-600x600/JakubAdamczyk.webp
+  author-bio: >-
+    Jakub Adamczyk is a PhD candidate at AGH University of Cracow, and Data Science graduate. His research work concerns supervised learning on graphs, in particular for molecular property prediction. He also works as a Data Science Engineer at Placewise, developing models for serverless ML in NLP and computer vision. He spends his free time doing Historical European Martial Arts (HEMA).
