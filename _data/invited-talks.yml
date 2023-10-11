@@ -11,8 +11,9 @@
     He has co-founded two companies, Eyedea Recognition (computer vision) and Locksley (combinatorial optimization). The industrial project he has lead at the Czech Technical University (Toyota, Samsung, Hitachi, Boeing) have generated income of about 5 million euros. He is an inventor of several patents.
   google-scholar: https://scholar.google.com/citations?user=EJCNY6QAAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Learning Dynamical Systems Via Koopman Operator Regression
+  abstract: >-
+    Non-linear dynamical systems can be handily described by the associated Koopman operator, whose action evolves every observable of the system forward in time. These operators are instrumental to forecasting and interpreting the system dynamics, and have broad applications in science and engineering. The talk gives a gentle introduction to this topic, with a focus on theory and algorithms. We highlight the importance of algorithms that allow us to estimate the spectral decomposition of the Koopman operator well and explore how the quest for good representations for these operators can be formulated as an optimization problem involving neural networks.
   time: TBA
   date: TBA
   author-name: Massimiliano Pontil
@@ -56,8 +57,9 @@
     Frans A. Oliehoek is Associate Professor at Delft University of Technology, where he leads a group on interactive learning and decision making, is one of the scientific directors of the Mercury machine learning lab, and is director and co-founder of the ELLIS Unit Delft. He received his Ph.D. in Computer Science (2010) from the University of Amsterdam (UvA), and held positions at various universities including MIT, Maastricht University and the University of Liverpool.  Frans' research interests revolve around intelligent systems that learn about their environment via interaction, building on techniques from machine learning, AI and game theory. He has served as PC/SPC/AC at top-tier venues in AI and machine learning, and currently serves as associate editor for JAIR and AIJ. He is a Senior Member of AAAI, and was awarded a number of personal research grants, including a prestigious ERC Starting Grant.
   google-scholar: https://scholar.google.com/citations?user=rSNBJJIAAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Language Modelling with Pixels
+  abstract: >-
+    Language models are usually defined over a finite set of inputs, which creates a bottleneck if we attempt to scale the number of languages supported by a model. Tackling this bottleneck often results in a trade-off between what can be represented in the model and computational issues in the output layer. I will present the Pixel-based Encoder of Language, which suffers from neither of these issues by rendering text as images, making it possible to transfer representations across languages based on the co-activation of pixels. I will discuss the results of various models, pretrained on only English text, ranging from just 5M parameters up to 86M parameters on a variety of downstream syntactic and semantic tasks in 32 typologically diverse languages across 14 scripts.
   date: TBA
   time: TBA
   author-name: Desmond Elliott
@@ -67,8 +69,9 @@
     Desmond Elliott is an Assistant Professor and a Villum Young Investigator at the University of Copenhagen. He obtained his Ph.D from the University of Edinburgh, under the supervision of Frank Keller, and he was a Postdoctoral Researcher at CWI, and the University of Amsterdam in the Netherlands. His current research interests include tokenisation-free language modelling, and multilingual and multimodal learning.
   google-scholar: https://scholar.google.com/citations?user=OjYpMi4AAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Game Theory Empowered by Data Science and Machine learning to Improve Treatment of Metastatic Cancer
+  abstract: >-
+    Standard of care in metastatic cancers typically applies Maximum Tolerable Dose (MTD) of treatment or treatment combinations, either continuously or in repeated identical cycles, until unacceptable toxicity, cancer progression, or cure. Cure is rare, due to fast evolving therapy resistance. My recent research helped to explain why MTD fails and to design first evolutionary  anti-cancer therapies, i.e. therapies that anticipate and forestall evolution of  treatment-induced resistance in cancer cells. Such therapies can be designed through Stackelberg evolutionary games (SEGs), i.e. games between a rational leader (here physician) and evolutionary followers (here evolving cancer cells). I will demonstrate how data science and machine learning can empower game theory to design the evolutionary anti-cancer therapies and how such therapies lead to better quality and quantity of patients’ lives.
   time: TBA
   date: TBA
   author-name: Kateřina Staňková
@@ -111,8 +114,9 @@
     Philippe Preux is a professor in Computer Science at the Université de Lille, France. He has been active in research in artificial intelligence for 30 years now, mostly dealing with machine learning and data mining in the last 2 decades, especially reinforcement learning. He has been the head of the SequeL research group at Inria/CNRS/Université de Lille since 2006, a group now renamed Scool. His research ranges from fundamental algorithmic and methodological questions to applications of reinforcement learning in collaboration with companies. Philippe currently focuses his efforts on applications related to health or sustainable development. He has hosted ICML 2015, and co-organized various scientific events such as the European Workshop on Reinforcement Learning in 2008 and 2018, as well as the Reinforcement Learning Summer School in 2019.
   google-scholar: https://scholar.google.com/citations?user=JTXxmeAAAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Teaching Language Models to Use Tools
+  abstract: >-
+    Large language models (LLMs) have fueled dramatic progress in natural language tasks and are already at the core of many user-facing products, such as ChatGPT and Copilot. Paradoxically, language models often still struggle with basic tasks, like solving simple arithmetic problems, where smaller and simpler external resources, such as a calculator, can accomplish the task perfectly. This talk will focus on LLMs that leverage external resources, beginning with models that are always prompted to use an external tool, like retrieval-augmented models. The second part of this talk will concentrate on teaching models to autonomously understand how and when to leverage tools in a self-supervised way. Finally, we will discuss exciting new opportunities that necessitate external tool usage.
   time: TBA
   date: TBA
   author-name: Jane Dwivedi-Yu
