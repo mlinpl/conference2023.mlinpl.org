@@ -1,3 +1,26 @@
+# - author-name: Maciej Wysocki
+#   title: "The Future is Now: Embracing Allegro Transactional Data for Risk Modeling"
+#   author-title: "Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw / Allegro Pay"
+#   abstract: >- 
+#     The accurate prediction of probability of default plays a critical role in safeguarding Allegro Pay business. Industry standard models, like tree-based models, unfortunately fall short in capturing the complexities of time-varying transactional data, limiting their predictive capabilities in prescoring applications. This presentation unveils a groundbreaking approach that harnesses the power of deep learning models to transform preliminary credit risk assessment.
+    
+#     At the core of our methodology lies the utilization of time series transactional data, which provides insights into customers' behavior over time. We developed a custom experimentation framework tailored to our specific credit risk domain leveraging this valuable data. This framework facilitated seamless integration of deep learning models and allowed us to derive more accurate preliminary probability of default estimates.
+    
+#     Our experimentation framework enabled us to explore various deep learning architectures, including Long Short-Term Memory (LSTM) networks and transformers, capable of capturing temporal dependencies in the data. We incorporated a combination of numerical and categorical features into our models, effectively encoding customer behavior patterns and leveraging transactional data in a meaningful way.
+    
+#     To evaluate the effectiveness of our approach, extensive experiments were conducted on a diverse dataset comprising hundreds of thousands of time series of customer transactions. The results surpassed our baseline approaches, showcasing the potential of deep learning in probability of default prediction. We witnessed remarkable improvements in model performance, enabling more precise preliminary risk assessment and proactive decision-making.
+    
+#     In conclusion, this presentation demonstrates the transformative potential of deep learning models in credit risk assessment, leveraging time series transactional data to accurately calculate preliminary probability of default based solely on Allegro data. The developed experimentation framework and the insights gained from our experiments pave the way for future advancements and usage of our methodology for customers prelimit offers.
+#   author-bio: >- 
+#     Maciej Wysocki is a first-year Ph.D. student in Quantitative Finance at the University of Warsaw and works as a data scientist at Allegro Pay. In his academic research he tackles the problems of derivatives pricing and portfolio optimization, while at Allegro Pay on a daily basis he deals with terabytes of data to deliver state-of-the-art machine learning solutions for credit risk management. With a passion for data-driven insights, he has a track record of applying advanced analytics and machine learning methods to solve complex business challenges in the banking and fintech industries.
+#   co-authors: Jan Kościałkowski
+#   date: Friday / 27 October
+#   time: 16:30 - 18:30
+#   room: 
+#   session: 
+#   id: 1
+#   author-image: images/optimized/cfc-2023-600x600/maciej_wysocki.webp
+
 - author-name: Mateusz Panasiuk
   title: "Calm in the eye of the storm: how to thrive in noisy environment"
   author-title: "AI Investments"
@@ -141,20 +164,20 @@
   id: 9
   author-image: images/empty.png
 
-- author-name: Sindhu Padakandla
-  title: "End-to-End Machine Learning Approaches for Autonomous Driving"
-  author-title: "OLA Electric"
-  abstract: >- 
-    Autonomous driving is a geometric problem, where the goal is to navigate a vehicle safely and correctly through 3D space. Based on LiDAR ensing, a 3D representation of the scene is commonly used for motion planning and prediction. Recent advances in camera-based perception are applicable for wider monocular vision tasks including motion prediction and planning. Autonomous vehicles (AV) based on cameras are much cheaper compared to LiDAR based. Thus, of late, there has been lot of emphasis on utilizing camera-based perception for all driving related tasks, with weather related abnormalities handled using minimal dependence on expensive sensors (like LiDAR, RADAR etc). This review work follows two main threads - (1) emphasis on end-to-end learning approaches for driving, more specifically reinforcement learning (RL)-based (2) highlighting the importance of both 2D and 3D representations for scene understanding in autonomous driving (AD).
-  author-bio: >- 
-    Sindhu Padakandla is a scientist working in the area of Autonomous Vehicles, and specialize in Deep Reinforcement Learning and Machine Learning. Currently she is also keen to make AI approaches accessible to non-AI, non-tech background researchers as well. She has been actively conducting summer schools and workshops for Bio and Chemistry researchers to help them get initiated into AI.
-  co-authors: 
-  date: Friday / 27 October
-  time: 16:30 - 18:30
-  room: 
-  session: 
-  id: 10
-  author-image: images/empty.png
+# - author-name: Sindhu Padakandla
+#   title: "End-to-End Machine Learning Approaches for Autonomous Driving"
+#   author-title: "OLA Electric"
+#   abstract: >- 
+#     Autonomous driving is a geometric problem, where the goal is to navigate a vehicle safely and correctly through 3D space. Based on LiDAR ensing, a 3D representation of the scene is commonly used for motion planning and prediction. Recent advances in camera-based perception are applicable for wider monocular vision tasks including motion prediction and planning. Autonomous vehicles (AV) based on cameras are much cheaper compared to LiDAR based. Thus, of late, there has been lot of emphasis on utilizing camera-based perception for all driving related tasks, with weather related abnormalities handled using minimal dependence on expensive sensors (like LiDAR, RADAR etc). This review work follows two main threads - (1) emphasis on end-to-end learning approaches for driving, more specifically reinforcement learning (RL)-based (2) highlighting the importance of both 2D and 3D representations for scene understanding in autonomous driving (AD).
+#   author-bio: >- 
+#     Sindhu Padakandla is a scientist working in the area of Autonomous Vehicles, and specialize in Deep Reinforcement Learning and Machine Learning. Currently she is also keen to make AI approaches accessible to non-AI, non-tech background researchers as well. She has been actively conducting summer schools and workshops for Bio and Chemistry researchers to help them get initiated into AI.
+#   co-authors: 
+#   date: Friday / 27 October
+#   time: 16:30 - 18:30
+#   room: 
+#   session: 
+#   id: 10
+#   author-image: images/empty.png
 
 - author-name: Wojciech Kusa
   title: "Effective Matching of Patients to Clinical Trials using Entity Extraction and Neural Re-ranking"
