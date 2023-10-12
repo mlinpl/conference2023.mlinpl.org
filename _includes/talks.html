@@ -11,7 +11,12 @@ Expects following parameters:
         </div>
     </div>
     {% for talk in include.talks-data %}
-    {% assign html-id = include.talk-title-prefix | slugify | append: "-" | append: forloop.index %}
+    {% assign html-id = include.talk-title-prefix | slugify | append: "-" %}
+    {% if talk.id %}
+        {% assign html-id = html-id | append: talk.id %}
+    {% else %}
+        {% assign html-id = html-id | append: forloop.index %}
+    {% endif %}
     <anchor style="position: relative; top: -70px;" id="{{ html-id }}"></anchor>
     <div class="row" style="margin-bottom: 70px;">
         <div class="speaker-details-image col-md-3 person text-center">
