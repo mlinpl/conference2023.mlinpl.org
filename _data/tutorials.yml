@@ -113,11 +113,20 @@
 
     **Goals:** We would like attendees to understand what is de novo drug discovery, what are its challenges (e.g. OOD generalization, synthesizability, and many more), and reimplement some rudimentary techniques for generating compounds.
 
-  author-name: Stanislaw Jastrzebski
-  author-title: Molecule.one
-  author-image: images/optimized/cfc-2023-600x600/StanislawJastrzebski.webp
+  authors:
+    - name: Stanislaw Jastrzebski
+      title: Molecule.one
+      image: images/optimized/cfc-2023-600x600/StanislawJastrzebski.webp
+
+    - name: Tomasz Danel
+      title: Insitro
+      image: images/optimized/cfc-2023-600x600/TomaszDanel.webp
+
   author-bio-md: >-
-    Stanislaw Jastrzebski serves as the CTO and Chief Scientist at Molecule.one, a biotech startup in the drug discovery space. He is passionate about improving the fundamental aspects of deep learning and applying it to automate scientific discovery. He completed his postdoctoral training at New York University in deep learning. His PhD thesis was based on work on foundations of deep learning done during research visits at MILA (with Yoshua Bengio) and the University of Edinburgh (with Amos Storkey). He received his PhD from Jagiellonian University, advised by Jacek Tabor. Beyond academia, he gained industrial experience at Google, Microsoft and Palantir. In his scientific work, he has published at leading machine learning venues (NeurIPS, ICLR, ICML, JMLR, Nature SR). He is also actively contributing to the machine learning community as an Area Chair (most recently NeurIPS '23) and as an Action Editor for TMLR. At Molecule.one, he leads technical teams working on software for synthesis planning based on deep learning, public data sources, and experiments from a highly automated laboratory. 
+    Stanislaw Jastrzebski serves as the CTO and Chief Scientist at Molecule.one, a biotech startup in the drug discovery space. He is passionate about improving the fundamental aspects of deep learning and applying it to automate scientific discovery. He completed his postdoctoral training at New York University in deep learning. His PhD thesis was based on work on foundations of deep learning done during research visits at MILA (with Yoshua Bengio) and the University of Edinburgh (with Amos Storkey). He received his PhD from Jagiellonian University, advised by Jacek Tabor. Beyond academia, he gained industrial experience at Google, Microsoft and Palantir. In his scientific work, he has published at leading machine learning venues (NeurIPS, ICLR, ICML, JMLR, Nature SR). He is also actively contributing to the machine learning community as an Area Chair (most recently NeurIPS '23) and as an Action Editor for TMLR. At Molecule.one, he leads technical teams working on software for synthesis planning based on deep learning, public data sources, and experiments from a highly automated laboratory.
+
+
+    Tomasz Danel is a Machine Learning Lead Scientist at Insitro. He is also a Ph.D. candidate in the machine learning research group (GMUM) at the Jagiellonian University in Kraków. He obtained his M.Sc. in computer science from the same university. His current research is focused on solving drug design challenges using deep learning. He is especially interested in combining geometric deep learning with structure-based drug design. His other research interests include graph neural networks, molecular graph theory, and generative molecular design. 
 
 - title: 'What is possible in real-time machine learning?'
   date: Sunday / 29 October
