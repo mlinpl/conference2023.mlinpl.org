@@ -638,25 +638,25 @@
   session: 
   id: 35
   author-image: images/optimized/cfc-2023-600x600/eryka_probierz.webp
-
-- author-name: Rodolfo Pina
-  title: "Identification of selected properties of cementitious composites using artificial neural networks"
-  author-title: "-"
-  abstract: >- 
-    The poster would focus on the optimization of concrete mix design using a combination of Genetic Algorithms (GA) and Artificial Neural Networks (ANN) as surrogate
-    models. The study aims to achieve an optimal mix design that strikes a balance between cost and compressive strength requirements, while meeting the desired compressive strength requirements and avoiding explosive spalling. The Genetic Algorithms are employed to explore
-    the mix design space and generate candidate solutions, while the Artificial Neural Networks are utilized to predict the compressive strength based on the mix proportions and to predict the likelihood of explosive spalling in concrete structures exposed to high temperatures. Both ANN’s are included in the GA as surrogate models to evaluate the fitness of the possible solutions. The results demonstrate the effectiveness of the optimization process in generating
-    improved mix designs, while considering cost constraints and mitigating the risk of explosive spalling. The findings of this research contribute to the advancement of concrete mix design optimization techniques and offer valuable insights for enhancing the fire performance and durability of concrete structures subjected to elevated temperature.
-  author-bio: >- 
-    Rodolfo Pina was born and raised in Costa Rica. From an early age, he developed a fascination with the built environment and its impact on our lives. This fascination led him to pursue a degree in civil engineering.
-    After completing his undergraduate studies in Costa Rica, Rodolfo decided to delve deeper into the mechanics that govern structures and materials. This prompted him to pursue a master's degree in solid mechanics. Throughout his international master's program, he had the privilege of studying at diverse universities in France, Italy, Greece and Poland.
-  co-authors: Łukasz Sadowski
-  date: Saturday / 28 October
-  time: 10:00 - 12:00
-  room: 
-  session: 
-  id: 36
-  author-image: images/optimized/cfc-2023-600x600/rodolfo_pina.webp
+#
+#- author-name: Rodolfo Pina
+#  title: "Identification of selected properties of cementitious composites using artificial neural networks"
+#  author-title: "-"
+#  abstract: >-
+#    The poster would focus on the optimization of concrete mix design using a combination of Genetic Algorithms (GA) and Artificial Neural Networks (ANN) as surrogate
+#    models. The study aims to achieve an optimal mix design that strikes a balance between cost and compressive strength requirements, while meeting the desired compressive strength requirements and avoiding explosive spalling. The Genetic Algorithms are employed to explore
+#    the mix design space and generate candidate solutions, while the Artificial Neural Networks are utilized to predict the compressive strength based on the mix proportions and to predict the likelihood of explosive spalling in concrete structures exposed to high temperatures. Both ANN’s are included in the GA as surrogate models to evaluate the fitness of the possible solutions. The results demonstrate the effectiveness of the optimization process in generating
+#    improved mix designs, while considering cost constraints and mitigating the risk of explosive spalling. The findings of this research contribute to the advancement of concrete mix design optimization techniques and offer valuable insights for enhancing the fire performance and durability of concrete structures subjected to elevated temperature.
+#  author-bio: >-
+#    Rodolfo Pina was born and raised in Costa Rica. From an early age, he developed a fascination with the built environment and its impact on our lives. This fascination led him to pursue a degree in civil engineering.
+#    After completing his undergraduate studies in Costa Rica, Rodolfo decided to delve deeper into the mechanics that govern structures and materials. This prompted him to pursue a master's degree in solid mechanics. Throughout his international master's program, he had the privilege of studying at diverse universities in France, Italy, Greece and Poland.
+#  co-authors: Łukasz Sadowski
+#  date: Saturday / 28 October
+#  time: 10:00 - 12:00
+#  room:
+#  session:
+#  id: 36
+#  author-image: images/optimized/cfc-2023-600x600/rodolfo_pina.webp
 
 - author-name: Hanna Broszczak
   title: "Combining Biclustering with Probabilistic Predictive Models to Develop Personalised Sets for Early Detection of Dementia"
