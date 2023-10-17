@@ -1,6 +1,6 @@
 - title: Thursday / 26 October
-  # location: SGH Warsaw School of Economics
-  location: TBA
+  location: SGH Warsaw School of Economics
+  location-address: al. Niepodległości 162, 02-554 Warszawa
   sessions:
     - events: 
         - title: Student Research Workshop
@@ -40,7 +40,7 @@
               url: /program#srw-talk-8
           element-class: col-lg-12
           time: 8:00 - 11:00
-          room: TBA
+          room: Main Lecture Hall 
     - events:
         - title: Registration
           element-class: col-lg-12
@@ -81,23 +81,25 @@
           time: 16:15 - 17:15
           room: Main Lecture Hall
           url: /program#keynote-talk-2
-    - events:
-        - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
-          element-class: col-lg-12
-          time: 17:15 - 17:45
-    - events:
-        - title: "Keynote Talk 3: TBA"
-          element-class: col-lg-12
-          time: 17:45 - 18:45
-          room: Main Lecture Hall
     # - events:
-    #     - title: '<i class="fa-solid fa-champagne-glasses"></i> Conference Party'
+    #     - title: '<i class="fa-solid fa-mug-saucer"></i> Coffee-break'
     #       element-class: col-lg-12
-    #       time: 21:00
-    #       room: TBA
+    #       time: 17:15 - 17:45
+    # - events:
+    #     - title: "Keynote Talk 3: TBA"
+    #       element-class: col-lg-12
+    #       time: 17:45 - 18:45
+    #       room: Main Lecture Hall
+    - events:
+        - title: '<i class="fa-solid fa-champagne-glasses"></i> Conference Party'
+          element-class: col-lg-12
+          time: "19:00 - 24:00"
+          room: 
+          subtitle: Bolek Pub & Restaurant, al. Niepodległości 211, 02-086 Warszawa
 
 - title: Friday / 27 October
-  location: Copernicus Science Centre, Warszawa
+  location: Copernicus Science Centre
+  location-address: Wybrzeże Kościuszkowskie 20, 00-390 Warszawa
   sessions:
     - events:
         - title: Registration
@@ -263,7 +265,8 @@
           url: /program#poster-2
 
 - title: Saturday / 28 October
-  location: Copernicus Science Centre, Warszawa
+  location: Copernicus Science Centre
+  location-address: Wybrzeże Kościuszkowskie 20, 00-390 Warszawa
   sessions:
     - events:
         - title: Registration
@@ -353,7 +356,8 @@
 
 - title: Sunday / 29 October
   note: Due to limited number of seats, attending tutorials require separate registration (see <a href="#tickets">tickets section</a>).
-  location: Faculty of Mathematics and Information Science, Warsaw University of Technology
+  location: Faculty of Mathematics and Information Science, Warsaw University of Technology, 
+  location-address: Koszykowa 75, 00-662 Warszawa
   sessions:
     - events:
         - title: Tutorials registration
