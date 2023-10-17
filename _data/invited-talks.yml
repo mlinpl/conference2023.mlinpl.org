@@ -23,8 +23,9 @@
     Massimiliano Pontil is Senior Researcher at the Italian Institute of Technology, where he leads the CSML research unit, and co-director of ELLIS unit Genoa. He is also Professor at University College London and member of the UCL Centre for Artificial Intelligence. He has been active in machine learning for over twenty-five years, working on theory and algorithms, including the areas of kernel methods, learning dynamical systems, meta-learning, multitask and transfer learning, sparse estimation, and statistical learning theory.
   google-scholar: https://scholar.google.com/citations?user=lcOacs8AAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: "Geometric Algebra Transformers: A Universal Architecture for Geometric Data"
+  abstract: >-
+    Problems involving geometric data arise in a variety of fields, including computer vision, robotics, chemistry, and physics. Such data can take numerous forms, such as points, direction vectors, planes, or transformations, but to date there is no single architecture that can be applied to such a wide variety of geometric types while respecting their symmetries. In this paper we introduce the Geometric Algebra Transformer (GATr), a general-purpose architecture for geometric data. GATr represents inputs, outputs, and hidden states in the projective geometric algebra, which offers an efficient 16-dimensional vector space representation of common geometric objects as well as operators acting on them. GATr is equivariant with respect to Pin(3,0,1), the double cover of E(3): the symmetry group of 3D Euclidean space. As a transformer, GATr is scalable, expressive, and versatile. In various geometric problems, GATr shows strong improvements over non-geometric baselines.
   time: TBA
   date: TBA
   author-name: Taco Cohen
@@ -103,7 +104,7 @@
     Edoardo M. Ponti is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the "Institute for Language, Cognition, and Computation" (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
   google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
 
-- title: TBA
+- title: Bits of Reinforcement Learning
   abstract: TBA
   time: TBA
   date: TBA

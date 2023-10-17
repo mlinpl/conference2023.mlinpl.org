@@ -34,13 +34,13 @@
   desc: >-
     Join us for a panel discussion on the intriguing concept of "Human in the Loop." Delve into the topic of training models with human involvement as our panelists shed light on harnessing human expertise to enhance AI models. We will explore the effectiveness of leveraging human insights, assess their inherent value, and uncover the true potential they hold.
   panelists:
-    - name: Piotr Wygocki
-      image: images/optimized/speakers-2023-600x600/PiotrWygocki.webp
-      title: MIM Fertility
-      bio-intro: >-
-        Piotr Wygocki is researcher and innovator, co-founder of MIM Fertility. A graduate of the University of Warsaw with a PhD in computer science and a double master's degree in computer science and mathematics. Assistant Professor at the University of Warsaw. 
-      bio-more: >-
-        Experienced expert in both theoretical and commercial aspects of computer science. Winner of the Kaggle offline competition during KaggleDays Warsaw 2018. Outstanding specialist in AI solutions in reproductive health.
+    # - name: Piotr Wygocki
+    #   image: images/optimized/speakers-2023-600x600/PiotrWygocki.webp
+    #   title: MIM Fertility
+    #   bio-intro: >-
+    #     Piotr Wygocki is researcher and innovator, co-founder of MIM Fertility. A graduate of the University of Warsaw with a PhD in computer science and a double master's degree in computer science and mathematics. Assistant Professor at the University of Warsaw. 
+    #   bio-more: >-
+    #     Experienced expert in both theoretical and commercial aspects of computer science. Winner of the Kaggle offline competition during KaggleDays Warsaw 2018. Outstanding specialist in AI solutions in reproductive health.
     - name: Veronika Cheplygina
       image: images/optimized/speakers-2023-600x600/VeronikaCheplygina.webp
       title: IT University of Copenhagen
@@ -48,6 +48,13 @@
         Veronika Cheplygina's research focuses on limited labeled scenarios in machine learning, in particular in medical image analysis. She received her Ph.D. from Delft University of Technology in 2015. After a postdoc at the Erasmus Medical Center, in 2017 she started as an assistant professor at Eindhoven University of Technology. 
       bio-more: >-
         In 2020, failing to achieve various metrics, she left the tenure track of search of the next step where she can contribute to open and inclusive science. In 2021 she started as an associate professor at IT University of Copenhagen. Next to research and teaching, Veronika blogs about academic life at https://www.veronikach.com. She also loves cats, which you will often encounter in her work.
+    - name: Alina Powała
+      image: images/optimized/speakers-2023-600x600/AlinaPowala.webp
+      title: QED Software
+      bio-intro: >-
+        Alina is an entrepreneur with an academic background (Ph.D. in Computer Science, Artificial Intelligence), combining the best of the two worlds to support business partners and enable analytic teams. She has helped companies across various industries leverage growing AI capabilities in order to bring competitive advantage. A scientist, highly trained in research, quantitative methods and computer science.
+      bio-more:  
+        Alina cultivates a culture of innovation, entrepreneurial spirit and focused teamwork. She has built teams and worked in international groups, including fully remote. She authored and co-authored 10+ publications in top scientific journals such as Neurocomputing, Web Intelligence, Fundamenta Informaticae as well as leading conference papers such as IJCAI, PRIMA and WI-IAT. She received a special prize for outstanding theoretical dissertation on Artificial Intelligence in 2016. At QED Software, Alina is responsible for the AI products portfolio as well as effective introduction of the products to the market. Privately, Alina enjoys life, but particularly windsurfing.
     - name: Eduardo Mosqueira Rey
       image: images/optimized/speakers-2023-600x600/EduardoMosqueiraRey.webp
       title: University of A Coruña / LIDIA

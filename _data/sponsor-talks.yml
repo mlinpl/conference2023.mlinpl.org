@@ -1,0 +1,34 @@
+- title: "Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models"
+  abstract: >-
+    Knowledge distillation in neural networks refers to compressing a large model or dataset into a smaller version of itself. We introduce Privacy Distillation, a framework that allows a text-to-image generative model to teach another model without exposing it to identifiable data. Here, we are interested in the privacy issue faced by a data provider who wishes to share their data via a multimodal generative model. A question that immediately arises is “How can a data provider ensure that the generative model is not leaking identifiable information about a patient?”. Our solution consists of (1) training a first diffusion model on real data (2) generating a synthetic dataset using this model and filtering it to exclude images with a re-identifiability risk (3) training a second diffusion model on the filtered synthetic data only. We showcase that datasets sampled from models trained with privacy distillation can effectively reduce re-identification risk whilst maintaining downstream performance.
+  date: TBA
+  time: TBA
+  room: TBA
+  session:
+  author-name: Grzegorz Jacenkow
+  author-title: Amazon
+  author-image: images/optimized/speakers-2023-600x600/GrzegorzJacenkow.webp
+  author-bio: >- 
+    Currently a Data Scientist at Amazon, Grzegorz specialises in multimodal learning research and large language models (LLMs). Prior to joining Amazon, he was a PhD student in Healthcare AI at The University of Edinburgh, where he also earned an MSc in Artificial Intelligence. His academic foundation was laid with a BSc in Computer Science with Business and Management from The University of Manchester. Notably, Grzegorz contributed to CERN as a technical student, addressing author disambiguation at Inspire-HEP. His research interests encompass multimodal alignment, low-resource learning, and leveraging knowledge graphs.
+
+- author-name: Maciej Wysocki
+  title: "The Future is Now: Embracing Allegro Transactional Data for Risk Modeling"
+  author-title: "Allegro Pay / Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw"
+  abstract: >- 
+    The accurate prediction of probability of default plays a critical role in safeguarding Allegro Pay business. Industry standard models, like tree-based models, unfortunately fall short in capturing the complexities of time-varying transactional data, limiting their predictive capabilities in prescoring applications. This presentation unveils a groundbreaking approach that harnesses the power of deep learning models to transform preliminary credit risk assessment.
+    
+    At the core of our methodology lies the utilization of time series transactional data, which provides insights into customers' behavior over time. We developed a custom experimentation framework tailored to our specific credit risk domain leveraging this valuable data. This framework facilitated seamless integration of deep learning models and allowed us to derive more accurate preliminary probability of default estimates.
+    
+    Our experimentation framework enabled us to explore various deep learning architectures, including Long Short-Term Memory (LSTM) networks and transformers, capable of capturing temporal dependencies in the data. We incorporated a combination of numerical and categorical features into our models, effectively encoding customer behavior patterns and leveraging transactional data in a meaningful way.
+    
+    To evaluate the effectiveness of our approach, extensive experiments were conducted on a diverse dataset comprising hundreds of thousands of time series of customer transactions. The results surpassed our baseline approaches, showcasing the potential of deep learning in probability of default prediction. We witnessed remarkable improvements in model performance, enabling more precise preliminary risk assessment and proactive decision-making.
+    
+    In conclusion, this presentation demonstrates the transformative potential of deep learning models in credit risk assessment, leveraging time series transactional data to accurately calculate preliminary probability of default based solely on Allegro data. The developed experimentation framework and the insights gained from our experiments pave the way for future advancements and usage of our methodology for customers prelimit offers.
+  author-bio: >- 
+    Maciej Wysocki is a first-year Ph.D. student in Quantitative Finance at the University of Warsaw and works as a data scientist at Allegro Pay. In his academic research he tackles the problems of derivatives pricing and portfolio optimization, while at Allegro Pay on a daily basis he deals with terabytes of data to deliver state-of-the-art machine learning solutions for credit risk management. With a passion for data-driven insights, he has a track record of applying advanced analytics and machine learning methods to solve complex business challenges in the banking and fintech industries.
+  co-authors: Jan Kościałkowski
+  date: TBA
+  time: TBA
+  room: TBA
+  session:
+  author-image: images/optimized/cfc-2023-600x600/maciej_wysocki.webp
