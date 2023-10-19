@@ -162,8 +162,8 @@
 
 - name: "Bartek Krzepkowski"
   title: "Registration Team"
-  linkedin: ""
-  twitter: ""
+  linkedin: "https://www.linkedin.com/in/bartekkrzepkowski/"
+  twitter: "https://twitter.com/KrzepkowskiB"
   image: "images/optimized/organizers-300x300/BartekKrzepkowski.webp"
 
 - name: "Piotr Kucharski"

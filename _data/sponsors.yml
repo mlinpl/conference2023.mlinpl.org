@@ -39,6 +39,9 @@
     - name: Alphamoon
       image: "images/optimized/sponsors-2023-600x600/alphamoon.webp"
       url: "https://alphamoon.ai/"
+    - name: Bites Studio
+      image: "images/optimized/sponsors-2023-600x600/Bites.webp"
+      url: "https://www.bitesstudio.com/"
     - name: Hewlett Packard Enterprise
       image: "images/optimized/sponsors-2023-600x600/HPE.webp"
       url: https://www.hpe.com/us/en/home.html
