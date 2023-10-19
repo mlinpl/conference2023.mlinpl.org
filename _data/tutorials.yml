@@ -230,3 +230,32 @@
   author-image: images/optimized/cfc-2023-600x600/JakubAdamczyk.webp
   author-bio: >-
     Jakub Adamczyk is a PhD candidate at AGH University of Cracow, and Data Science graduate. His research work concerns supervised learning on graphs, in particular for molecular property prediction. He also works as a Data Science Engineer at Placewise, developing models for serverless ML in NLP and computer vision. He spends his free time doing Historical European Martial Arts (HEMA).
+
+- title: "From Idea to Market: Invent and Simplify with Amazon"
+  date: Sunday / 29 October
+  time: 9:00 - 13:00
+  room: TBA
+  desc-md: >-
+    Are you a young ICT enthusiast starting your career with a passion for turning your innovative ideas into a real-world app or device using cloud technologies? Join our tutorial, "From Idea to Market: Invent and Simplify with Amazon," and discover the answers to your burning questions! We'll explore how to incorporate your model, which technologies you can use, and how to scale up to production. Drawing on our experience with Alexa, Ring, and AWS products, we'll show you how to bring your cool ideas to life and take the first step towards becoming a successful developer-entrepreneur.
+
+  authors: 
+    - name: Anna Dąbrowska
+      title: Software Developer, Amazon Alexa AI-Natural Understanding
+      image: images/optimized/cfc-2023-600x600/AnnaDabrowska.webp
+    
+    - name: Volodymyr Hlushkov 
+      title: Senior QA Engineer, Amazon Ring
+      image: images/optimized/cfc-2023-600x600/VolodymyrHlushkov.webp
+
+    - name: Mikołaj Olszewski
+      title: Senior Software Engineer, Amazon Alexa Text-To-Speech
+      image: images/optimized/cfc-2023-600x600/MikolajOlszewski.webp
+
+    - name: Valeriia Voitenko
+      title: Software Development Manager, Amazon Web Services Database Migration Service
+      image: images/optimized/cfc-2023-600x600/ValeriiaVoitenko.webp
+
+    - name: Evgenia Vrubel
+      title: Front-End Engineer, Amazon Web Services Database Migration Service
+      image: images/optimized/cfc-2023-600x600/EvgeniaVrubel.webp
+  

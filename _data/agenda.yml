@@ -365,21 +365,25 @@
           time: 08:30 - 09:00
     - events:
         - title: 'Tutorial 1: Dancing with censored data: How to survive with explainable survival analysis?'
-          element-class: col-lg-3
+          element-class: col-lg-1of5
           time: 09:00 - 13:00
           url: /program#tutorial-1
         - title: 'Tutorial 2: Quickly Build and Deploy Interactive Machine Learning Applications with Streamlit'
-          element-class: col-lg-3
+          element-class: col-lg-1of5
           time: 09:00 - 13:00
           url: /program#tutorial-2
         - title: 'Tutorial 3: Introduction to geospatial machine learning'
-          element-class: col-lg-3
+          element-class: col-lg-1of5
           time: 09:00 - 13:00
           url: /program#tutorial-3
         - title: 'Tutorial 4: Generative Methods in Drug Discovery: A Practical Introduction'
-          element-class: col-lg-3
+          element-class: col-lg-1of5
           time: 09:00 - 13:00
           url: /program#tutorial-4
+        - title: 'Tutorial 8: From Idea to Market: Invent and Simplify with Amazon'
+          element-class: col-lg-1of5
+          time: 09:00 - 13:00
+          url: /program#tutorial-8
     - events:
         - title: '<i class="fa-solid fa-utensils"></i> Lunch-break'
           element-class: col-lg-12

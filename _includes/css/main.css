@@ -22,6 +22,51 @@
     }
 }
 
+/* This adds 5 column grid to bootstrap 3 */
+.col-xs-1of5,
+.col-sm-1of5,
+.col-md-1of5,
+.col-lg-1of5 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-xs-1of5 {
+    width: 20%;
+    float: left;
+}
+
+@media (min-width: 768px) {
+    .col-sm-1of5 {
+        width: 20%;
+        float: left;
+    }
+
+    .col-xs-1of5,
+    .col-sm-1of5,
+    .col-md-1of5,
+    .col-lg-1of5 {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-1of5 {
+        width: 20%;
+        float: left;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-1of5 {
+        width: 20%;
+        float: left;
+    }
+}
+
 
 /* Header */
 .intro-background {
