@@ -40,7 +40,7 @@ header:
   heading: '<img src="images/mlinpl-conference-2023-logo-black.png" style="max-height: 1.5em; max-width: 90%;">'
   date-location: 26 - 29 October / Warsaw, Poland
   # Countdown settings
-  countdown-date: "2023-10-26T00:00:00"
+  countdown-date: "2023-10-26T08:00:00"
   arrow-url: "#tickets"
 
 
