@@ -18,8 +18,8 @@
               subtitle: Jakub Krajewski
               time: 8:50 - 9:10
               url: /program#srw-talk-3
-            - title: "When a Language Question Is at Stake. A Revisited Approach to Label Sensitive Content"
-              subtitle: Daria Stetsenko
+            - title: "GARAGE: Generative-Augmented Retrieval Assisting Generation Enhancement"
+              subtitle: Krzysztof Jankowski
               time: 9:10 - 9:30
               url: /program#srw-talk-4
             - title: "Random Similarity Isolation Forest - Outlier Detection for Multimodal Data"
@@ -229,8 +229,8 @@
               subtitle: Piotr Januszewski
               time: 15:15 - 10:40
               url: /program#contributed-talk-13
-            - title: "How to Combine Computer Vision and LLMs? - AI Fashion Assistant"
-              subtitle: Piotr Skalski
+            - title: "Unlocking Scientific Discoveries with Large Language Models in Astronomy"
+              subtitle: Maja Jabłońska
               time: 15:40 - 16:05
               url: /program#contributed-talk-14
             - title: "Create User Interface for Machine Learning models directly from Python Notebook"
@@ -246,8 +246,8 @@
               subtitle: Maciek Wiatrak
               time: 15:15 - 10:40
               url: /program#contributed-talk-16
-            - title: "Unlocking Scientific Discoveries with Large Language Models in Astronomy"
-              subtitle: Maja Jabłońska
+            - title: "Deep spatial context - digital pathology"
+              subtitle: Paulina Tomaszewska
               time: 15:40 - 16:05
               url: /program#contributed-talk-17
             - title: "Artificial Intelligence for non-invasive cardiac diagnostics"
