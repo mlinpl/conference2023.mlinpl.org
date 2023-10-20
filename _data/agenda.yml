@@ -180,11 +180,13 @@
           room: Main Lecture Hall
           url: /program#discussion-panel-2
         - title: 'Sponsor talk 1: <strong>Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models</strong>'
+          subtitle: "by Grzegorz Jacenkow (Amazon)"
           element-class: col-lg-4
           time: 11:45 - 12:35
           room: Lecture Hall A
           url: /program#sponsor-talk-1
         - title: 'Sponsor talk 2: <strong>The Future is Now: Embracing Allegro Transactional Data for Risk Modeling</strong>'
+          subtitle: "by Maciej Wysocki (Allegro Pay / University of Warsaw)"
           element-class: col-lg-4
           time: 11:45 - 12:35
           room: Lecture Hall B
@@ -293,7 +295,7 @@
           room: Lecture Hall A
           url: /program#invited-talk-8
         - title: 'Invited talk 9: <strong>Geometric Algebra Transformers: A Universal Architecture for Geometric Data</strong>'
-          subtitle: "by Gergely Neu"
+          subtitle: "by Taco Cohen"
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Lecture Hall B
