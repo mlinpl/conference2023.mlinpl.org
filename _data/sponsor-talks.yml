@@ -1,9 +1,9 @@
 - title: "Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models"
   abstract: >-
     Knowledge distillation in neural networks refers to compressing a large model or dataset into a smaller version of itself. We introduce Privacy Distillation, a framework that allows a text-to-image generative model to teach another model without exposing it to identifiable data. Here, we are interested in the privacy issue faced by a data provider who wishes to share their data via a multimodal generative model. A question that immediately arises is “How can a data provider ensure that the generative model is not leaking identifiable information about a patient?”. Our solution consists of (1) training a first diffusion model on real data (2) generating a synthetic dataset using this model and filtering it to exclude images with a re-identifiability risk (3) training a second diffusion model on the filtered synthetic data only. We showcase that datasets sampled from models trained with privacy distillation can effectively reduce re-identification risk whilst maintaining downstream performance.
-  date: TBA
-  time: TBA
-  room: TBA
+  date: Friday / 27 October
+  time: 11:45 - 13:15
+  room: Lecture Hall A
   session:
   author-name: Grzegorz Jacenkow
   author-title: Amazon
@@ -27,8 +27,8 @@
   author-bio: >- 
     Maciej Wysocki is a first-year Ph.D. student in Quantitative Finance at the University of Warsaw and works as a data scientist at Allegro Pay. In his academic research he tackles the problems of derivatives pricing and portfolio optimization, while at Allegro Pay on a daily basis he deals with terabytes of data to deliver state-of-the-art machine learning solutions for credit risk management. With a passion for data-driven insights, he has a track record of applying advanced analytics and machine learning methods to solve complex business challenges in the banking and fintech industries.
   co-authors: Jan Kościałkowski
-  date: TBA
-  time: TBA
-  room: TBA
+  date: Friday / 27 October
+  time: 11:45 - 13:15
+  room: Lecture Hall B
   session:
   author-image: images/optimized/cfc-2023-600x600/maciej_wysocki.webp

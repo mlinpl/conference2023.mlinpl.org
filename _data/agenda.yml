@@ -188,14 +188,16 @@
           time: 11:45 - 13:00
           room: Main Lecture Hall
           url: /program#discussion-panel-2
-        - title: 'Sponsor talk 1: TBA'
+        - title: 'Sponsor talk 1: Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models'
           element-class: col-lg-4
           time: 11:45 - 13:00
           room: Lecture Hall A
-        - title: 'Sponsor talk 2: TBA'
+          url: /program#sponsor-talk-1
+        - title: 'Sponsor talk 2: The Future is Now: Embracing Allegro Transactional Data for Risk Modeling'
           element-class: col-lg-4
           time: 11:45 - 13:00
           room: Lecture Hall B
+          url: /program#sponsor-talk-2
     - events:
         - title: '<i class="fa-solid fa-utensils"></i> Lunch-break'
           element-class: col-lg-12
