@@ -16,7 +16,7 @@
   margin: 30px 45px
   sponsors:
     - name: Allegro
-      images: "images/optimized/sponsors-2023-600x600/Allegro.webp"
+      image: "images/optimized/sponsors-2023-600x600/Allegro.webp"
       url: https://ml.allegro.tech/
     - name: Ideas NCBR
       image: "images/optimized/sponsors-2023-600x600/IdeasNCBR.webp"
