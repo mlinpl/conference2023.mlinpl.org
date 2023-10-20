@@ -66,8 +66,8 @@
 
 - title: "/ Honorary Patronages"
   imageMaxWidth: 400px
-  imageMaxHeight: 220px
-  margin: 45px 60px
+  imageMaxHeight: 240px
+  margin: 45px 70px
   sponsors:
     - name: Minister of Digital Affairs
       #title: Minister of Digital Affairs
@@ -77,6 +77,9 @@
       #title: Minister of Digital Affairs
       image: "images/honorary-patronages/govtech.svg"
       url: https://www.mimuw.edu.pl/
+    - name: SGH
+      image: "images/optimized/honorary-patronages-600x600/SGH.webp"
+      url: https://www.sgh.waw.pl/en
     - name: University of Warsaw
       #title: Rector of University of Warsaw
       image: "images/optimized/honorary-patronages-600x600/UW.webp"

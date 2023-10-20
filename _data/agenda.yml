@@ -118,7 +118,7 @@
           room: Lecture Hall B
           url: /program#invited-talk-3
     - events: 
-        - title: 'Contributed Talks Session 1'
+        - title: 'Contributed Talks Session 1:'
           subevents:
             - title: <strong>Can individuals trust privacy mechanisms for machine learning? A case study of federated learning</strong>
               subtitle: by Franziska Boenisch
@@ -135,7 +135,7 @@
           element-class: col-lg-4
           time: 10:00 - 11:15
           room: Main Lecture Hall
-        - title: 'Contributed Talks Session 2'
+        - title: 'Contributed Talks Session 2:'
           subevents:
             - title: "<strong>Semi-supervised batch learning from logged data</strong>"
               subtitle: by Omar Rivasplata
@@ -152,7 +152,7 @@
           element-class: col-lg-4
           time: 10:00 - 11:15
           room: Lecture Hall A
-        - title: 'Contributed Talks Session 3'
+        - title: 'Contributed Talks Session 3:'
           subevents:
             - title: "<strong>ML without proper data in Advanced Robotic Navigation</strong>"
               subtitle: by Konrad Cop
@@ -215,7 +215,7 @@
           room: Lecture Hall B
           url: /program#invited-talk-6
     - events: 
-        - title: 'Contributed Talks Session 4'
+        - title: 'Contributed Talks Session 4:'
           subevents:
             - title: "<strong>Toward Continually Learning Models</strong>"
               subtitle: by Sebastian Cygert
@@ -232,7 +232,7 @@
           element-class: col-lg-4
           time: 15:15 - 16:30
           room: Main Lecture Hall
-        - title: 'Contributed Talks Session 5'
+        - title: 'Contributed Talks Session 5:'
           subevents:
             - title: "<strong>Mastering MLOps at a Reasonable Scale at Allegro</strong>"
               subtitle: by Piotr Januszewski
@@ -249,7 +249,7 @@
           element-class: col-lg-4
           time: 15:15 - 16:30
           room: Lecture Hall A
-        - title: 'Contributed Talks Session 6'
+        - title: 'Contributed Talks Session 6:'
           subevents:
             - title: "<strong>Fighting Antibiotic Resistance with Deep Learning</strong>"
               subtitle: by Maciek Wiatrak
@@ -307,7 +307,7 @@
           time: 10:00 - 12:00
           url: /program#poster-34
     - events: 
-        - title: 'Contributed Talks Session 7'
+        - title: 'Contributed Talks Session 7:'
           subevents:
             - title: "<strong>The State of Polish Semantic Search in the Era of LLMs</strong>"
               subtitle: by Piotr Rybak
@@ -324,7 +324,7 @@
           element-class: col-lg-4
           time: 12:00 - 13:15
           room: Main Lecture Hall
-        - title: 'Contributed Talks Session 8'
+        - title: 'Contributed Talks Session 8:'
           subevents:
             - title: "<strong>What AI developers need to know about AI governance</strong>"
               subtitle: by Kacper Łodzikowski
