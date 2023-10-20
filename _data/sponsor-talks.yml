@@ -13,7 +13,8 @@
 
 - author-name: Maciej Wysocki
   title: "The Future is Now: Embracing Allegro Transactional Data for Risk Modeling"
-  author-title: "Allegro Pay / Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw"
+  #author-title: "Allegro Pay / Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw"
+  author-title: "Allegro Pay / University of Warsaw"
   abstract: >- 
     The accurate prediction of probability of default plays a critical role in safeguarding Allegro Pay business. Industry standard models, like tree-based models, unfortunately fall short in capturing the complexities of time-varying transactional data, limiting their predictive capabilities in prescoring applications. This presentation unveils a groundbreaking approach that harnesses the power of deep learning models to transform preliminary credit risk assessment.
     
