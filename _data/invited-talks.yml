@@ -1,7 +1,9 @@
 - title: TBA
   abstract: TBA
-  time: TBA
-  date: TBA
+  time: 15:15 - 16:15
+  room: Lecture Hall A
+  date: Saturday / 28 October
+  id: 10
   author-name: Jiri Matas
   author-title: Czech Technical University
   author-image: images/optimized/speakers-2023-600x600/JiriMatas.webp
@@ -28,8 +30,10 @@
 - title: "Geometric Algebra Transformers: A Universal Architecture for Geometric Data"
   abstract: >-
     Problems involving geometric data arise in a variety of fields, including computer vision, robotics, chemistry, and physics. Such data can take numerous forms, such as points, direction vectors, planes, or transformations, but to date there is no single architecture that can be applied to such a wide variety of geometric types while respecting their symmetries. In this paper we introduce the Geometric Algebra Transformer (GATr), a general-purpose architecture for geometric data. GATr represents inputs, outputs, and hidden states in the projective geometric algebra, which offers an efficient 16-dimensional vector space representation of common geometric objects as well as operators acting on them. GATr is equivariant with respect to Pin(3,0,1), the double cover of E(3): the symmetry group of 3D Euclidean space. As a transformer, GATr is scalable, expressive, and versatile. In various geometric problems, GATr shows strong improvements over non-geometric baselines.
-  time: TBA
-  date: TBA
+  time: 09:00 - 10:00
+  room: Lecture Hall B
+  date: Saturday / 28 October
+  id: 9
   author-name: Taco Cohen
   author-title: Qualcomm AI Research
   author-image: images/optimized/speakers-2023-600x600/TacoCohen.webp
@@ -54,8 +58,10 @@
 - title: Planning and Learning in Structured Environments
   abstract: >-
     Reinforcement learning (RL) and more generally sequential decision making deal with problems where the decision maker ('agent') needs to take actions over time. While impressive results have been achieved on challenging domains like Atari, Go, and Starcraft, most of this work relies on neural networks to form their own internal abstractions. However, in many applications, we may be able to exploit some knowledge about the structure of the environment to guide this process.  In this talk I will cover some of my work that tries to exploit structure to define effective methods for planning and reinforcement learning.
-  time: TBA
-  date: TBA
+  date: Friday / 27 October
+  time: 14:15 - 15:15
+  room: Lecture Hall B
+  id: 6
   author-name: Frans A. Oliehoek
   author-title: Delft University of Technology
   author-image: images/optimized/speakers-2023-600x600/FransOliehoek.webp
@@ -66,8 +72,10 @@
 - title: Language Modelling with Pixels
   abstract: >-
     Language models are usually defined over a finite set of inputs, which creates a bottleneck if we attempt to scale the number of languages supported by a model. Tackling this bottleneck often results in a trade-off between what can be represented in the model and computational issues in the output layer. I will present the Pixel-based Encoder of Language, which suffers from neither of these issues by rendering text as images, making it possible to transfer representations across languages based on the co-activation of pixels. I will discuss the results of various models, pretrained on only English text, ranging from just 5M parameters up to 86M parameters on a variety of downstream syntactic and semantic tasks in 32 typologically diverse languages across 14 scripts.
-  date: TBA
-  time: TBA
+  date: Friday / 27 October
+  time: 14:15 - 15:15
+  room: Main Lecture Hall
+  id: 4
   author-name: Desmond Elliott
   author-title: University of Copenhagen
   author-image: images/optimized/speakers-2023-600x600/DesmondElliott.webp
@@ -78,8 +86,9 @@
 - title: Game Theory Empowered by Data Science and Machine learning to Improve Treatment of Metastatic Cancer
   abstract: >-
     Standard of care in metastatic cancers typically applies Maximum Tolerable Dose (MTD) of treatment or treatment combinations, either continuously or in repeated identical cycles, until unacceptable toxicity, cancer progression, or cure. Cure is rare, due to fast evolving therapy resistance. My recent research helped to explain why MTD fails and to design first evolutionary  anti-cancer therapies, i.e. therapies that anticipate and forestall evolution of  treatment-induced resistance in cancer cells. Such therapies can be designed through Stackelberg evolutionary games (SEGs), i.e. games between a rational leader (here physician) and evolutionary followers (here evolving cancer cells). I will demonstrate how data science and machine learning can empower game theory to design the evolutionary anti-cancer therapies and how such therapies lead to better quality and quantity of patients’ lives.
-  time: TBA
-  date: TBA
+  room: Lecture Hall B
+  date: Saturday / 28 October
+  id: 11
   author-name: Kateřina Staňková
   author-title: Delft University of Technology
   author-image: images/optimized/speakers-2023-600x600/KaterinaStankova.webp
@@ -89,8 +98,10 @@
 
 - title: TBA
   abstract: TBA
-  time: TBA
-  date: TBA
+  time: 09:00 - 10:00
+  room: Lecture Hall A
+  date: Saturday / 28 October
+  id: 8
   author-name: Gergely Neu
   author-title: Universitat Pompeu Fabra
   author-image: images/optimized/speakers-2023-600x600/GergelyNeu.webp
@@ -100,8 +111,10 @@
 
 - title: TBA
   abstract: TBA
-  time: TBA
-  date: TBA
+  time: 09:00 - 10:00
+  room: Main Lecture Hall
+  date: Saturday / 28 October
+  id: 7
   author-name: Edoardo Maria Ponti
   author-title: University of Edinburgh / University of Cambridge
   author-image: images/optimized/speakers-2023-600x600/EdoardoMariaPonti.webp
@@ -110,7 +123,8 @@
   google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
 
 - title: Bits of Reinforcement Learning
-  abstract: TBA
+  abstract: >-
+    By leveraging so-called deep neural networks and using unprecedented computing power, the reinforcement learning community has obtained remarkable achievements these last years. They drew the attention and interest of many towards RL. Indeed, a vast amount of practical problems seem to fit the RL setting. During this talk, I will present a set of our recent works dealing with various fields of applications (agriculture, agro-ecology, soft robotics). I will also discuss the practical difficulties we faced, and the experimental methodological issues that we currently meet in RL, and some solutions.
   time: 09:00 - 10:00
   room: Lecture Hall B
   date: Friday / 27 October
@@ -125,8 +139,10 @@
 - title: Teaching Language Models to Use Tools
   abstract: >-
     Large language models (LLMs) have fueled dramatic progress in natural language tasks and are already at the core of many user-facing products, such as ChatGPT and Copilot. Paradoxically, language models often still struggle with basic tasks, like solving simple arithmetic problems, where smaller and simpler external resources, such as a calculator, can accomplish the task perfectly. This talk will focus on LLMs that leverage external resources, beginning with models that are always prompted to use an external tool, like retrieval-augmented models. The second part of this talk will concentrate on teaching models to autonomously understand how and when to leverage tools in a self-supervised way. Finally, we will discuss exciting new opportunities that necessitate external tool usage.
-  time: TBA
-  date: TBA
+  date: Friday / 27 October
+  time: 14:15 - 15:15
+  room: Lecture Hall A
+  id: 5
   author-name: Jane Dwivedi-Yu
   author-title: Meta AI
   author-image: images/optimized/speakers-2023-600x600/JaneDwivedi-Yu.webp

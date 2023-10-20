@@ -57,6 +57,9 @@
     - name: NASK
       image: "images/optimized/sponsors-2023-600x600/NASK.webp"
       url: "https://en.nask.pl/"
+    - name: WMiNI
+      image: "images/optimized/honorary-patronages-600x600/WMiNI.webp"
+      url: "https://ww4.mini.pw.edu.pl/"
 
 - title: "/ Honorary Patronages"
   imageMaxWidth: 400px
