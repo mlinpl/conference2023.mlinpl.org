@@ -14,8 +14,10 @@
 - title: Learning Dynamical Systems Via Koopman Operator Regression
   abstract: >-
     Non-linear dynamical systems can be handily described by the associated Koopman operator, whose action evolves every observable of the system forward in time. These operators are instrumental to forecasting and interpreting the system dynamics, and have broad applications in science and engineering. The talk gives a gentle introduction to this topic, with a focus on theory and algorithms. We highlight the importance of algorithms that allow us to estimate the spectral decomposition of the Koopman operator well and explore how the quest for good representations for these operators can be formulated as an optimization problem involving neural networks.
-  time: TBA
-  date: TBA
+  time: 09:00 - 10:00
+  room: Lecture Hall A
+  date: Friday / 27 October
+  id: 2
   author-name: Massimiliano Pontil
   author-title: Italian Institute of Technology / University College London / ELLIS
   author-image: images/optimized/speakers-2023-600x600/MassimilianoPontil.webp
@@ -38,7 +40,10 @@
 - title: "Understanding Iterative Magnitude Pruning: linear mode connectivity, symmetries, and data"
   abstract: >-
     Magnitude-based neural network pruning is an effective and widely used technique for compressing neural networks. In this talk I will present my line of work investigating iterative magnitude pruning. I will discuss how the data used to train and prune as well as algorithmic aspects of pruning itself, affect generalization. Using a toy model, I will illustrate how pruning interacts with the loss landscape and curvature.  Finally, I will describe linear mode connectivity's role in iterative magnitude pruning and present our recent findings on how symmetries in neural networks affect iterative magnitude pruning and lottery tickets.
-  time: TBA
+  time: 09:00 - 10:00
+  room: Main Lecture Hall
+  date: Friday / 27 October
+  id: 1
   author-name: Gintare Karolina Dziugaite
   author-title: Google DeepMind
   author-image: images/optimized/speakers-2023-600x600/GintareKarolinaDziugaite.webp
@@ -106,8 +111,10 @@
 
 - title: Bits of Reinforcement Learning
   abstract: TBA
-  time: TBA
-  date: TBA
+  time: 09:00 - 10:00
+  room: Lecture Hall B
+  date: Friday / 27 October
+  id: 3
   author-name: Philippe Preux
   author-title: Université de Lille
   author-image: images/optimized/speakers-2023-600x600/PhilippePreux.webp
