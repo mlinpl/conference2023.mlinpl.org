@@ -4,7 +4,7 @@
   date: Friday / 27 October
   time: 11:45 - 12:35
   room: Lecture Hall A
-  session:
+  slider-order: 1
   author-name: Grzegorz Jacenkow
   author-title: Amazon
   author-image: images/optimized/speakers-2023-600x600/GrzegorzJacenkow.webp
@@ -15,6 +15,7 @@
   title: "The Future is Now: Embracing Allegro Transactional Data for Risk Modeling"
   #author-title: "Allegro Pay / Faculty of Economic Sciences, Quantiatitve Finance Department, University of Warsaw"
   author-title: "Allegro Pay / University of Warsaw"
+  slider-order: 3
   abstract: >- 
     The accurate prediction of probability of default plays a critical role in safeguarding Allegro Pay business. Industry standard models, like tree-based models, unfortunately fall short in capturing the complexities of time-varying transactional data, limiting their predictive capabilities in prescoring applications. This presentation unveils a groundbreaking approach that harnesses the power of deep learning models to transform preliminary credit risk assessment.
     
@@ -33,3 +34,49 @@
   room: Lecture Hall B
   session:
   author-image: images/optimized/cfc-2023-600x600/maciej_wysocki.webp
+
+- author-name: Michał Karpowicz
+  title: "TBA"
+  author-title: "NASK"
+  slider-order: 4
+  abstract: TBA
+  author-bio: >- 
+    Michał Karpowicz joined NASK PIB in 2006. He has gone through a full academic career path, from a research assistant position to a professor at the institute, leading a team, department, and branch along the way (in the field of cyber security systems).
+    
+    He was visiting professor at the MIT Mathematics Department. He has given guest lectures at institutions like Stanford University and UCSD (University of California San Diego). He has been a long-time lecturer at the Faculty of Electronics and Information Technology at the Warsaw University of Technology.
+
+    He is the creator of the meta-factorization theory and new algorithms for detecting and mitigating DDoS attacks. He has formulated optimality conditions for a class of energy-efficient stochastic control problems with an infinite horizon, as well as necessary and sufficient conditions for the effectiveness of Nash equilibrium points in games induced by KKT conditions for nonlinear optimization problems with constraints.
+    
+    He is a co-creator of FLDX technology, energy-efficient network control systems, and energy-efficient CPU controllers (for the Linux kernel).
+    
+    He is the recipient of the NASK PIB Director's Award for his exceptional contribution to the development of the institute. He is also the recipient of the Warsaw University of Technology Rector's Award for his original lecture on Control Theory, as well as the Rector's Award for achievements in scientific research related to the development of energy-efficient control mechanisms for computer systems.
+  date: Friday / 27 October
+  time: 12:35 - 13:00
+  room: Lecture Hall B
+  author-image: images/optimized/speakers-2023-600x600/MichalKarpowicz.webp
+
+- author-name: Charles Martinez
+  title: "An introduction to careers and challenges in Quantitative Finance"
+  author-title: "Academic Relations Manager at G-Research"
+  slider-order: 2
+  abstract: >- 
+    We are a leading quantitative research and technology company based in London. Day to day we use a variety of quantitative techniques to predict financial markets from large data sets worldwide. Mathematics, statistics, machine learning, natural language processing and deep learning is what our business is built on. Our culture is academic and highly intellectual. In this seminar I will explain our background, current AI research applications to finance and our ongoing outreach and grants programme. The seminar will be aimed at PhD and Masters students who are curious about quant finance or interested in internship opportunities. We will cover the following topics: 1. Introducing G-Research, 2. What does a Quant look like?, 3. Challenges in ML 4. Our recruitment and internship processes.
+  author-bio: >- 
+    Dr Charles Martinez is the Academic Relations Manager at G-Research. Charles started his studies as a physicist at University Portsmouth Physics department’s MPhys programme, and later completed a PhD in Phonon interactions in Gallium Nitride nanostructures at the University of Nottingham. Charles then worked on indexing and abstract databases at the Institution for Engineering and Technology (IET) before moving –into sales in 2010. Charles' previous role was as Elsevier's Key Account Manager, managing sales and renewals for the UK Russell Group institutions, Government and Funding body accounts, including being one of the negotiators in the recent UK ScienceDirect Read and Publish agreement. Since leaving Elsevier Charles is dedicated to forming beneficial partnerships between G-Research and Europe's top institutions, and is living in Cambridge, UK.
+  date: Saturday / 28 October
+  time: 14:15 - 15:05
+  room: Lecture Hall A
+  author-image: images/optimized/cfc-2023-600x600/CharlesMartinez.webp
+
+- author-name: Volodymyr Saviak
+  title: "Hewlett Packard Enterprise tools for the AI/ML development & training"
+  author-title: "Hewlett-Packard Enterprise AI & HPC Sales Manager in CEE countries"
+  slider-order: 5
+  abstract: >- 
+    Hewlett Packard Enterprise (HPE) offers hardware infrastructure and software tools to build, train, tune and deploy large-scale AI. In the presentation, you will learn about HPE AI at Scale software portfolio, including Machine Learning Development Environment (MLDE), Machine Learning Data Management (MLDM), Smart-SIM, Swarm Learning.
+  author-bio: >- 
+    More than 25 years delivers IT infrastructure solutions on Central Eastern European market, focused on High Performance Computing, Big Data and recently Artificial Intelligence. Volodymyr is helping organizations to understand optimal infrastructure and implement technical computing solutions focused on high performance and scalability. For the development of the “First Ukrainian Supercomputer Center” and Ukrainian HPC community, he was awarded a top-level Ukraine’s Parliament Award. Volodymyr is a technology expert with a strong technical and business qualifications with an impressive record of accomplishments. 
+  date: Saturday / 28 October
+  time: 14:15 - 15:40
+  room: Lecture Hall B
+  author-image: images/optimized/speakers-2023-600x600/VolodymyrSaviak.webp

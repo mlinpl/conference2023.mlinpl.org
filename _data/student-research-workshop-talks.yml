@@ -36,7 +36,7 @@
 
 - author-name: Szymon Haponiuk
   title: "Solver-free neural ordinary differential equations for forecasting long horizon time series"
-  author-title: "NVIDIA/Universisty of Warsaw"
+  author-title: "NVIDIA / Universisty of Warsaw"
   abstract: >- 
     Neural ordinary differential equations (NeuralODEs) represent a highly adaptable model class suitable for forecasting applications. Nonetheless, their training efficiency is often hampered by the sequential computation of a numerical solver, resulting in significantly longer training times compared to discrete forecasting methods like RNNs. To address this limitation, we propose employing multiple linear ordinary differential equations (ODEs) within the latent space instead of arbitrary ODEs. Linear ODEs can be analytically solved in constant time through matrix exponentiation and it is possible to backpropagate through this operation, enabling the model to converge approximately an order of magnitude faster than NeuralODEs. Moreover, linear ODEs exhibit competitive predictive performance when compared to state of the art forecasting methods and offer, just like NeuralODEs, the advantage of being continuously evaluable at any timestamp.
   author-bio: >- 
@@ -81,7 +81,7 @@
 
 - author-name: Sebastian Chwilczyński
   title: "Random Similarity Isolation Forest - Outlier Detection for Multimodal Data"
-  author-title: "PUT"
+  author-title: "Poznan University of Technology"
   abstract: >- 
     To enhance the accuracy of predictive models, it is reasonable to gather as much data about the object of interest as possible. As a result, increasingly often, the collected data consists not only of simple numerical data but also more complex objects such as time series, images, sets, or graphs. Such multimodal representations provide many different points of view on the data and may improve performance. However, optimal use of these modalities is a challenging task, especially in outlier detection, where algorithms are dedicated to individual types of data. Consequently, working with mixed types of data requires either fusing multiple data-specific models or transforming all of the representations into a single format, both of which can hinder predictive performance.
     
@@ -91,7 +91,7 @@
     
     In our work, we tried to elaborate on similarity-based projection methods and their usage in multimodal outlier detection as thoroughly as possible. As a result, a new competitive algorithm - Random Isolation Similarity Forest - was introduced. Still, many exciting directions for future work, such as the potential for interpretability, the search for better similarity measures, the optimal way of selecting projection pairs, and the search for new multimodal outlier detection datasets, remain open. This is why, besides sharing our insights, we fully open-source our code and unique set of datasets.
   author-bio: >- 
-    Sebastian Chwilczyński is a 7th semester student of Artificial Intelligence at Poznań University of Technology, president of GHOST science club and music enthusiast. He gained his experience, among others, at Intel in the Audio Research team and PSNC working on Computer Vision problems. Currently he works with segmentation models at deepsense.ai.
+    Sebastian Chwilczyński is a 7th semester student of Artificial Intelligence at Poznan University of Technology, president of GHOST science club and music enthusiast. He gained his experience, among others, at Intel in the Audio Research team and PSNC working on Computer Vision problems. Currently he works with segmentation models at deepsense.ai.
     
     He loves to share his knowledge, this is why he led many groups at GHOST science club, both in practical and research setting. 
     
