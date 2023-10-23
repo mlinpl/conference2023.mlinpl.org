@@ -289,24 +289,23 @@
           element-class: col-lg-12
           time: 08:30 - 09:00
     - events: 
-        - title: 'Invited talk 7: <strong>Modular Deep Learning for Customisable LLMs</strong>'
-          subtitle: "by Edoardo Maria Ponti (University of Edinburgh / University of Cambridge)"
+        - title: 'Discussion Panel 3: <strong>Generative Models</strong>'
           element-class: col-lg-4
-          time: 09:00 - 10:00
+          time: 09:00 - 10:15
           room: Main Lecture Hall
-          url: /program#invited-talk-7
-        - title: 'Invited talk 8: <strong>Importance-Weighted Offline Learning Done Right</strong>'
+          url: /program#discussion-panel-3
+        - title: 'Invited talk 7: <strong>Importance-Weighted Offline Learning Done Right</strong>'
           subtitle: "by Gergely Neu (Universitat Pompeu Fabra)"
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Lecture Hall A
-          url: /program#invited-talk-8
-        - title: 'Invited talk 9: <strong>Geometric Algebra Transformers: A Universal Architecture for Geometric Data</strong>'
+          url: /program#invited-talk-7
+        - title: 'Invited talk 8: <strong>Geometric Algebra Transformers: A Universal Architecture for Geometric Data</strong>'
           subtitle: "by Taco Cohen (Qualcomm AI Research)"
           element-class: col-lg-4
           time: 09:00 - 10:00
           room: Lecture Hall B
-          url: /program#invited-talk-9
+          url: /program#invited-talk-8
     - events:
         - title: 'Poster Session 2 + <i class="fa-solid fa-mug-saucer"></i> Coffee'
           subtitle: with posters from 34 to 65
@@ -371,11 +370,12 @@
           room: Lecture Hall B
           url: /program#sponsor-talk-5
     - events: 
-        - title: 'Discussion Panel 3: <strong>Generative Models</strong>'
+        - title: 'Invited talk 9: <strong>Modular Deep Learning for Customisable LLMs</strong>'
+          subtitle: "by Edoardo Maria Ponti (University of Edinburgh / University of Cambridge)"
           element-class: col-lg-4
-          time: 15:15 - 16:30
+          time: 15:15 - 16:15
           room: Main Lecture Hall
-          url: /program#discussion-panel-3
+          url: /program#invited-talk-9
         - title: 'Invited talk 10: <strong>Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift</strong>'
           subtitle: "by Jiri Matas (Czech Technical University)"
           element-class: col-lg-4

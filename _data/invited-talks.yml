@@ -82,26 +82,7 @@
     Frans A. Oliehoek is Associate Professor at Delft University of Technology, where he leads a group on interactive learning and decision making, is one of the scientific directors of the Mercury machine learning lab, and is director and co-founder of the ELLIS Unit Delft. He received his Ph.D. in Computer Science (2010) from the University of Amsterdam (UvA), and held positions at various universities including MIT, Maastricht University and the University of Liverpool.  Frans' research interests revolve around intelligent systems that learn about their environment via interaction, building on techniques from machine learning, AI and game theory. He has served as PC/SPC/AC at top-tier venues in AI and machine learning, and currently serves as associate editor for JAIR and AIJ. He is a Senior Member of AAAI, and was awarded a number of personal research grants, including a prestigious ERC Starting Grant.
   google-scholar: https://scholar.google.com/citations?user=rSNBJJIAAAAJ
 
-- title: Modular Deep Learning for Customisable LLMs
-  abstract: >- 
-    Large Language Models (LLMs) are fine-tuned on instructions and/or human feedback to create general-purpose models for a variety of AI applications. Nevertheless, LLMs are hard to customise due to their scale, which makes full fine-tuning impractical (due to its high memory requirements) and prompting unreliable (due to its inferior performance). How then to customise the behaviour of an LLM efficiently? Modular deep learning has emerged as an alternative paradigm where information is routed to specialised, autonomous modules. Individual modules can be subsequently merged to add (or subtract) the knowledge they contain from a backbone LLM.
 
-    A module may consist of any form of parameter-efficient fine-tuning (PEFT) so that large inventories of modules do not impact the complexity of the original LLM. However, most PEFT methods suffer from interferences when multiple modules are activated. Hence, I propose a series of algorithms to create composable modules. In particular, I will show how to adapt LLMs by updating only sub-networks (subsets of parameters): the resulting modules consist of sparse parameter shifts from the dense LLM, which can be composed in non-destructive ways.
-
-    Composing modules is crucial for generalising systematically to new tasks when these consist of new combinations of skills learned from previous tasks. While sometimes the required skills are known (e.g., language modules and task modules in cross-lingual transfer), often it is necessary to learn how to route every input to the modules corresponding to the skills needed to solve it. To this end, I will illustrate a method to disentangle skills into modules and routing to variable-size subsets of skills in both NLP and RL.
-
-    Finally, I will show how adding modules can promote positive behaviours in LLMs (e.g., faithfulness to ground-truth knowledge) and how subtracting modules can discourage negative behaviours (e.g., toxicity). Moreover, I will demonstrate that the errors resulting from these merging operations stem from the mismatch between the gradients of individual modules and a “target” model (by definition inaccessible) trained on the union of their data. Thus, I will provide a general formula for merging modules that minimises their gradient mismatch.
-
-  time: 09:00 - 10:00
-  room: Main Lecture Hall
-  date: Saturday / 28 October
-  id: 7
-  author-name: Edoardo Maria Ponti
-  author-title: University of Edinburgh / University of Cambridge
-  author-image: images/optimized/speakers-2023-600x600/EdoardoMariaPonti.webp
-  author-bio: >-
-    Edoardo M. Ponti is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the "Institute for Language, Cognition, and Computation" (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
-  google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
 
 - title: Importance-Weighted Offline Learning Done Right
   abstract: >-
@@ -132,7 +113,7 @@
   time: 09:00 - 10:00
   room: Lecture Hall A
   date: Saturday / 28 October
-  id: 8
+  id: 7
   author-name: Gergely Neu
   author-title: Universitat Pompeu Fabra
   author-image: images/optimized/speakers-2023-600x600/GergelyNeu.webp
@@ -146,13 +127,34 @@
   time: 09:00 - 10:00
   room: Lecture Hall B
   date: Saturday / 28 October
-  id: 9
+  id: 8
   author-name: Taco Cohen
   author-title: Qualcomm AI Research
   author-image: images/optimized/speakers-2023-600x600/TacoCohen.webp
   author-bio: >-
     Taco Cohen is a machine learning researcher (Principal Engineer) at Qualcomm AI Research in Amsterdam. He received a BSc in theoretical computer science from Utrecht University, and a MSc in artificial intelligence and PhD in machine learning (with prof. Max Welling) from the University of Amsterdam (all three cum laude). He was a co-founder of Scyfer, a company focussed on deep active learning, acquired by Qualcomm in 2017. His research is focused on geometric deep learning and reinforcement learning. During his studies he has interned at Google Deepmind (working with Geoff Hinton) and OpenAI. He received the 2014 University of Amsterdam MSc thesis prize, a Google PhD Fellowship, ICLR 2018 best paper award for “Spherical CNNs”, was named one of 35 innovators under 35 by MIT Tech Review, and won the 2022 ELLIS PhD Award and 2022 Kees Schouhamer Immink prize for his PhD research.
   google-scholar: https://scholar.google.com/citations?user=a3q4YxEAAAAJ
+
+- title: Modular Deep Learning for Customisable LLMs
+  abstract: >- 
+    Large Language Models (LLMs) are fine-tuned on instructions and/or human feedback to create general-purpose models for a variety of AI applications. Nevertheless, LLMs are hard to customise due to their scale, which makes full fine-tuning impractical (due to its high memory requirements) and prompting unreliable (due to its inferior performance). How then to customise the behaviour of an LLM efficiently? Modular deep learning has emerged as an alternative paradigm where information is routed to specialised, autonomous modules. Individual modules can be subsequently merged to add (or subtract) the knowledge they contain from a backbone LLM.
+
+    A module may consist of any form of parameter-efficient fine-tuning (PEFT) so that large inventories of modules do not impact the complexity of the original LLM. However, most PEFT methods suffer from interferences when multiple modules are activated. Hence, I propose a series of algorithms to create composable modules. In particular, I will show how to adapt LLMs by updating only sub-networks (subsets of parameters): the resulting modules consist of sparse parameter shifts from the dense LLM, which can be composed in non-destructive ways.
+
+    Composing modules is crucial for generalising systematically to new tasks when these consist of new combinations of skills learned from previous tasks. While sometimes the required skills are known (e.g., language modules and task modules in cross-lingual transfer), often it is necessary to learn how to route every input to the modules corresponding to the skills needed to solve it. To this end, I will illustrate a method to disentangle skills into modules and routing to variable-size subsets of skills in both NLP and RL.
+
+    Finally, I will show how adding modules can promote positive behaviours in LLMs (e.g., faithfulness to ground-truth knowledge) and how subtracting modules can discourage negative behaviours (e.g., toxicity). Moreover, I will demonstrate that the errors resulting from these merging operations stem from the mismatch between the gradients of individual modules and a “target” model (by definition inaccessible) trained on the union of their data. Thus, I will provide a general formula for merging modules that minimises their gradient mismatch.
+
+  time: 15:15 - 16:15
+  room: Main Lecture Hall
+  date: Saturday / 28 October
+  id: 9
+  author-name: Edoardo Maria Ponti
+  author-title: University of Edinburgh / University of Cambridge
+  author-image: images/optimized/speakers-2023-600x600/EdoardoMariaPonti.webp
+  author-bio: >-
+    Edoardo M. Ponti is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the "Institute for Language, Cognition, and Computation" (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
+  google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
 
 - title: Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift
   abstract: >-
