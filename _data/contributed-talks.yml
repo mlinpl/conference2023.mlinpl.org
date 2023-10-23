@@ -281,10 +281,10 @@
   title: "Deep spatial context - digital pathology"
   author-title: "Warsaw University of Technology"
   abstract: >- 
-    The development of AI for healthcare is of great importance. One of the valuable applications of neural networks is digital pathology where histopathological images are processed. However, it comes with challenges. Recognizing the type of lesions is sometimes difficult even for histopathologists with long experience due to the complexity of the problem and the ambiguous nature of the lesions. Moreover, the whole slide images (WSIs) are of very huge resolution (e.g., 60000x100000 pixels). In the talk, the most common architecture for WSI classification will be presented. Moreover, the need for the analysis of whether the behaviour of the trained models aligns with the histopathologists' good practices will be emphasized together with a proposal on the spatial context measures.
+    Neural networks find application in the processing of histopathological images. However, it comes with some challenges. One of the most popular approaches is an attention-based model. In the talk, the Deep Spatial Context method will be presented, which was inspired by the need to analyse whether the behaviour of the trained models aligns with the histopathologists' good practices that take into account contextual information. The proposed Spatial Context Measures allow a quantitative measurement of the role of the spatial context.
   author-bio: >- 
     Paulina Tomaszewska is a PhD student in Computer Science at the Warsaw University of Technology. She gained experience in artificial intelligence at leading universities such as Tsinghua University (China), Nanyang Technological University (Singapore), Institute of Science and Technology Austria, École Polytechnique Fédérale de Lausanne (Switzerland). Recently, her research mainly concerns digital pathology, especially in the area of investigating whether the Deep Learning models capture and pay attention to contextual information.
-  co-authors: 
+  co-authors: Elżbieta Sienkiewicz, Mai P. Hoang, Przemysław Biecek
   date: Friday / 27 October
   time: 15:40 - 16:05
   room: Lecture Hall B

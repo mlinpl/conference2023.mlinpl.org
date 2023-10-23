@@ -479,21 +479,6 @@
   id: 26
   author-image: images/optimized/cfc-2023-600x600/jan_dubiński.webp
 
-- author-name: Paulina Tomaszewska
-  title: "The analysis of histopathological images using neural networks through the lens of context"
-  author-title: "Warsaw University of Technology"
-  abstract: >- 
-    The development of AI for healthcare is of great importance. One of the valuable applications of neural networks is digital pathology where histopathological images are processed. However, it comes with challenges. Recognizing the type of lesions is sometimes difficult even for histopathologists with long experience due to the complexity of the problem and the ambiguous nature of the lesions. Moreover, the whole slide images (WSIs) are of very huge resolution (e.g., 60000x100000 pixels). In the talk, the most common architecture for WSI classification will be presented. Moreover, the need for the analysis of whether the behaviour of the trained models aligns with the histopathologists' good practices will be emphasized together with a proposal on the spatial context measures.
-  author-bio: >- 
-    Paulina Tomaszewska is a PhD student in Computer Science at the Warsaw University of Technology. She gained experience in artificial intelligence at leading universities such as Tsinghua University (China), Nanyang Technological University (Singapore), Institute of Science and Technology Austria, École Polytechnique Fédérale de Lausanne (Switzerland). Recently, her research mainly concerns digital pathology, especially in the area of investigating whether the Deep Learning models capture and pay attention to contextual information.
-  co-authors: 
-  date: Friday / 27 October
-  time: 16:30 - 18:30
-  room: 
-  session: 
-  id: 27
-  author-image: images/optimized/cfc-2023-600x600/paulina_tomaszewska.webp
-
 - author-name: Joanna Kaleta
   title: "Enhancing Medical Imaging Understanding and Performance via Joint Diffusion Models and Visual Counterfactual Explanations"
   author-title: "Sano - Centre for Computational Personalised Medicine"
