@@ -27,9 +27,9 @@
         Previously, Omar worked at Google as a Software Engineer on Google Assistant and TensorFlow. In Google Assistant, Omar worked with on-device language models, model training and quality refinement, and serving infrastructure.
 
 - name: Human in the loop
-  date: Saturday / 28 October
+  date: Friday / 27 October
   room: Main Lecture Hall
-  time: 14:15 - 15:15
+  time: 11:45 - 13:00
   id: 2
   desc: >-
     Join us for a panel discussion on the intriguing concept of "Human in the Loop." Delve into the topic of training models with human involvement as our panelists shed light on harnessing human expertise to enhance AI models. We will explore the effectiveness of leveraging human insights, assess their inherent value, and uncover the true potential they hold.
@@ -64,9 +64,9 @@
         His recent work is centred on the definition of new types of interaction between humans and machine learning algorithms known as “Human-in-the-Loop Machine Learning''. Within this line, he is the principal investigator of the project “Analysis of human-in-the-loop machine learning strategies and its application to pancreatic cancer research (HITL-ML)” funded by the Spanish State Research Agency (AEI). He is also a research member of the NEASQC (NExt ApplicationS of Quantum Computing) European project developing the use case “Quantum Rule-Based Systems (QRBS) for breast cancer detection.
 
 - name: Generative models
-  date: Friday / 27 October
+  date: Saturday / 28 October
   room: Main Lecture Hall
-  time: 11:45 - 13:15
+  time: 14:15 - 15:15
   id: 3
   desc: >-
       During our panel discussion, immerse yourself in the captivating "Generative Models" realm. Prepare to be enthralled as our panelists explore the profound impact of Generative AI and its wide-ranging implications. We will delve into the potential opportunities and risks arising from these models.

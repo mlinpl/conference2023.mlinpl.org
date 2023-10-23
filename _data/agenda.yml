@@ -376,7 +376,7 @@
           time: 15:15 - 16:30
           room: Main Lecture Hall
           url: /program#discussion-panel-3
-        - title: 'Invited talk 10'
+        - title: 'Invited talk 10: <strong>Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift</strong>'
           subtitle: "by Jiri Matas (Czech Technical University)"
           element-class: col-lg-4
           time: 15:15 - 16:15

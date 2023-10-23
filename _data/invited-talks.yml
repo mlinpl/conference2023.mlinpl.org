@@ -154,8 +154,15 @@
     Taco Cohen is a machine learning researcher (Principal Engineer) at Qualcomm AI Research in Amsterdam. He received a BSc in theoretical computer science from Utrecht University, and a MSc in artificial intelligence and PhD in machine learning (with prof. Max Welling) from the University of Amsterdam (all three cum laude). He was a co-founder of Scyfer, a company focussed on deep active learning, acquired by Qualcomm in 2017. His research is focused on geometric deep learning and reinforcement learning. During his studies he has interned at Google Deepmind (working with Geoff Hinton) and OpenAI. He received the 2014 University of Amsterdam MSc thesis prize, a Google PhD Fellowship, ICLR 2018 best paper award for “Spherical CNNs”, was named one of 35 innovators under 35 by MIT Tech Review, and won the 2022 ELLIS PhD Award and 2022 Kees Schouhamer Immink prize for his PhD research.
   google-scholar: https://scholar.google.com/citations?user=a3q4YxEAAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift
+  abstract: >-
+    The talk will touch two problems that are common, yet rarely addressed, in the deployment of system based on neural networks.
+    
+    
+    The natural formulations of many tasks, in computer vision and elsewhere, leads to a non-differentiable objective function, rendering  standard SGD training inapplicable. In applicatons, the problem is often side-stepped by using a differentiable proxy loss, i.e. a loss designed for another task, which may or may not align well with the non-differentiable objective. We will present approaches for learning a differentiable surrogate of  decomposable and non-differentiable objectives.  For the decomposable case, the approach is validated on two practical tasks of scene text recognition and detection, where the surrogate learns an approximation of edit distance and intersection-over-union, respectively. For the non-decomposable case, we consider image retrieval and develop a recall@k surrogate, also applicable for sorting and counting.
+    
+
+    The second part of the talk will focus on the problem of prior shift, i.e. the situation when the the training and test data have different prior probabilities, distinguishing two cases, when the test-time priors is known and when it must be estimated. The proposed method treats the outputs of the deep net as  a posteriori probabilities, requiring output calibration. The benefits of test-time prior estimation and adaptation will be demonstrated on a fine-grained recognition problem.
   time: 15:15 - 16:15
   room: Lecture Hall A
   date: Saturday / 28 October
