@@ -11,7 +11,7 @@ Expects following parameters:
 {% for sentence in string %}
   {% assign tempstr = shortstr | append: sentence %}
   {% assign tempstr = tempstr | append: "." %}
-  {% if tempstr.size < 500 %}
+  {% if tempstr.size < 500 and morestr.size == 0 %}
     {% assign shortstr = tempstr %}
   {% else %}
     {% assign tempstr = morestr | append: sentence %}
