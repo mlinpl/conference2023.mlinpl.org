@@ -103,8 +103,32 @@
     Edoardo M. Ponti is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the "Institute for Language, Cognition, and Computation" (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
   google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
 
-- title: TBA
-  abstract: TBA
+- title: Importance-Weighted Offline Learning Done Right
+  abstract: >-
+    We study the problem of offline policy optimization in stochastic
+    contextual bandit problems, where the goal is to learn a near-optimal
+    policy based on a dataset of decision data collected by a suboptimal
+    behavior policy. Rather than making any structural assumptions on the
+    reward function, we assume access to a given policy class and aim to
+    compete with the best comparator policy within this class. In this
+    setting, a standard approach is to compute importance-weighted
+    estimators of the value of each policy, and select a policy that
+    minimizes the estimated value up to a "pessimistic" adjustment
+    subtracted from the estimates to reduce their random fluctuations. In
+    this paper, we show that a simple alternative approach based on the
+    "implicit exploration" estimator of Neu (2015) yields performance
+    guarantees that are superior in nearly all possible terms to all
+    previous results. Most notably, we remove an extremely restrictive
+    "uniform coverage" assumption made in all previous works. These
+    improvements are made possible by the observation that the upper and
+    lower tails importance-weighted estimators behave very differently
+    from each other, and their careful control can massively improve on
+    previous results that were all based on symmetric two-sided
+    concentration inequalities. We also extend our results to infinite
+    policy classes in a PAC-Bayesian fashion, and showcase the robustness
+    of our algorithm to the choice of hyper-parameters by means of
+    numerical simulations.
+  co-authors: Germano Gabbianelli, Matteo Papini
   time: 09:00 - 10:00
   room: Lecture Hall A
   date: Saturday / 28 October

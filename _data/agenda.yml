@@ -77,7 +77,7 @@
           element-class: col-lg-12
           time: 15:15 - 16:45
     - events:
-        - title: "Keynote Talk 2"
+        - title: "Keynote Talk 2: <strong>Reinforcement Learning, Large Models and AI: Challenges and Opportunities</strong>"
           subtitle: "by Volodymyr Mnih (Google DeepMind)"
           element-class: col-lg-12
           time: 16:45 - 17:45
@@ -295,7 +295,7 @@
           time: 09:00 - 10:00
           room: Main Lecture Hall
           url: /program#invited-talk-7
-        - title: 'Invited talk 8'
+        - title: 'Invited talk 8: <strong>Importance-Weighted Offline Learning Done Right</strong>'
           subtitle: "by Gergely Neu (Universitat Pompeu Fabra)"
           element-class: col-lg-4
           time: 09:00 - 10:00
