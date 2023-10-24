@@ -30,7 +30,7 @@
   abstract: >-
     There has been tremendous progress in Reinforcement Learning (RL) over the past decade, with RL-based agents achieving super-human performance in Atari games, Go, StarCraft and other challenging tasks. This progress led many researchers to view RL as a key ingredient for building generally intelligent systems. However, the continued improvement in the capabilities of large language models is causing many to reconsider the importance of RL on the path to AI. Are large language models enough? Will RL continue to play an important role? Should you learn about RL if you're new to the field? I will try to answer these questions by looking back at the last 10 years of progress in AI while also presenting some challenges and opportunities for the future.
   date: Thursday / 26 October
-  time: 17:35 - 18:35
+  time: 16:45 - 17:45
   room: Main Lecture Hall
   author-name: Volodymyr Mnih
   author-title: Google DeepMind
