@@ -69,11 +69,10 @@
     - name: Minister of Digital Affairs
       #title: Minister of Digital Affairs
       image: "images/optimized/honorary-patronages-600x600/MinistryOfDigitialAffairs.webp"
-      url: https://www.mimuw.edu.pl/
     - name: GovTech
       #title: Minister of Digital Affairs
       image: "images/honorary-patronages/govtech.svg"
-      url: https://www.mimuw.edu.pl/
+      url: https://www.gov.pl/web/govtech-en
     - name: SGH
       image: "images/optimized/honorary-patronages-600x600/SGH.webp"
       url: https://www.sgh.waw.pl/en
@@ -83,7 +82,7 @@
     - name: University of Warsaw
       #title: Rector of University of Warsaw
       image: "images/optimized/honorary-patronages-600x600/UW.webp"
-      url: https://www.mimuw.edu.pl/
+      url: https://en.uw.edu.pl/
     - name: Dean of the Faculty of Mathematics, Informatics and Mechanics
       #title: Dean of the Faculty of Mathematics, Informatics and Mechanics UW
       image: "images/optimized/honorary-patronages-600x600/MIMUW.webp"
