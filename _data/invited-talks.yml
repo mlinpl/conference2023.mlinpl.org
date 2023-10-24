@@ -135,6 +135,28 @@
     Taco Cohen is a machine learning researcher (Principal Engineer) at Qualcomm AI Research in Amsterdam. He received a BSc in theoretical computer science from Utrecht University, and a MSc in artificial intelligence and PhD in machine learning (with prof. Max Welling) from the University of Amsterdam (all three cum laude). He was a co-founder of Scyfer, a company focussed on deep active learning, acquired by Qualcomm in 2017. His research is focused on geometric deep learning and reinforcement learning. During his studies he has interned at Google Deepmind (working with Geoff Hinton) and OpenAI. He received the 2014 University of Amsterdam MSc thesis prize, a Google PhD Fellowship, ICLR 2018 best paper award for “Spherical CNNs”, was named one of 35 innovators under 35 by MIT Tech Review, and won the 2022 ELLIS PhD Award and 2022 Kees Schouhamer Immink prize for his PhD research.
   google-scholar: https://scholar.google.com/citations?user=a3q4YxEAAAAJ
 
+- title: Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift
+  abstract: >-
+    The talk will touch two problems that are common, yet rarely addressed, in the deployment of system based on neural networks.
+    
+    
+    The natural formulations of many tasks, in computer vision and elsewhere, leads to a non-differentiable objective function, rendering  standard SGD training inapplicable. In applicatons, the problem is often side-stepped by using a differentiable proxy loss, i.e. a loss designed for another task, which may or may not align well with the non-differentiable objective. We will present approaches for learning a differentiable surrogate of  decomposable and non-differentiable objectives.  For the decomposable case, the approach is validated on two practical tasks of scene text recognition and detection, where the surrogate learns an approximation of edit distance and intersection-over-union, respectively. For the non-decomposable case, we consider image retrieval and develop a recall@k surrogate, also applicable for sorting and counting.
+    
+
+    The second part of the talk will focus on the problem of prior shift, i.e. the situation when the the training and test data have different prior probabilities, distinguishing two cases, when the test-time priors is known and when it must be estimated. The proposed method treats the outputs of the deep net as  a posteriori probabilities, requiring output calibration. The benefits of test-time prior estimation and adaptation will be demonstrated on a fine-grained recognition problem.
+  time: 15:15 - 16:15
+  room: Main Lecture Hall
+  date: Saturday / 28 October
+  id: 9
+  author-name: Jiri Matas
+  author-title: Czech Technical University
+  author-image: images/optimized/speakers-2023-600x600/JiriMatas.webp
+  author-bio: >-
+    Jiri Matas is a full professor and the head of the Visual Recognition Group, Department of Cybernetics, Czech Technical University in Prague. He holds a PhD degree from the University of Surrey, UK (1995). He has published more than 300 papers that have been cited about 64000 times.
+    His research interests include visual tracking, object recognition, image matching and retrieval, sequential pattern recognition, and RANSAC-type optimization methods. He received the best paper prize at the British Machine Vision Conferences in 2002, 2005 and 2022, at the Asian Conference on Computer Vision in 2007 and at the Int. Conf. on Document analysis and Recognition in 2015. J. Matas served as a programme or general chair at the European Conference of Computer Vision (ECCV) in 2004, 2016, 2022 and at Computer Vision and Pattern Recognition (CVPR) in 2007 and 2022. He is an Editor-in-Chief of the International Journal of Computer Vision was an Associate Editor-in-Chief of IEEE T. Pattern Analysis and Machine Intelligence. 
+    He has co-founded two companies, Eyedea Recognition (computer vision) and Locksley (combinatorial optimization). The industrial project he has lead at the Czech Technical University (Toyota, Samsung, Hitachi, Boeing) have generated income of about 5 million euros. He is an inventor of several patents.
+  google-scholar: https://scholar.google.com/citations?user=EJCNY6QAAAAJ
+
 - title: Modular Deep Learning for Customisable LLMs
   abstract: >- 
     Large Language Models (LLMs) are fine-tuned on instructions and/or human feedback to create general-purpose models for a variety of AI applications. Nevertheless, LLMs are hard to customise due to their scale, which makes full fine-tuning impractical (due to its high memory requirements) and prompting unreliable (due to its inferior performance). How then to customise the behaviour of an LLM efficiently? Modular deep learning has emerged as an alternative paradigm where information is routed to specialised, autonomous modules. Individual modules can be subsequently merged to add (or subtract) the knowledge they contain from a backbone LLM.
@@ -146,37 +168,15 @@
     Finally, I will show how adding modules can promote positive behaviours in LLMs (e.g., faithfulness to ground-truth knowledge) and how subtracting modules can discourage negative behaviours (e.g., toxicity). Moreover, I will demonstrate that the errors resulting from these merging operations stem from the mismatch between the gradients of individual modules and a “target” model (by definition inaccessible) trained on the union of their data. Thus, I will provide a general formula for merging modules that minimises their gradient mismatch.
 
   time: 15:15 - 16:15
-  room: Main Lecture Hall
+  room: Lecture Hall A
   date: Saturday / 28 October
-  id: 9
+  id: 10
   author-name: Edoardo Maria Ponti
   author-title: University of Edinburgh / University of Cambridge
   author-image: images/optimized/speakers-2023-600x600/EdoardoMariaPonti.webp
   author-bio: >-
     Edoardo M. Ponti is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the "Institute for Language, Cognition, and Computation" (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
   google-scholar: https://scholar.google.com/citations?user=tklL2q0AAAAJ
-
-- title: Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift
-  abstract: >-
-    The talk will touch two problems that are common, yet rarely addressed, in the deployment of system based on neural networks.
-    
-    
-    The natural formulations of many tasks, in computer vision and elsewhere, leads to a non-differentiable objective function, rendering  standard SGD training inapplicable. In applicatons, the problem is often side-stepped by using a differentiable proxy loss, i.e. a loss designed for another task, which may or may not align well with the non-differentiable objective. We will present approaches for learning a differentiable surrogate of  decomposable and non-differentiable objectives.  For the decomposable case, the approach is validated on two practical tasks of scene text recognition and detection, where the surrogate learns an approximation of edit distance and intersection-over-union, respectively. For the non-decomposable case, we consider image retrieval and develop a recall@k surrogate, also applicable for sorting and counting.
-    
-
-    The second part of the talk will focus on the problem of prior shift, i.e. the situation when the the training and test data have different prior probabilities, distinguishing two cases, when the test-time priors is known and when it must be estimated. The proposed method treats the outputs of the deep net as  a posteriori probabilities, requiring output calibration. The benefits of test-time prior estimation and adaptation will be demonstrated on a fine-grained recognition problem.
-  time: 15:15 - 16:15
-  room: Lecture Hall A
-  date: Saturday / 28 October
-  id: 10
-  author-name: Jiri Matas
-  author-title: Czech Technical University
-  author-image: images/optimized/speakers-2023-600x600/JiriMatas.webp
-  author-bio: >-
-    Jiri Matas is a full professor and the head of the Visual Recognition Group, Department of Cybernetics, Czech Technical University in Prague. He holds a PhD degree from the University of Surrey, UK (1995). He has published more than 300 papers that have been cited about 64000 times.
-    His research interests include visual tracking, object recognition, image matching and retrieval, sequential pattern recognition, and RANSAC-type optimization methods. He received the best paper prize at the British Machine Vision Conferences in 2002, 2005 and 2022, at the Asian Conference on Computer Vision in 2007 and at the Int. Conf. on Document analysis and Recognition in 2015. J. Matas served as a programme or general chair at the European Conference of Computer Vision (ECCV) in 2004, 2016, 2022 and at Computer Vision and Pattern Recognition (CVPR) in 2007 and 2022. He is an Editor-in-Chief of the International Journal of Computer Vision was an Associate Editor-in-Chief of IEEE T. Pattern Analysis and Machine Intelligence. 
-    He has co-founded two companies, Eyedea Recognition (computer vision) and Locksley (combinatorial optimization). The industrial project he has lead at the Czech Technical University (Toyota, Samsung, Hitachi, Boeing) have generated income of about 5 million euros. He is an inventor of several patents.
-  google-scholar: https://scholar.google.com/citations?user=EJCNY6QAAAAJ
 
 - title: Game Theory Empowered by Data Science and Machine learning to Improve Treatment of Metastatic Cancer
   abstract: >-
