@@ -60,10 +60,7 @@
     - name: NASK
       image: "images/optimized/sponsors-2023-600x600/NASK.webp"
       url: "https://en.nask.pl/"
-    - name: WMiNI
-      image: "images/optimized/honorary-patronages-600x600/WMiNI.webp"
-      url: "https://ww4.mini.pw.edu.pl/"
-
+    
 - title: "/ Honorary Patronages"
   imageMaxWidth: 400px
   imageMaxHeight: 240px
@@ -80,6 +77,9 @@
     - name: SGH
       image: "images/optimized/honorary-patronages-600x600/SGH.webp"
       url: https://www.sgh.waw.pl/en
+    - name: WMiNI
+      image: "images/optimized/honorary-patronages-600x600/WMiNI.webp"
+      url: "https://ww4.mini.pw.edu.pl/"
     - name: University of Warsaw
       #title: Rector of University of Warsaw
       image: "images/optimized/honorary-patronages-600x600/UW.webp"
