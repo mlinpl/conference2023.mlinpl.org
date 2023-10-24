@@ -60,6 +60,7 @@
     - name: NASK
       image: "images/optimized/sponsors-2023-600x600/NASK.webp"
       url: "https://en.nask.pl/"
+
 - title: "/ Honorary Patronages"
   imageMaxWidth: 410px
   imageMaxHeight: 240px

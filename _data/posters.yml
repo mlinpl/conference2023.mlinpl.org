@@ -379,6 +379,29 @@
 #  id: 21
 #  author-image: images/optimized/cfc-2023-600x600/daria_stetsenko.webp
 
+- author-name: Izabela Krysińska
+  title: "Enhancing Semgrex for Unstructured Text."
+  author-title: "Pearson"
+  abstract: >- 
+    The rise in unstructured textual data from various sources, including student interactions and online transcripts, has highlighted the challenge of extracting meaningful information from such content. In this context, the integration of advanced graph-based regular expressions – semgrex – emerges as a pivotal solution. However, existing approaches which integrate semgrex fall short in terms of efficiency and effectiveness.   
+    
+    Our research aims to enhance them by introducing a novel method that enriches the output of semgrex. The enriched output contains words matched with semgrex as well as selected unmatched words that together hold significant meaning within the context of a larger expression. This is achieved by combining syntactic and semantic insights of words connected with matched expression.  
+    
+    Let us assume we want to highlight the following grammatical structure verb + to + infinitive. Giving the following utterance “…he recently started taking online courses to expand his skillset …”, the match will contain the following words “taking […] to expand” which lacks needed context. Our method extracts a relevant fragment that presents the grammatical structure more accurately – “taking [...] courses to expand his skillset”.  
+    
+    The potential of this method is extensive, with its most promising application in the field of education. Within this domain, a compelling opportunity arises to enhance feedback delivery by precisely identifying grammatical errors or highlighting key grammatical structures in text or online transcript and presenting them to learners in a meaningful way.  
+    
+    With 351 grammatical pattern matches extracted from 20 sentences (averaging 117 words each), the method has demonstrated significant promise. Human assessment indicated that 80.7% of the extracted matches accurately presented targeted grammar structures. These outcomes highlight the method's potential in gleaning insights from unstructured texts, especially in language learning contexts. By improving feedback, our approach holds the key to transforming approaches to teaching and learning, making education more effective and accessible.
+  author-bio: >- 
+    Iza is a Senior Data Scientist boasting a 3 year career in machine learning and data analysis at Pearson. She centers her work on collaborating with learning designers, aiming to develop innovative capabilities to support language learners across the globe. Simultaneously pursuing a PhD, Iza is engrossed in studying the dynamics of social media. She is primarily focused on developing mechanisms to immune society to misinformation. Using a multidisciplinary approach, her research aims to leverage machine learning and psychological studies in detecting, tracking, and countering the propagation of false information.
+  co-authors: Mateusz Półtorak, Agnieszka Pludra
+  date: Friday / 28 October
+  time: 10:00 - 12:00
+  room:
+  session:
+  id: 21
+  author-image: images/empty.png
+
 - author-name: Dominik Kossiński
   title: "Application of machine learning in menstrual cycle assessment based on data from iYoni mobile app"
   author-title: "iYoni"
@@ -1153,27 +1176,4 @@
   session: 
   id: 64
   author-image: images/optimized/cfc-2023-600x600/adam_zadrożny.webp
-
-- author-name: Izabela Krysińska
-  title: "Enhancing Semgrex for Unstructured Text."
-  author-title: "Pearson"
-  abstract: >- 
-    The rise in unstructured textual data from various sources, including student interactions and online transcripts, has highlighted the challenge of extracting meaningful information from such content. In this context, the integration of advanced graph-based regular expressions – semgrex – emerges as a pivotal solution. However, existing approaches which integrate semgrex fall short in terms of efficiency and effectiveness.   
-    
-    Our research aims to enhance them by introducing a novel method that enriches the output of semgrex. The enriched output contains words matched with semgrex as well as selected unmatched words that together hold significant meaning within the context of a larger expression. This is achieved by combining syntactic and semantic insights of words connected with matched expression.  
-    
-    Let us assume we want to highlight the following grammatical structure verb + to + infinitive. Giving the following utterance “…he recently started taking online courses to expand his skillset …”, the match will contain the following words “taking […] to expand” which lacks needed context. Our method extracts a relevant fragment that presents the grammatical structure more accurately – “taking [...] courses to expand his skillset”.  
-    
-    The potential of this method is extensive, with its most promising application in the field of education. Within this domain, a compelling opportunity arises to enhance feedback delivery by precisely identifying grammatical errors or highlighting key grammatical structures in text or online transcript and presenting them to learners in a meaningful way.  
-    
-    With 351 grammatical pattern matches extracted from 20 sentences (averaging 117 words each), the method has demonstrated significant promise. Human assessment indicated that 80.7% of the extracted matches accurately presented targeted grammar structures. These outcomes highlight the method's potential in gleaning insights from unstructured texts, especially in language learning contexts. By improving feedback, our approach holds the key to transforming approaches to teaching and learning, making education more effective and accessible.
-  author-bio: >- 
-    Iza is a Senior Data Scientist boasting a 3 year career in machine learning and data analysis at Pearson. She centers her work on collaborating with learning designers, aiming to develop innovative capabilities to support language learners across the globe. Simultaneously pursuing a PhD, Iza is engrossed in studying the dynamics of social media. She is primarily focused on developing mechanisms to immune society to misinformation. Using a multidisciplinary approach, her research aims to leverage machine learning and psychological studies in detecting, tracking, and countering the propagation of false information.
-  co-authors: Mateusz Półtorak, Agnieszka Pludra
-  date: Saturday / 28 October
-  time: 10:00 - 12:00
-  room: 
-  session: 
-  id: 65
-  author-image: images/empty.png
 
