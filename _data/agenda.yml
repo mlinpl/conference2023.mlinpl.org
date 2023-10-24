@@ -192,7 +192,7 @@
           room: Lecture Hall B
           url: /program#sponsor-talk-2
     - events: 
-        - title: 'Sponsor talk 3'
+        - title: 'Sponsor talk 3: <strong> From Cybersecurity to Neurosurgery: ML at work at NASK</strong>'
           subtitle: "by Michał Karpowicz (NASK)"
           element-class: col-lg-offset-8 col-lg-4
           time: 12:35 - 13:00

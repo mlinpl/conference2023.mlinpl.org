@@ -36,10 +36,11 @@
   author-image: images/optimized/cfc-2023-600x600/maciej_wysocki.webp
 
 - author-name: Michał Karpowicz
-  title: "TBA"
+  title: "From Cybersecurity to Neurosurgery: ML at work at NASK"
   author-title: "NASK"
   slider-order: 4
-  abstract: TBA
+  abstract: >-
+    Mathematics of AI, mathematics of cyberthreat detection and mitigation, cryptology, AI-based cybersecurity, disinformation detection, and harmful content tracking, NLP and LLMs, AI in medicine, computer vision and biometrics, and XAI, yes, you will find that all at NASK. I will not tell you about all, but I will tell you about some of the most fascinating research challenges and the beautiful mathematics behind them. How does matrix meta-factorization reveal and keep secrets? How can we reduce neurosurgery time with linear algebra? I am sure we will have a lot of fun!
   author-bio: >- 
     Michał Karpowicz joined NASK PIB in 2006. He has gone through a full academic career path, from a research assistant position to a professor at the institute, leading a team, department, and branch along the way (in the field of cyber security systems).
     
