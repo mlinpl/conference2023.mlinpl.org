@@ -18,6 +18,9 @@
     - name: Allegro
       image: "images/optimized/sponsors-2023-600x600/Allegro.webp"
       url: https://ml.allegro.tech/
+    - name: Google DeepMind
+      image: "images/optimized/sponsors-2023-600x600/DeepMind.webp"
+      url: https://www.deepmind.com/
     - name: Ideas NCBR
       image: "images/optimized/sponsors-2023-600x600/IdeasNCBR.webp"
       url: "https://ideas-ncbr.pl/en/"
@@ -45,6 +48,9 @@
     - name: Bites Studio
       image: "images/optimized/sponsors-2023-600x600/Bites.webp"
       url: "https://www.bitesstudio.com/"
+    - name: Gemelo
+      image: "images/optimized/sponsors-2023-600x600/Gemelo.webp"
+      url: https://gemelo.ai/
     - name: Hewlett Packard Enterprise
       image: "images/optimized/sponsors-2023-600x600/HPE.webp"
       url: https://www.hpe.com/us/en/home.html
