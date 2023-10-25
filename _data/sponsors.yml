@@ -12,14 +12,14 @@
 
 - title: '/ <span class="gold-shine-text">Gold sponsors</span>'
   imageMaxWidth: 280px
-  imageMaxHeight: 100px
+  imageMaxHeight: 90px
   margin: 30px 45px
   sponsors:
     - name: Allegro
       image: "images/optimized/sponsors-2023-600x600/Allegro.webp"
       url: https://ml.allegro.tech/
     - name: Google DeepMind
-      image: "images/optimized/sponsors-2023-600x600/DeepMind.webp"
+      image: "images/optimized/sponsors-2023-600x600/GoogleDeepMind.webp"
       url: https://www.deepmind.com/
     - name: Ideas NCBR
       image: "images/optimized/sponsors-2023-600x600/IdeasNCBR.webp"
@@ -35,9 +35,9 @@
       url: "https://www.snowflake.com/en/"
 
 - title: '/ <span class="silver-shine-text">Silver sponsors</span>'
-  imageMaxWidth: 280px
-  imageMaxHeight: 80px
-  margin: 30px 45px
+  imageMaxWidth: 270px
+  imageMaxHeight: 70px
+  margin: 30px 50px
   sponsors:
     - name: AI Clearing
       image: "images/optimized/sponsors-2023-600x600/AIClearing.webp"
