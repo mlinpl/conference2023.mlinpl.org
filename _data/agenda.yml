@@ -1,8 +1,8 @@
 - title: Thursday / 26 October
   location: SGH Warsaw School of Economics
-  location-address: al. Niepodległości 162, 02-554 Warszawa
+  location-address: al. Niepodległości 162, building G, 02-554 Warszawa
   sessions:
-    - events: 
+    - events:
         - title: "Student Research Workshop:"
           subevents:
             - title: Opening remarks
@@ -43,6 +43,7 @@
           room: Main Lecture Hall 
     - events:
         - title: Registration
+          subtitle: (Also open after 12:00)
           element-class: col-lg-12
           time: 11:00 - 12:00
     - events:
@@ -98,6 +99,7 @@
         - title: Registration
           element-class: col-lg-12
           time: 08:30 - 09:00
+          subtitle: (Also open after 09:00)
     - events: 
         - title: 'Invited talk 1: <strong>Understanding Iterative Magnitude Pruning: linear mode connectivity, symmetries, and data</strong>'
           subtitle: "by Gintare Karolina Dziugaite (Google DeepMind)"
@@ -288,6 +290,7 @@
         - title: Registration
           element-class: col-lg-12
           time: 08:30 - 09:00
+          subtitle: (Also open after 09:00)
     - events: 
         - title: 'Discussion Panel 3: <strong>Generative Models</strong>'
           element-class: col-lg-4
