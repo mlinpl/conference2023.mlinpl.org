@@ -72,6 +72,8 @@ navigation:
         url: "/call-for-tutorials"
       - name: "/ Conference game"
         url: "/conference-game"
+      - name: "/ Conference booklet"
+        url: "/docs/booklet.pdf"
 
   - name: "/ Timeline"
     url: "#timeline"
