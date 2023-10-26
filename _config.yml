@@ -70,6 +70,8 @@ navigation:
         url: "/call-for-contributions"
       - name: "/ Call for Tutorials"
         url: "/call-for-tutorials"
+      - name: "/ Conference game"
+        url: "/conference-game"
 
   - name: "/ Timeline"
     url: "#timeline"
