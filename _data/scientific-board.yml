@@ -12,7 +12,7 @@
   bio-intro: >-
     Jan Chorowski is an associate professor at Faculty of Mathematics and Computer Science at University of Wrocław. He received his M.Sc. degree in electrical engineering from Wrocław University of Technology and Ph.D. from University of Louisville. 
   bio-more: >-
-    He has visited several research teams, including Google Brain, Microsoft Research and Yoshua Bengio’s lab. His research interests are applications of neural networks to problems which are intuitive and easy for humans and difficult for machines, such as speech and natural language processing.
+    He has visited several research teams, including Google Brain, Microsoft Research and Yoshua Bengio's lab. His research interests are applications of neural networks to problems which are intuitive and easy for humans and difficult for machines, such as speech and natural language processing.
 
 - name: Marek Cygan
   affiliation: University of Warsaw / Nomagic
@@ -78,9 +78,9 @@
   image: images/optimized/scientific-board-300x300/InezOkulska.webp
   google-scholar: https://scholar.google.pl/citations?user=wKQ-ZfQAAAAJ&hl=pl
   bio-intro: >-
-    Inez Okulska is the Head of the Department of Linguistic Engineering and Text Analysis at the NASK National Research Institute.
+    Inez Okulska is the Head of the Department of Linguistic Engineering and Text Analysis at the NASK National Research Institute and Director of Innovaition & Tech Department at the Ministry of Digitial Affairs.
   bio-more: >-
-    After completing a colorful humanistic path (which included, among others, linguistics, comparative literary studies, cultural studies, philosophy), culminating in a doctorate in translation studies and a postdoctoral fellowship at Harvard University, she completed master’s studies in automation and robotics at the WEiTI faculty of the Warsaw University of Technology. Scientifically interested in the semantic and pragmalinguistic potential of grammar, explores proprietary vector representations of text and their algebraic potential. She implements projects related to cybersecurity, primarily at the level of detection and classification of undesirable content.
+    After completing a colorful humanistic path (which included, among others, linguistics, comparative literary studies, cultural studies, philosophy), culminating in a doctorate in translation studies and a postdoctoral fellowship at Harvard University, she completed master's studies in automation and robotics at the WEiTI faculty of the Warsaw University of Technology. Scientifically interested in the semantic and pragmalinguistic potential of grammar, explores proprietary vector representations of text and their algebraic potential. She implements projects related to cybersecurity, primarily at the level of detection and classification of undesirable content. She was selected as one of Perspectywy Top100 WomenInAI in Poland.
 
 - name: Razvan Pascanu
   affiliation: DeepMind
