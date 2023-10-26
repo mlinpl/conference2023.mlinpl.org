@@ -351,7 +351,19 @@
           time: 12:00 - 13:15
           room: Lecture Hall A
         - title: 'Talks by Witold Lipski Award Laureates'
-          subtitle: 'Program will be anounced after the award ceremony'
+          subevents:
+            - title: "<strong>Multi-modal mobile robot localization</strong>"
+              subtitle: by Michał Nowicki (Poznan University of Technology)
+              time: 12:00 - 12:25
+              url: /program#contributed-talk-25
+            - title: "<strong>The story of explainable clustering</strong>"
+              subtitle: by Adam Polak (Bocconi University)
+              time: 12:25 - 12:50
+              url: /program#contributed-talk-26
+            - title: "<strong>Towards Efficient Machine Learning for Sequential Decision Making</strong>"
+              subtitle: by Błażej Osiński (University of Warsaw/Altos Labs)
+              time: 12:50 - 13:15
+              url: /program#contributed-talk-27
           element-class: col-lg-4
           time: 12:00 - 13:15
           room: Lecture Hall B
