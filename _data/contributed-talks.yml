@@ -426,3 +426,49 @@
   id: 24
   author-image: images/optimized/cfc-2023-600x600/gianmario_spacagna.webp
 
+- author-name: Michał Nowicki
+  title: "Multi-modal mobile robot localization"
+  author-title: "Poznan University of Technology"
+  abstract: >- 
+    The proposed presentation concerns the new solutions for localization with multi-sensory systems, starting with the challenges of multi-sensory localization solutions from exact extrinsic calibration to non-usual sensory stacks. We will discuss camera-3D LiDAR spatiotemporal calibration through bus calibration, multi-sensory place recognition, and haptic localization. The presented solutions create a unified series of works, each based on experiences from previous approaches, even if the application is different. The proposed methods are practical localization solutions or their components that can be a part of the autonomous agents.
+  author-bio: >- 
+    Michał R. Nowicki is an Assistant Professor at the Institute of Robotics and Machine Intelligence, Poznan University of Technology. He graduated from the same University with an MSc degree in Automation and Robotics (specialization: Robotics) in 2014, a BSc degree in Computing in 2014), and a BSc degree in Automation and Robotics (specialization: Robotics) in 2013. In 2018, M. Nowicki defended his Ph.D. thesis concerning multiple-sensory SLAM systems. He has experience in six scientific projects (EU H2020, Polish NCN), seven R&D projects (Polish NCBR), and commercial projects as a researcher, team leader, principal investigator, and head of autonomy. The projects concerned, among others, haptic localization for a walking robot, an ADAS system for bus driving, an autonomous drone for indoor exploration for the military, and autonomy for a fleet of last-mile mobile delivery robots. He is the author of over 60 scientific papers. The main area of research includes the perception, localization, and autonomy of mobile robots indoors and outdoors. Fundamental interests lie in unexplored areas of autonomous mobile robot applications.
+  co-authors:
+  date: Saturday / 28 October
+  time: 11:30 - 11:55
+  room: Lecture Hall B
+  session: Witold Lipski Award
+  id: 25
+  author-image: images/optimized/cfc-2023-600x600/michał_nowicki.webp
+
+- author-name: Adam Polak
+  title: "The story of explainable clustering"
+  author-title: "Bocconi University"
+  abstract: >- 
+    This will be a talk about the problem of explainable clustering in the setting first formalized by Dasgupta, Frost, Moshkovitz, and Rashtchian (ICML 2020). A k-clustering is said to be explainable if it is given by a decision tree where each internal node splits data points with a threshold cut in a single dimension (feature), and each of the k leaves corresponds to a cluster. I will present an algorithm that outputs an explainable clustering that loses at most a factor of log k compared to an optimal (not necessarily explainable) clustering for the k-medians objective – which is provably a necessary price to pay for explainability. The algorithm is remarkably simple and elegant. In particular, given an initial (not necessarily explainable) clustering in d dimensions, it is oblivious to the data points and runs in time ~O(dk), independent of the number of data points n. The talk will be based on our joint work with Buddhima Gamlath, Xinrui Jia, and Ola Svensson, as well as other works in the area.
+  author-bio: >- 
+    I obtained my PhD from Jagiellonian University in Kraków, where I was fortunate to be advised by Paweł Idziak. Afterwards, I worked as a postdoc at Ecole Polytechnique Fédérale de Lausanne and Max Planck Institute for Informatics. Recently, I started a new position as an assistant professor at Bocconi Univeristy.
+  co-authors:
+  date: Saturday / 28 October
+  time: 11:55 - 12:20
+  room: Lecture Hall B
+  session: Witold Lipski Award
+  id: 26
+  author-image: images/empty.png
+
+- author-name: Błażej Osiński
+  title: "Towards Efficient Machine Learning for Sequential Decision Making"
+  author-title: "University of Warsaw/Altos Labs"
+  abstract: >-
+    In this talk, I will present my personal journey toward developing efficient machine learning methods for sequential decision making. This journey spans both academia and industry, tackling diverse challenges that range from Atari games to autonomous driving and robotics.
+    Why should we care about efficient methods for sequential decision making? If we observe the progress of artificial intelligence over the last few decades, it has managed to ascend what were perceived as pinnacles of human intelligence. From chess and Go to StarCraft and No Limit Texas Hold'em, machines have toppled human champions. The emergence of large language models extends this progress to more open-ended challenges.
+    Despite these successes, when it comes to physical interactions with the real world, the achievements of AI are less remarkable. For instance, despite three decades of research, multi-fingered robotic hands are still far less dexterous than those of an average human child. The comparatively slower advancements in the realm of physical interactions can largely be attributed to the massive data requirements of contemporary machine learning methods. Advancements in efficiency could pave the way for truly practical robots capable of alleviating our household chores, rather than just beating us in games or eyeing our jobs.
+  author-bio: >- 
+    Błażej is a machine learning researcher with experience in sequential decision-making problems (reinforcement learning, imitation learning). He is about to graduate with a Ph.D. from the University of Warsaw. He has divided his time between academia and industry, having affiliations with institutions such as Lyft Level 5, Google Brain, and the University of California, Berkeley. He is now pivoting to the ambitious endeavor of explaining cellular biology with machine learning working for Altos Labs.
+  co-authors:
+  date: Saturday / 28 October
+  time: 12:20 - 12:45
+  room: Lecture Hall B
+  session: Witold Lipski Award
+  id: 27
+  author-image: images/optimized/cfc-2023-600x600/błażej_osiński.webp
