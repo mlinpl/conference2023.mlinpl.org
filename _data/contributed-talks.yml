@@ -458,7 +458,7 @@
 
 - author-name: Błażej Osiński
   title: "Towards Efficient Machine Learning for Sequential Decision Making"
-  author-title: "University of Warsaw/Altos Labs"
+  author-title: "University of Warsaw / Altos Labs"
   abstract: >-
     In this talk, I will present my personal journey toward developing efficient machine learning methods for sequential decision making. This journey spans both academia and industry, tackling diverse challenges that range from Atari games to autonomous driving and robotics.
     Why should we care about efficient methods for sequential decision making? If we observe the progress of artificial intelligence over the last few decades, it has managed to ascend what were perceived as pinnacles of human intelligence. From chess and Go to StarCraft and No Limit Texas Hold'em, machines have toppled human champions. The emergence of large language models extends this progress to more open-ended challenges.
