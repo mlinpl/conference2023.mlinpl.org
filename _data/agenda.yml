@@ -384,6 +384,12 @@
           time: 14:15 - 14:40
           room: Lecture Hall B
           url: /program#sponsor-talk-5
+    - events:
+        - title: 'ML in PL Research Platform'
+          subtitle: 'Michał Tyrolski (ML in PL Association)'
+          element-class: col-lg-offset-8 col-lg-4
+          time: 14:40 - 14:55
+          room: Lecture Hall B
     - events: 
         - title: 'Invited talk 9: <strong>Neural Network Deployment - Dealing with Non-Differentiable Objectives and with Prior Shift</strong>'
           subtitle: "by Jiri Matas (Czech Technical University)"
