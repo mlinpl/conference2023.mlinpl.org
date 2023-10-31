@@ -40,7 +40,9 @@
   room: 
   session: 
   id: 2
+  poster: docs/poster_2.pdf
   author-image: images/optimized/cfc-2023-600x600/mateusz_panasiuk.webp
+  
 
 - author-name: Adam Dziedzic
   title: "Privacy for Large Language Models"
@@ -88,6 +90,7 @@
   room: 
   session: 
   id: 5
+  poster: docs/poster_5.pdf
   author-image: images/empty.png
 
 - author-name: Aleksandra Mulewicz
@@ -103,6 +106,7 @@
   room: 
   session: 
   id: 6
+  poster: docs/poster_6.pdf
   author-image: images/optimized/cfc-2023-600x600/aleksandra_mulewicz.webp
 
 - author-name: Patryk Wielopolski
@@ -128,6 +132,7 @@
   room: 
   session: 
   id: 7
+  poster: docs/poster_7.pdf
   author-image: images/optimized/cfc-2023-600x600/patryk_wielopolski.webp
 
 - author-name: Krzysztof Jankowski
@@ -143,6 +148,7 @@
   room:
   session:
   id: 8
+  poster: docs/poster_8.pdf
   author-image: images/optimized/cfc-2023-600x600/krzysztof_jankowski.webp
 
 - author-name: Pawel Knap
@@ -162,6 +168,7 @@
   room:
   session:
   id: 9
+  poster: docs/poster_9.pdf
   author-image: images/empty.png
 
 # - author-name: Sindhu Padakandla
@@ -217,6 +224,7 @@
   room:
   session:
   id: 12
+  poster: docs/poster_12.pdf
   author-image: images/optimized/cfc-2023-600x600/anjitha_john_william_mini_latha.webp
 
 - author-name: Andrii Krutsylo
@@ -232,6 +240,7 @@
   room:
   session:
   id: 13
+  poster: docs/poster_13.pdf
   author-image: images/empty.png
 
 - author-name: Jakub Kopyciński
@@ -252,6 +261,7 @@
   room:
   session:
   id: 14
+  poster: docs/poster_14.pdf
   author-image: images/optimized/cfc-2023-600x600/jakub_kopyciński.webp
 
 - author-name: Sebastian Chwilczyński
@@ -277,6 +287,7 @@
   room:
   session:
   id: 15
+  poster: docs/poster_15.pdf
   author-image: images/optimized/cfc-2023-600x600/sebastian_chwilczyński.webp
 
 - author-name: Daniel Marczak
@@ -292,6 +303,7 @@
   room:
   session:
   id: 16
+  poster: docs/poster_16.pdf
   author-image: images/optimized/cfc-2023-600x600/daniel_marczak.webp
 
 - author-name: Adam Piróg
@@ -307,6 +319,7 @@
   room:
   session:
   id: 17
+  poster: docs/poster_17.pdf
   author-image: images/empty.png
 
 - author-name: Rafał Bachorz
@@ -337,6 +350,7 @@
   room:
   session:
   id: 19
+  poster: docs/poster_19.pdf
   author-image: images/optimized/cfc-2023-600x600/adrian_urbański.webp
 
 - author-name: Paweł Koźmiński
@@ -359,6 +373,7 @@
   room:
   session:
   id: 20
+  poster: docs/poster_20.pdf
   author-image: images/optimized/cfc-2023-600x600/paweł_koźmiński.webp
 
 #- author-name: Daria Stetsenko
@@ -415,6 +430,7 @@
   room: 
   session: 
   id: 22
+  poster: docs/poster_22.pdf
   author-image: images/optimized/cfc-2023-600x600/dominik_kossiński.webp
 
 - author-name: Maksymilian Kulicki
@@ -434,6 +450,7 @@
   room: 
   session: 
   id: 23
+  poster: docs/poster_23.pdf
   author-image: images/optimized/cfc-2023-600x600/maksymilian_kulicki.webp
 
 - author-name: Damian Sójka
@@ -449,6 +466,7 @@
   room: 
   session: 
   id: 24
+  poster: docs/poster_24.pdf
   author-image: images/optimized/cfc-2023-600x600/damian_sójka.webp
 
 - author-name: Antoni Kowalczuk
@@ -500,6 +518,7 @@
   room: 
   session: 
   id: 26
+  poster: docs/poster_26.pdf
   author-image: images/optimized/cfc-2023-600x600/jan_dubiński.webp
 
 - author-name: Joanna Kaleta
@@ -565,6 +584,7 @@
   room: 
   session: 
   id: 31
+  poster: docs/poster_31.pdf
   author-image: images/optimized/cfc-2023-600x600/maciej_mozolewski.webp
 
 - author-name: Piotr Wyrwiński
@@ -645,6 +665,7 @@
   room: 
   session: 
   id: 35
+  poster: docs/poster_35.pdf
   author-image: images/optimized/cfc-2023-600x600/eryka_probierz.webp
 #
 #- author-name: Rodolfo Pina
@@ -679,6 +700,7 @@
   room: 
   session: 
   id: 37
+  poster: docs/poster_37.pdf
   author-image: images/optimized/cfc-2023-600x600/hanna_broszczak.webp
 
 - author-name: Jakub Piwko
@@ -698,6 +720,7 @@
   room: 
   session: 
   id: 38
+  poster: docs/poster_38.pdf
   author-image: images/optimized/cfc-2023-600x600/jakub_piwko.webp
 
 - author-name: Emilia Witkowska Nery
@@ -751,6 +774,7 @@
   room: 
   session: 
   id: 41
+  poster: docs/poster_41.pdf
   author-image: images/optimized/cfc-2023-600x600/hubert_ruczyński.webp
 
 - author-name: Marcin Furtak
@@ -773,6 +797,7 @@
   room: 
   session: 
   id: 42
+  poster: docs/poster_42.pdf
   author-image: images/optimized/cfc-2023-600x600/marcin_furtak.webp
 
 - author-name: Tsimur Hadeliya
@@ -788,6 +813,7 @@
   room: 
   session: 
   id: 43
+  poster: docs/poster_43.pdf
   author-image: images/empty.png
 
 - author-name: Wojciech Kretowicz
@@ -806,6 +832,7 @@
   room: 
   session: 
   id: 44
+  poster: docs/poster_44.pdf
   author-image: images/optimized/cfc-2023-600x600/wojciech_kretowicz.webp
 
 - author-name: Sandra Frycz
@@ -824,6 +851,7 @@
   room: 
   session: 
   id: 45
+  poster: docs/poster_45.pdf
   author-image: images/empty.png
 
 - author-name: Katarzyna Baraniak
@@ -839,6 +867,7 @@
   room: 
   session: 
   id: 46
+  poster: docs/poster_46.pdf
   author-image: images/empty.png
 
 - author-name: Katarzyna Frankowska
@@ -856,6 +885,7 @@
   room: 
   session: 
   id: 47
+  poster: docs/poster_47.pdf
   author-image: images/optimized/cfc-2023-600x600/katarzyna_frankowska.webp
 
 - author-name: Marek Justyna
@@ -890,6 +920,7 @@
   room: 
   session: 
   id: 49
+  poster: docs/poster_49.pdf
   author-image: images/optimized/cfc-2023-600x600/hanna_sobocińska.webp
 
 - author-name: Anna Wąsik
@@ -907,6 +938,7 @@
   room: 
   session: 
   id: 50
+  poster: docs/poster_50.pdf
   author-image: images/optimized/cfc-2023-600x600/anna_wąsik.webp
 
 - author-name: Kacper Cybiński
@@ -927,6 +959,7 @@
   room: 
   session: 
   id: 51
+  poster: docs/poster_51.pdf
   author-image: images/optimized/cfc-2023-600x600/kacper_cybiński.webp
 
 - author-name: Maciej Szymkowski
@@ -972,6 +1005,7 @@
   room: 
   session: 
   id: 54
+  poster: docs/poster_54.pdf
   author-image: images/optimized/cfc-2023-600x600/piotr_gręda.webp
 
 - author-name: Łukasz Sztukiewicz
@@ -1002,6 +1036,7 @@
   room: 
   session: 
   id: 55
+  poster: docs/poster_55.pdf
   author-image: images/optimized/cfc-2023-600x600/łukasz_sztukiewicz.webp
 
 - author-name: Dominik Lewy
@@ -1017,6 +1052,7 @@
   room: 
   session: 
   id: 56
+  poster: docs/poster_56.pdf
   author-image: images/optimized/cfc-2023-600x600/dominik_lewy.webp
 
 - author-name: Patryk Będkowski
@@ -1043,6 +1079,7 @@
   room: 
   session: 
   id: 57
+  poster: docs/poster_57.pdf
   author-image: images/empty.png
 
 - author-name: Sneha Jha
@@ -1059,6 +1096,7 @@
   room: 
   session: 
   id: 58
+  poster: docs/poster_58.pdf
   author-image: images/optimized/cfc-2023-600x600/sneha_jha.webp
 
 - author-name: Michał Wiliński
@@ -1126,6 +1164,7 @@
   room: 
   session: 
   id: 61
+  poster: docs/poster_61.pdf
   author-image: images/optimized/cfc-2023-600x600/klaudia_balcer.webp
 
 - author-name: Bartlomiej Sobieski
@@ -1143,6 +1182,7 @@
   room: 
   session: 
   id: 62
+  poster: docs/poster_62.pdf
   author-image: images/optimized/cfc-2023-600x600/bartlomiej_sobieski.webp
 
 - author-name: Marianna Zadrożna

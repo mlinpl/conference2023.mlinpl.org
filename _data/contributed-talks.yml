@@ -12,6 +12,7 @@
   session: CfC Session 1
   id: 1
   author-image: images/optimized/cfc-2023-600x600/franziska_boenisch.webp
+  slides: docs/cfc_talk_1.pdf
 
 - author-name: Adam Dziedzic
   title: "Privacy for Large Language Models"
@@ -27,6 +28,7 @@
   session: CfC Session 1
   id: 2
   author-image: images/optimized/cfc-2023-600x600/adam_dziedzic.webp
+  slides: docs/cfc_talk_2.pdf
 
 - author-name: Jan Dubiński
   title: "Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders"
@@ -42,6 +44,7 @@
   session: CfC Session 1
   id: 3
   author-image: images/optimized/cfc-2023-600x600/jan_dubiński.webp
+  slides: docs/cfc_talk_3.pdf
 
 - author-name: Omar Rivasplata
   title: "Semi-supervised batch learning from logged data"
@@ -61,6 +64,7 @@
   session: CfC Session 2
   id: 4
   author-image: images/empty.png
+  slides: docs/cfc_talk_4.pdf
 
 - author-name: Patryk Wielopolski
   title: "TreeFlow: A Novel Tree-Based Approach for Flexible Regression Modeling with Normalizing Flows"
@@ -86,6 +90,7 @@
   session: CfC Session 2
   id: 5
   author-image: images/optimized/cfc-2023-600x600/patryk_wielopolski.webp
+  slides: docs/cfc_talk_5.pdf
 
 - author-name: Jan Mielniczuk
   title: "Double  logistic regression approach to biased positive-unlabeled data"
@@ -108,6 +113,7 @@
   session: CfC Session 2
   id: 6
   author-image: images/optimized/cfc-2023-600x600/jan_mielniczuk.webp
+  slides: docs/cfc_talk_6.pdf
 
 - author-name: Konrad Cop
   title: "ML without proper data in Advanced Robotic Navigation"
@@ -127,6 +133,7 @@
   session: CfC Session 3
   id: 7
   author-image: images/optimized/cfc-2023-600x600/konrad_cop.webp
+  slides: docs/cfc_talk_7.pdf
 
 - author-name: Bartosz Ptak
   title: "Enhancing Lunar Robotics Rover through Deep Learning and Edge AI"
@@ -143,6 +150,7 @@
   session: CfC Session 3
   id: 8
   author-image: images/optimized/cfc-2023-600x600/bartosz_ptak.webp
+  slides: docs/cfc_talk_8.pdf
 
 - author-name: Bartosz Zieliński
   title: "Sustainable computer vision for autonomous machines"
@@ -158,6 +166,7 @@
   session: CfC Session 3
   id: 9
   author-image: images/optimized/cfc-2023-600x600/bartosz_zieliński.webp
+  slides: docs/cfc_talk_9.pdf
 
 - author-name: Sebastian Cygert
   title: "Toward Continually Learning Models"
@@ -173,6 +182,7 @@
   session: CfC Session 4
   id: 10
   author-image: images/optimized/cfc-2023-600x600/sebastian_cygert.webp
+  slides: docs/cfc_talk_10.pdf
 
 - author-name: Michał Jamroż
   title: "Class Fitting in Residual Convolutional Networks"
@@ -190,6 +200,7 @@
   session: CfC Session 4
   id: 11
   author-image: images/optimized/cfc-2023-600x600/michał_jamroż.webp
+  slides: docs/cfc_talk_11.pdf
 
 - author-name: Kamil Deja
   title: "Diffusion models - what we already can and yet can't generate"
@@ -205,6 +216,7 @@
   session: CfC Session 4
   id: 12
   author-image: images/optimized/cfc-2023-600x600/kamil_deja.webp
+  slides: docs/cfc_talk_12.pdf
 
 - author-name: Piotr Januszewski
   title: "Mastering MLOps at a Reasonable Scale at Allegro"
@@ -225,6 +237,7 @@
   session: CfC Session 5
   id: 13
   author-image: images/optimized/cfc-2023-600x600/piotr_januszewski.webp
+  slides: docs/cfc_talk_13.pdf
 
 - author-name: Maja Jabłońska
   title: "Unlocking Scientific Discoveries with Large Language Models in Astronomy"
@@ -246,6 +259,7 @@
   session: CfC Session 5
   id: 14
   author-image: images/optimized/cfc-2023-600x600/maja_jabłońska.webp
+  slides: docs/cfc_talk_14.pdf
 
 - author-name: Piotr Płoński
   title: "Create User Interface for Machine Learning models directly from Python Notebook"
@@ -261,6 +275,7 @@
   session: CfC Session 5
   id: 15
   author-image: images/optimized/cfc-2023-600x600/piotr_płoński.webp
+  slides: docs/cfc_talk_15.pdf
 
 - author-name: Maciek Wiatrak
   title: "Fighting Antibiotic Resistance with Deep Learning"
@@ -276,6 +291,7 @@
   session: CfC Session 6
   id: 16
   author-image: images/optimized/cfc-2023-600x600/maciek_wiatrak.webp
+  slides: docs/cfc_talk_16.pdf
 
 - author-name: Paulina Tomaszewska
   title: "Deep spatial context - digital pathology"
@@ -291,6 +307,7 @@
   session: CfC Session 6
   id: 17
   author-image: images/optimized/cfc-2023-600x600/paulina_tomaszewska.webp
+  slides: docs/cfc_talk_17.pdf
 
 - author-name: Tomasz Konopczyński
   title: "Artificial Intelligence for non-invasive cardiac diagnostics"
@@ -307,6 +324,7 @@
   session: CfC Session 6
   id: 18
   author-image: images/optimized/cfc-2023-600x600/tomasz_konopczyński.webp
+  slides: docs/cfc_talk_18.pdf
 
 - author-name: Piotr Rybak
   title: "The State of Polish Semantic Search in the Era of LLMs"
@@ -322,6 +340,7 @@
   session: CfC Session 7
   id: 19
   author-image: images/optimized/cfc-2023-600x600/piotr_rybak.webp
+  slides: docs/cfc_talk_19.pdf
 
 - author-name: Charles O'Neill
   title: "Steering Language Generation: Harnessing Contrastive Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation"
@@ -337,6 +356,7 @@
   session: CfC Session 7
   id: 20
   author-image: images/empty.png
+  slides: docs/cfc_talk_20.pdf
 
 - author-name: Sneha Jha
   title: "Memory optimization for finetuning models"
@@ -352,6 +372,7 @@
   session: CfC Session 7
   id: 21
   author-image: images/optimized/cfc-2023-600x600/sneha_jha.webp
+  slides: docs/cfc_talk_21.pdf
 
 - author-name: Kacper Łodzikowski
   title: "What AI developers need to know about AI governance"
@@ -377,6 +398,7 @@
   session: CfC Session 8
   id: 22
   author-image: images/optimized/cfc-2023-600x600/kacper_łodzikowski.webp
+  slides: docs/cfc_talk_22.pdf
 
 - author-name: Adam Zadrożny
   title: "First full report on the state of AI adoption in law"
@@ -402,6 +424,7 @@
   session: CfC Session 8
   id: 23
   author-image: images/optimized/cfc-2023-600x600/adam_zadrożny.webp
+  slides: docs/cfc_talk_23.pdf
 
 - author-name: Gianmario Spacagna
   title: "The impact of modern Large Language Models in the EdTech industry"
@@ -425,6 +448,7 @@
   session: CfC Session 8
   id: 24
   author-image: images/optimized/cfc-2023-600x600/gianmario_spacagna.webp
+  slides: docs/cfc_talk_24.pdf
 
 - author-name: Michał Nowicki
   title: "Multi-modal mobile robot localization"
@@ -440,6 +464,7 @@
   session: Witold Lipski Award
   id: 25
   author-image: images/optimized/cfc-2023-600x600/michał_nowicki.webp
+  slides: docs/lipski_talk_25.pdf
 
 - author-name: Adam Polak
   title: "The story of explainable clustering"
@@ -455,6 +480,7 @@
   session: Witold Lipski Award
   id: 26
   author-image: images/empty.png
+  slides: docs/lipski_talk_26.pdf
 
 - author-name: Błażej Osiński
   title: "Towards Efficient Machine Learning for Sequential Decision Making"

@@ -77,6 +77,15 @@ Expects following parameters:
             <h4 style="margin-top: 35px; margin-bottom: 0px;"><strong><i class="fa-solid fa-file"></i> Description:</strong></h4> 
             {{ talk.desc-md | markdownify }}
             {% endif %}
+            {% if talk.slides %}
+                <a class="btn btn-default" href="{{ talk.slides | relative_url }}"><i class="fa-solid fa-file-pdf"></i> slides</a>
+            {% endif %}
+            {% if talk.poster %}
+                <a class="btn btn-default" href="{{ talk.poster | relative_url }}"><i class="fa-solid fa-file-pdf"></i> poster</a>
+            {% endif %}
+            {% if talk.video %}
+                <a class="btn btn-default" href="{{ talk.video | relative_url }}"><i class="fa-solid fa-youtube"></i> recording</a>
+            {% endif %}
             {% if talk.abstract %}
             <div>
             <h4 style="margin-top: 35px; margin-bottom: 0px;"><strong><i class="fa-solid fa-file"></i> Abstract:</strong></h4>

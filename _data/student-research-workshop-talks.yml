@@ -29,10 +29,11 @@
   co-authors: Jan Dubiński
   date: Thursday / 26 October
   time: 8:10 - 8:30
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 1
   author-image: images/optimized/cfc-2023-600x600/antoni_kowalczuk.webp
+  slides: docs/srw_talk_1.pdf
 
 - author-name: Szymon Haponiuk
   title: "Solver-free neural ordinary differential equations for forecasting long horizon time series"
@@ -44,10 +45,11 @@
   co-authors: Jacek Cyranka
   date: Thursday / 26 October
   time: 8:30 - 8:50
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 2
   author-image: images/empty.png
+  slides: docs/srw_talk_2.pdf
 
 - author-name: Jakub Krajewski
   title: "Fine-grained Mixture-of-Experts"
@@ -59,10 +61,11 @@
   co-authors: Marek Cygan, Jan Ludziejewski, Maciej Pióro, Szymon Antoniak, Tomasz Odrzygóźdź, Sebastian Jaszczur, Michał Krutul
   date: Thursday / 26 October
   time: 8:50 - 9:10
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 3
   author-image: images/optimized/cfc-2023-600x600/jakub_krajewski.webp
+  slides: docs/srw_talk_3.pdf
 
 - author-name: Krzysztof Jankowski
   title: "GARAGE: Generative-Augmented Retrieval Assisting Generation Enhancement"
@@ -74,10 +77,11 @@
   co-authors: Michał Janik, Michał Grotkowski, Antoni Hanke, Grzegorz Preibisch
   date: Thursday / 26 October
   time: 9:10 - 9:30
-  room: TBA
+  room: Main Lecture Hall
   session:
   id: 4
   author-image: images/optimized/cfc-2023-600x600/krzysztof_jankowski.webp
+  slides: docs/srw_talk_4.pdf
 
 - author-name: Sebastian Chwilczyński
   title: "Random Similarity Isolation Forest - Outlier Detection for Multimodal Data"
@@ -99,10 +103,11 @@
   co-authors: 
   date: Thursday / 26 October
   time: 9:30 - 9:50
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 5
   author-image: images/optimized/cfc-2023-600x600/sebastian_chwilczyński.webp
+  slides: docs/srw_talk_5.pdf
 
 - author-name: Maksymilian Kulicki
   title: "Self-guided semantic segmentation"
@@ -118,10 +123,11 @@
   co-authors: Osman Ülger
   date: Thursday / 26 October
   time: 9:50 - 10:10
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 6
   author-image: images/optimized/cfc-2023-600x600/maksymilian_kulicki.webp
+  slides: docs/srw_talk_6.pdf
 
 - author-name: Pawel Knap
   title: "Energy Storage in the Smart Grid: a Multi-Agent Deep Reinforcement Learning Approach"
@@ -137,10 +143,11 @@
   co-authors: 
   date: Thursday / 26 October
   time: 10:10 - 10:30
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 7
   author-image: images/empty.png
+  slides: docs/srw_talk_7.pdf
 
 - author-name: Anjitha John William Mini Latha
   title: "Deep learning based distance estimation of galaxies"
@@ -152,8 +159,9 @@
   co-authors: Maciej Bilicki, Priyanka Jalan
   date: Thursday / 26 October
   time: 10:30 - 10:50
-  room: TBA
+  room: Main Lecture Hall
   session: 
   id: 8
   author-image: images/optimized/cfc-2023-600x600/anjitha_john_william_mini_latha.webp
+  slides: docs/srw_talk_8.pdf
 

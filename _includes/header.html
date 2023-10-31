@@ -13,7 +13,11 @@
                     <h3 class="event-date-location">{{ site.header.date-location }}</h3>
                     {% endif %}
                     
-                    {% if site.header.countdown-date %}
+                    {% if site.header.countdown-overwrite %}
+                    <h3 id="event-countdown" class="event-countdown">
+                        {{ site.header.countdown-overwrite }}
+                    </h3>
+                    {% else if site.header.countdown-date %}
                     <h3 id="event-countdown" class="event-countdown">
                         {% if site.header.countdown-text %}
                         <div class="event-countdown-text">{{ site.header.countdown-text }}</div>
