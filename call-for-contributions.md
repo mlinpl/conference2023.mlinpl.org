@@ -2,10 +2,9 @@
 layout: page
 title: Call for Contributions (CfC)
 permalink: /call-for-contributions
-mlinpl-inline-logo: <span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">Conference 2023</span></span>
 ---
 
-We are excited to invite you to submit proposals for **contributed talks and posters** for **{{ page.mlinpl-inline-logo }}** and **Student Research Workshop**.
+We are excited to invite you to submit proposals for **contributed talks and posters** for **{{ site.inline-logo }}** and **Student Research Workshop**.
 
 <ul class="list-inline banner-social-buttons">
     <li>
@@ -66,7 +65,10 @@ The co-authors will have a guaranteed option of buying a ticket in early bird, p
 
 ## Awards
 
-The best talks and posters from the Main Conference will be awarded with gift cards. Winners will be selected in two categories: Audience Award and Scientific Board Award.
+The best contributed talks and posters from the Main Conference will be awarded with gift cards. The winners will be decided by the audience votes.
+
+**This year winners can be found [here]({{ "./cfc-awards" | relative_url }}).**
+
 
 <!-- ## Submit your talk/poster proposal
 
@@ -83,10 +85,10 @@ The best talks and posters from the Main Conference will be awarded with gift ca
 </ul>
 
 We look forward to receiving your talk and poster proposals!
-Join us in shaping **{{ page.mlinpl-inline-logo }}**! -->
+Join us in shaping **{{ site.inline-logo }}**! -->
 
 ## Instructions for preparing Contributed Talk and Poster
 
-The exact guidelines for preparing your talk and poster can be found [here]({{ "./cfc-instructions" | relative_url }}).
+**The exact guidelines for preparing your talk and poster can be found [here]({{ "./cfc-instructions" | relative_url }}).**
 
 You can contact us at <a href="mailto:contributions@conference.mlinpl.org">contributions@conference.mlinpl.org</a> in case you have any questions regarding Call for Contributions.

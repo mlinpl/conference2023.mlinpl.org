@@ -2,14 +2,13 @@
 layout: page
 title: Call for Contributions - Terms and Conditions
 permalink: /cfc-terms-and-conditions
-mlinpl-inline-logo: <span class="logo"><span class="main-name">ML <span class="emph">i</span>n PL</span> <span class="sub-name">Conference 2023</span></span>
 ---
 
-Rules of contributed talks and posters acceptance to the {{ page.mlinpl-inline-logo }} and poster competition (hereinafter, the "Rules of Call for Contributions")
+Rules of contributed talks and posters acceptance to the {{ site.inline-logo }} and poster competition (hereinafter, the "Rules of Call for Contributions")
 
 ## § 1. The purpose and scope of the Competition
 
-1. The Call for Contributions Competition (hereinafter, the "Competition") aims to disseminate knowledge in the field of data science, machine learning and artificial intelligence by selecting talks and posters to be presented at {{ mlinpl-inline-logo }} (the “Conference”) or during Student Research Workshop (hereinafter, the “Workshop”) and pick the best posters and talks related to these areas which will be then presented during the Conference . 
+1. The Call for Contributions Competition (hereinafter, the "Competition") aims to disseminate knowledge in the field of data science, machine learning and artificial intelligence by selecting talks and posters to be presented at {{ site.inline-logo }} (the “Conference”) or during Student Research Workshop (hereinafter, the “Workshop”) and pick the best posters and talks related to these areas which will be then presented during the Conference . 
 2. The scope of the Competition includes, but is not limited to:
     * General Machine Learning: Active Learning, Classification, Clustering, Learning Theory, Online Learning, Ranking, Regression, Semi-supervised and Unsupervised learning, Optimization, Sparsity,
     * Deep Learning: Architectures, Generative Models, Optimization for Deep Networks, Recurrent Networks,
