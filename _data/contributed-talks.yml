@@ -216,7 +216,6 @@
   session: CfC Session 4
   id: 12
   author-image: images/optimized/cfc-2023-600x600/kamil_deja.webp
-  slides: docs/cfc_talk_12.pdf
 
 - author-name: Piotr Januszewski
   title: "Mastering MLOps at a Reasonable Scale at Allegro"
