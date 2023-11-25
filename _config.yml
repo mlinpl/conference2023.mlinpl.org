@@ -41,7 +41,7 @@ header:
   date-location: 26 - 29 October / Warsaw, Poland
   # Countdown settings
   countdown-date: "2023-10-26T08:00:00"
-  countdown-overwrite: "Thank you for participating!"
+  countdown-overwrite: 'Thank you for participating!</br>See you <a href="https://conference.mlinpl.org">next year!</a>'
   arrow-url: "#tickets"
 
 
