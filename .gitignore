@@ -6,9 +6,13 @@ vendor
 
 # Ours
 _config.yml.bak
+images/photos/original
 
 # MacOS
 .DS_Store
+
+# VS Code
+.vscode
 
 # JetBrains IDEs
 .idea
