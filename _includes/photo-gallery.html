@@ -7,7 +7,7 @@ Expects following parameters: photo-gallery-data
     <div class="col-xs-12">
         <h2>{{ photo-set.name }}</h2>
     </div>
-    <div class="col-xs-12 d-flex text-center">
+    <div class="col-xs-12 d-flex text-center" style="margin-bottom: 70px;">
         {% for photo in photo-set.photos %}
         <div style="text-align: center; width: 230px; margin: 20px;">
             <a href="{{ photo-set.src-dir | relative_url }}/{{ photo.filename }}" target="_blank"
