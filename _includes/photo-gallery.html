@@ -9,14 +9,14 @@ Expects following parameters: photo-gallery-data
     </div>
     <div class="col-xs-12 d-flex text-center" style="margin-bottom: 70px;">
         {% for photo in photo-set.photos %}
-        <div style="text-align: center; width: 230px; margin: 20px;">
+        <div style="text-align: center; width: 248px; margin: 14px;">
             <a href="{{ photo-set.src-dir | relative_url }}/{{ photo.filename }}" target="_blank"
                 data-pswp-src="{{ photo-set.src-dir | relative_url }}/{{ photo.filename }}"
                 data-pswp-width="{{ photo.width }}" 
                 data-pswp-height="{{ photo.height }}"
             >
                 <img class="photo" src="{{ photo-set.thumbnails-dir | relative_url }}/{{ photo.filename }}" 
-                    style="height: auto; max-width: 230px; max-height: 230px;">
+                    style="height: auto; max-width: 240px; max-height: 240px;">
             </a>
         </div>
         {% endfor %}
