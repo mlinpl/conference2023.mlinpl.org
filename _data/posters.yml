@@ -529,7 +529,7 @@
     Expanding on our joint training approach, we introduce a VCE method leveraging shared generative and discriminative representations. The method selectively removes class-specific features from the original input and recreates removed features by replacing them with target class attributes using the single joint diffusion model and classifier guidance. To validate the generated counterfactual samples, we ensure that (1) both the initial and counterfactual samples are confidently classified as the desired target class by an independently trained model (2) they preserve realism by close resemblance to natural images, and (3) they minimize semantic modifications necessary for class change, maintaining proximity to the original image.
     We demonstrate the practicality of our explainable classification in the medical context by applying it to several medical benchmark datasets from MedMNIST. Our approach successfully generates realistic counterfactual samples across multiple medical domains, regardless of the target features area.
   author-bio: >- 
-    Joanna Kaleta is a Computer Science graduate from Warsaw University of Technology who is currently a Ph.D. student at Sano - Center for Computational Medicine. Her research intrest lies in the exploration of innovative Computer Vision applications for computed assisted surgery and diagnosis.
+    Joanna Kaleta is a Computer Science graduate from Warsaw University of Technology who is currently a Ph.D. student at Sano - Center for Computational Medicine. Her research interest lies in the exploration of innovative Computer Vision applications for computed assisted surgery and diagnosis.
   co-authors: 
   date: Friday / 27 October
   time: 16:30 - 18:30
@@ -860,7 +860,7 @@
   abstract: >- 
     We present multitask neural networks on example of persuasion techniques detection in news articles paragraphs. First we discuss multitask networks in general, possible architectures, applications, challenges. Then we present our architecture used for detectiong persuasion techniques. We use hierarchical multitask neural networks combined with transformers. Span detection is an auxiliary task that helps in the main task: identifying propaganda techniques.
   author-bio: >- 
-    Katarzyna Barraniak is a researcher that focuses on Neural Networks, Natural Language Processing and it's applications. She works on media bias detection in news articles. She worked in several companies, conduct her own research and teach sudents machine learning and related staff.
+    Katarzyna Barraniak is a researcher that focuses on Neural Networks, Natural Language Processing and it's applications. She works on media bias detection in news articles. She worked in several companies, conduct her own research and teach students machine learning and related staff.
   co-authors: 
   date: Saturday / 28 October
   time: 10:00 - 12:00

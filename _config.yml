@@ -42,7 +42,7 @@ header:
   # Countdown settings
   countdown-date: "2023-10-26T08:00:00"
   countdown-overwrite: 'Thank you for participating!</br>Find the <a class="page-scroll" href="#aftermovie"><i class="fa-solid fa-photo-film"></i> aftermovie and photos</a> below<br>and we hope to see you <a href="https://conference.mlinpl.org">next year!</a>'
-  arrow-url: "#tickets"
+  arrow-url: "#aftermovie"
 
 
 # Navigation settings
