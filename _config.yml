@@ -57,6 +57,8 @@ navigation:
         url: "/about-ml-in-pl-conference"
       - name: "/ Photos"
         url: "/photos"
+      - name: "/ Current edition"
+        url: "https://conference.mlinpl.org"
 
   - name: "/ Program"
     url: "#speakers"
