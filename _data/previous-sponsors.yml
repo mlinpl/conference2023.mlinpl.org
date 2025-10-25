@@ -13,9 +13,6 @@
 - name: deepsense.ai
   image: images/optimized/previous-sponsors-300x300/deepsense.ai.webp
 
-- name: DeepMind
-  image: images/optimized/previous-sponsors-300x300/DeepMind.webp
-
 - name: Jane Street
   image: images/optimized/previous-sponsors-300x300/JaneStreet.webp
 
@@ -51,9 +48,6 @@
 
 - name: alphamoon
   image: images/optimized/previous-sponsors-300x300/alphamoon.webp
-
-- name: Google
-  image: images/optimized/previous-sponsors-300x300/Google.webp
 
 - name: Nvidia
   image: images/optimized/previous-sponsors-300x300/Nvidia.webp
