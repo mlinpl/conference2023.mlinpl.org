@@ -12,10 +12,10 @@ permalink: /terms-of-participation
 1. Whenever the terms defined hereunder are used in Terms of Participation, they should be understood as follows:
     1. ML in PL Conference – a conference carried out by the Organizer from 26 to 29 of October 2023 at the Copernicus Science Centre, on 29 October at the Faculty of Mathematics and Information Sciences of the Warsaw University of Technology, and on 26 October at another facility designated by the Organiser.
     2. Organizer – PL in ML Association, Aleksandra Kraushara 1A/24 street, Warszawa 02-505 KRS: 0000754960, REGON: 381658081, NIP: 1182183164. 
-    3. Conference - a series of Lectures conducted by experts in the field of ML in PL Conference topics, described at [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org).
+    3. Conference - a series of Lectures conducted by experts in the field of ML in PL Conference topics, described at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}).
     4. Registration Form – Internet registration form available on the Conference website on 11 September which is submitted by the Candidate in order to qualify for the Conference.
     5. Conference Pass - a ticket sent as a pdf file to the e-mail addresses of the Participants, confirming the right to participate in the Conference.
-    6. Committee – a group of organizers of the Conference and the Workshops indicated on the Conference website at [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org) and other members of the personnel of the Organizer. 
+    6. Committee – a group of organizers of the Conference and the Workshops indicated on the Conference website at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) and other members of the personnel of the Organizer. 
     7. Early Bird Period – the period from 1 August to 1 September, with results presented on 4 September and the deadline for purchase of a lower Conference Pass price until 10 September.
     8. Standard Period – the period from 11 September, during which the Candidates can register for the Conference through the Registration Form.
     9. Candidate – a natural person who submitted the Registration Form in order to qualify to the Conference .
@@ -48,16 +48,16 @@ permalink: /terms-of-participation
 3. CONDITIONS FOR REGISTRATION IN THE STANDARD PERIOD
     10. For the Standard Period, the qualification of a Candidate for a Conference will depend on the order of submission of the Registration Form together with making a payment (first come-first served).
     11. After submission of the Registration Form and finalizing the payment, the Organizer will send Candidates an e-mail message containing the Conference Pass under the condition that the Candidate managed to pay the fee before other Candidates.
-    12. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org) and by closing the possibility of submission of the Registration Form.
+    12. If the maximum number of Participants is reached, the Organiser will inform about the completion of the Standard Period registration in particular by placing an announcement on the website [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) and by closing the possibility of submission of the Registration Form.
 4. REGISTRATION FOR THE LECTURES
-    13. The Organizer will enable Participants to sign up for specific Lectures presented during the Conference. Registration for the lectures will take place through the website - [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org).
+    13. The Organizer will enable Participants to sign up for specific Lectures presented during the Conference. Registration for the lectures will take place through the website - [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}).
     14. For safety reasons, the Organizer shall determine internally the maximum number of Participants at a given Lecture.
     15. The possibility of taking part in a given Lecture will depend on the order of online applications for a given Lecture (first come-first served).
     16. Due to the limited number of Lecture participants, the Organizer does not guarantee the possibility of taking part in a specific Lecture.
 
 
 ## § 3. PAYMENTS
-   1. The amount of fee for Candidates registering to the Conference and Workshops is going to be presented on the website at the [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org) address.
+    1. The amount of fee for Candidates registering to the Conference and Workshops is going to be presented on the website at the [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}) address.
    2. The amount of fee will differ depending on: the date of submitting the Registration Form (Early Bird Period, Regular Period), whether the Candidate is a student or not and whether he is willing to participate in a Conference or the Workshops.
    3. For the avoidance of doubts, ‘student’ shall be understood as a person who possesses (a) for students from Poland - a valid student ID card, issued as specified by the Minister of National Education (MEN-I/1 or MEN-I/2 or MEN-I/50/2, MEN-I/50a/2 or MEN-I/50b/2) or the Minister of Culture and National Heritage (ART/100 or ART/102); and  (b) for foreign students - a valid ISIC (International Student Identity Card) for a given calendar year.
    4. The Candidate shall pay the fee due to Organizer to the bank account indicated in the e-mail sent by the Organizer or by other electronical means indicated by the Organizer (e.g. PayU or PayPal).
@@ -72,7 +72,7 @@ permalink: /terms-of-participation
     1. the right to Participate in the Workshops in accordance with the Terms of Participation;
     2. a hot meal served on the day of the Workshops;
     3. the provision of snacks and hot drinks during coffee breaks taking place during the day of Workshops.
-3. The programme of the Conference and Workshops will be available on the website at [https://conference2023.mlinpl.org](https://conference2023.mlinpl.org).
+3. The programme of the Conference and Workshops will be available on the website at [{{ "/" | absolute_url }}]({{ "/" | absolute_url }}).
 
 
 ## § 5. CONSENT TO THE USE OF PARTICIPANT’S IMAGE

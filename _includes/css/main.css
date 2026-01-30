@@ -561,7 +561,7 @@ ol > li > ol > li > ol > li:before {
     width: 100%;
     padding: 50px 0;
     color: #000;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
+    background: url({{ "/img/downloads-bg.jpg" | relative_url }}) no-repeat center center scroll;
     background-color: {{ site.color.background }};
     -webkit-background-size: cover;
     -moz-background-size: cover;

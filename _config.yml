@@ -27,8 +27,8 @@ description: >-
   ML in PL Conference 2023 is an event focused on the best of Machine Learning both in academia and in business.
 main-image: images/mlinpl-conference-2023-logo-black.png
 twitter-username: "@MLinPL"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://conference2023.mlinpl.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mlinpl_submodules_poc/2023" # the subpath of your site, e.g. /blog
+url: "https://mlinpl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: ML in PL Association
   url: https://mlinpl.org
