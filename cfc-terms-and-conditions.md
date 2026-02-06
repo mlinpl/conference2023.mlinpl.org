@@ -21,7 +21,7 @@ Rules of contributed talks and posters acceptance to the {{ site.inline-logo }} 
 ## § 2. Entities involved in the organization of the Competition
 
 1. The organizer of the Competition is ML in PL Association (hereinafter, the  "Organizer"), who has appointed a competition’s committee .
-2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Scientific Board members ([https://conference2023.mlinpl.org/#scientific-board](https://conference2023.mlinpl.org/#scientific-board)), Invited Speakers ([https://conference2023.mlinpl.org/#invited-speakers](https://conference2023.mlinpl.org/#invited-speakers)), Student Research Workshop and Organizer representants ([https://conference2023.mlinpl.org/#organizers](https://conference2023.mlinpl.org/#organizers)).
+2. The Organizer will appoint an awards committee (hereinafter the "Commission") that might include, i.a., Scientific Board members ({{ "/#scientific-board" | absolute_url }}), Invited Speakers ({{ "/#invited-speakers" | absolute_url }}), Student Research Workshop and Organizer representants ({{ "/#organizers" | absolute_url }}).
 
 ## § 3. Conditions for taking part in the Competition
 
@@ -33,7 +33,7 @@ Rules of contributed talks and posters acceptance to the {{ site.inline-logo }} 
 
 1. The Competition will start on 1 June 2023 and end on 1 September 2023 (hereinafter, the "Duration of the Competition").
 2. The registration for the Competition will be open from 1 June 2023 to 1 September 2023.
-3. The registration for the Competition takes place via the registration form in the Call for Contribution section available at https://conference2023.mlinpl.org/call-for-contributions (hereinafter, the "Website"). 
+3. The registration for the Competition takes place via the registration form in the Call for Contribution section available at {{ "/call-for-contributions" | absolute_url }} (hereinafter, the "Website"). 
 4. In order to participate in the Competition, the Participant is obliged to submit the registration form on the Website through which the Participant provides:
    1. his/her personal data, 
    2. his/her preference towards presenting a talk on Main Conference or Student Research Workshop
@@ -83,7 +83,7 @@ Rules of contributed talks and posters acceptance to the {{ site.inline-logo }} 
 7. Due to the fact that the result of participation in the Competition may be awarding the prize to the Participant on the terms described in the Rules of Call for Contributions, no additional remuneration is due for granting a license or transfer of rights.
 
 ## § 8. Processing of personal data
-1. The details concerning processing of Participant’s personal data are described in the [Privacy Policy](https://conference2023.mlinpl.org/privacy-policy).
+1. The details concerning processing of Participant’s personal data are described in the [Privacy Policy]({{ "/privacy-policy" | absolute_url }}).
 
 ## § 9. Complaints
 
